@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "cos(sqrt(3969/1369)*π)^(1/7)",
+        "answer": "0.9284"
+    },
+    {
+        "id": 201,
+        "expression": "sqrt((log 2(3192)))",
+        "answer": "3.4118"
+    },
+    {
+        "id": 202,
+        "expression": "cos(tan(-5/17π)*π)",
+        "answer": "-0.5246"
+    },
+    {
+        "id": 203,
+        "expression": "log 5(tan(cos(150°)*π))",
+        "answer": "-0.4994"
+    },
+    {
+        "id": 204,
+        "expression": "log 7(sqrt(5041/36))",
+        "answer": "1.2698"
+    },
+    {
+        "id": 205,
+        "expression": "cos((log 5(5112))*π)",
+        "answer": "-0.573"
+    },
+    {
+        "id": 206,
+        "expression": "sin((log 2(4687))*π)",
+        "answer": "0.5736"
+    },
+    {
+        "id": 207,
+        "expression": "sqrt((cos(-8/15π)^2))",
+        "answer": "0.1045"
+    },
+    {
+        "id": 208,
+        "expression": "cos(cos(tan(154°)*π)*π)",
+        "answer": "0.9927"
+    },
+    {
+        "id": 209,
+        "expression": "tan(π/20)^(1/9)",
+        "answer": "0.8149"
+    },
+    {
+        "id": 210,
+        "expression": "cos(cos((80%27)*π)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 211,
+        "expression": "31%((-27)^6)",
+        "answer": "31.0"
+    },
+    {
+        "id": 212,
+        "expression": "ln((sin(-5/19π)^2))",
+        "answer": "-0.6138"
+    },
+    {
+        "id": 213,
+        "expression": "(30%50)%18",
+        "answer": "12.0"
+    },
+    {
+        "id": 214,
+        "expression": "sqrt(832)^2",
+        "answer": "832.0"
+    },
+    {
+        "id": 215,
+        "expression": "cos(cos(-10/14π)*π)^2",
+        "answer": "0.1431"
+    },
+    {
+        "id": 216,
+        "expression": "log 3(sin(sqrt(12321/2401)*π))",
+        "answer": "-0.2737"
+    },
+    {
+        "id": 217,
+        "expression": "24%(75%(10!))",
+        "answer": "24.0"
+    },
+    {
+        "id": 218,
+        "expression": "tan(cos(-173°)*π)",
+        "answer": "0.0234"
+    },
+    {
+        "id": 219,
+        "expression": "sqrt(((103/68)^7))",
+        "answer": "4.2771"
+    },
+    {
+        "id": 220,
+        "expression": "tan(((99/157)^6)*π)",
+        "answer": "0.2001"
+    },
+    {
+        "id": 221,
+        "expression": "cos((52%20)*π)!",
+        "answer": "1.0"
+    },
+    {
+        "id": 222,
+        "expression": "(((-27)^5)^8)%70",
+        "answer": "1.0"
+    },
+    {
+        "id": 223,
+        "expression": "67%(5!)",
+        "answer": "67.0"
+    },
+    {
+        "id": 224,
+        "expression": "ln(tan(tan(-2.42π)*π))",
+        "answer": "-1.0692"
+    },
+    {
+        "id": 225,
+        "expression": "41%(((-3)^6)%62)",
+        "answer": "41.0"
+    },
+    {
+        "id": 226,
+        "expression": "cos((82653950016^(1/6)^3)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 227,
+        "expression": "sqrt((406067677556641/45949729863572161)^(1/8))",
+        "answer": "0.7441"
+    },
+    {
+        "id": 228,
+        "expression": "cos(ln(1722)*π)^2",
+        "answer": "0.0233"
+    },
+    {
+        "id": 229,
+        "expression": "sin((tan(π/28)^(1/3))*π)",
+        "answer": "0.9986"
+    },
+    {
+        "id": 230,
+        "expression": "cos((45%(10!))*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 231,
+        "expression": "tan(-64°)^6",
+        "answer": "74.2864"
+    },
+    {
+        "id": 232,
+        "expression": "tan(ln((log 7(5231)))*π)",
+        "answer": "17.3234"
+    },
+    {
+        "id": 233,
+        "expression": "tan((log 2(6220))*π)^8",
+        "answer": "6407.7344"
+    },
+    {
+        "id": 234,
+        "expression": "cos((sin(-2.6π)^2)*π)",
+        "answer": "-0.9553"
+    },
+    {
+        "id": 235,
+        "expression": "cos(ln(sqrt(130))*π)",
+        "answer": "0.2066"
+    },
+    {
+        "id": 236,
+        "expression": "log 4(sin((log 4(6388))*π))",
+        "answer": "-0.1212"
+    },
+    {
+        "id": 237,
+        "expression": "61%((-3)^4)",
+        "answer": "61.0"
+    },
+    {
+        "id": 238,
+        "expression": "(log 9(2081))^(1/3)",
+        "answer": "1.515"
+    },
+    {
+        "id": 239,
+        "expression": "log 8(((410338673/37725479487783)^(1/7)^(1/7)))",
+        "answer": "-0.1122"
+    },
+    {
+        "id": 240,
+        "expression": "(((-9)^3)^6)%21",
+        "answer": "15.0"
+    },
+    {
+        "id": 241,
+        "expression": "cos(tan(sin(75°)*π)*π)",
+        "answer": "0.9436"
+    },
+    {
+        "id": 242,
+        "expression": "(94%(63%92))%87",
+        "answer": "31.0"
+    },
+    {
+        "id": 243,
+        "expression": "sqrt(cos(-80°))",
+        "answer": "0.4167"
+    },
+    {
+        "id": 244,
+        "expression": "cos((cos(91°)^2)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 245,
+        "expression": "((-76/126)^(-3))^7",
+        "answer": "-40803.3678"
+    },
+    {
+        "id": 246,
+        "expression": "sqrt(sqrt(sqrt(862)))",
+        "answer": "2.3278"
+    },
+    {
+        "id": 247,
+        "expression": "tan((log 4(2648))*π)",
+        "answer": "-1.5188"
+    },
+    {
+        "id": 248,
+        "expression": "cos((cos(177°)^2)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 249,
+        "expression": "2%(83%(7!))",
+        "answer": "2.0"
+    },
+    {
+        "id": 250,
+        "expression": "log 10((sin(168°)^(1/7)))",
+        "answer": "-0.0974"
+    },
+    {
+        "id": 251,
+        "expression": "log 8(cos(-80°))",
+        "answer": "-0.8419"
+    },
+    {
+        "id": 252,
+        "expression": "sqrt(sin(tan(π/10)*π))",
+        "answer": "0.9233"
+    },
+    {
+        "id": 253,
+        "expression": "cos(6°)^(1/7)",
+        "answer": "0.9992"
+    },
+    {
+        "id": 254,
+        "expression": "sin(cos(ln(9063)*π)*π)",
+        "answer": "-0.1911"
+    },
+    {
+        "id": 255,
+        "expression": "sqrt(((85/102)^(-2)))",
+        "answer": "1.2"
+    },
+    {
+        "id": 256,
+        "expression": "cos(66°)^(1/9)",
+        "answer": "0.9049"
+    },
+    {
+        "id": 257,
+        "expression": "log 5((((60/10)^(-3))^(1/9)))",
+        "answer": "-0.3711"
+    },
+    {
+        "id": 258,
+        "expression": "cos((84%75)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 259,
+        "expression": "(sqrt(14641/3136)^10)^(1/3)",
+        "answer": "13.0414"
+    },
+    {
+        "id": 260,
+        "expression": "sin(tan(5.63π)*π)",
+        "answer": "-0.8286"
+    },
+    {
+        "id": 261,
+        "expression": "sin(((-93/154)^6)*π)",
+        "answer": "0.1518"
+    },
+    {
+        "id": 262,
+        "expression": "cos((55%69)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 263,
+        "expression": "sqrt(sqrt(sqrt(477)))",
+        "answer": "2.1618"
+    },
+    {
+        "id": 264,
+        "expression": "cos((21!)*π)^(1/5)",
+        "answer": "0.859"
+    },
+    {
+        "id": 265,
+        "expression": "ln((cos(8.62π)^2))",
+        "answer": "-1.9987"
+    },
+    {
+        "id": 266,
+        "expression": "sqrt(tan(-3.97π))",
+        "answer": "0.3075"
+    },
+    {
+        "id": 267,
+        "expression": "((31%3)!)!",
+        "answer": "1.0"
+    },
+    {
+        "id": 268,
+        "expression": "sin(sin(-22°)*π)^2",
+        "answer": "0.8527"
+    },
+    {
+        "id": 269,
+        "expression": "tan(sqrt(9216/2601)*π)",
+        "answer": "-0.3874"
+    },
+    {
+        "id": 270,
+        "expression": "sin(tan(154°)*π)^2",
+        "answer": "0.9985"
+    },
+    {
+        "id": 271,
+        "expression": "sqrt(((log 2(5249))^6))",
+        "answer": "1887.2365"
+    },
+    {
+        "id": 272,
+        "expression": "cos(cos(-173°)*π)",
+        "answer": "-0.9997"
+    },
+    {
+        "id": 273,
+        "expression": "cos(sqrt(33)*π)",
+        "answer": "0.6949"
+    },
+    {
+        "id": 274,
+        "expression": "(5!)%80",
+        "answer": "40.0"
+    },
+    {
+        "id": 275,
+        "expression": "53%(24%31)",
+        "answer": "5.0"
+    },
+    {
+        "id": 276,
+        "expression": "sqrt((3521614606208/35831808)^(1/7))",
+        "answer": "2.273"
+    },
+    {
+        "id": 277,
+        "expression": "tan((cos(8.54π)^2)*π)",
+        "answer": "0.0494"
+    },
+    {
+        "id": 278,
+        "expression": "sqrt(cos(π/5))",
+        "answer": "0.8995"
+    },
+    {
+        "id": 279,
+        "expression": "tan((((-19)^3)^5)*π)",
+        "answer": "-3.4096"
+    },
+    {
+        "id": 280,
+        "expression": "tan((tan(8.16π)^(1/7))*π)",
+        "answer": "-0.2632"
+    },
+    {
+        "id": 281,
+        "expression": "sin((log 4(6585))*π)",
+        "answer": "0.88"
+    },
+    {
+        "id": 282,
+        "expression": "sin(sqrt(5929/26244)*π)",
+        "answer": "0.997"
+    },
+    {
+        "id": 283,
+        "expression": "cos((59%(10!))*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 284,
+        "expression": "11%(95%(37^9))",
+        "answer": "11.0"
+    },
+    {
+        "id": 285,
+        "expression": "(log 4(sin(4.16π)))^2",
+        "answer": "0.2775"
+    },
+    {
+        "id": 286,
+        "expression": "tan(sqrt(363)*π)^(1/3)",
+        "answer": "0.5503"
+    },
+    {
+        "id": 287,
+        "expression": "cos(((-39135393)^(1/5)^(-3))*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 288,
+        "expression": "log 2(cos(16°))",
+        "answer": "-0.057"
+    },
+    {
+        "id": 289,
+        "expression": "cos((76%50)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 290,
+        "expression": "sqrt((tan(-86°)^4))",
+        "answer": "204.5091"
+    },
+    {
+        "id": 291,
+        "expression": "log 7(ln(5971))",
+        "answer": "1.1114"
+    },
+    {
+        "id": 292,
+        "expression": "26%(59%(12!))",
+        "answer": "26.0"
+    },
+    {
+        "id": 293,
+        "expression": "cos((91%(11!))*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 294,
+        "expression": "sin(sqrt(361/3969)*π)",
+        "answer": "0.8119"
+    },
+    {
+        "id": 295,
+        "expression": "tan(π/7)^(1/5)",
+        "answer": "0.864"
+    },
+    {
+        "id": 296,
+        "expression": "99%(50%93)",
+        "answer": "49.0"
+    },
+    {
+        "id": 297,
+        "expression": "sin((tan(6.08π)^(1/5))*π)",
+        "answer": "0.6802"
+    },
+    {
+        "id": 298,
+        "expression": "sin(sqrt((9^(-3)))*π)",
+        "answer": "0.1161"
+    },
+    {
+        "id": 299,
+        "expression": "cos((((-4)^8)%34)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 300,
+        "expression": "sin(cos(6.61π)*π)",
+        "answer": "-0.8744"
+    },
+    {
+        "id": 301,
+        "expression": "cos(tan(56°)*π)",
+        "answer": "-0.0548"
+    },
+    {
+        "id": 302,
+        "expression": "cos(tan(π/3)*π)^(1/7)",
+        "answer": "0.9436"
+    },
+    {
+        "id": 303,
+        "expression": "log 6(tan(π/6))",
+        "answer": "-0.3066"
+    },
+    {
+        "id": 304,
+        "expression": "((-21/15)^(-2))^(1/3)",
+        "answer": "0.7991"
+    },
+    {
+        "id": 305,
+        "expression": "(log 5(4611))^6",
+        "answer": "20741.294"
+    },
+    {
+        "id": 306,
+        "expression": "ln((23^(-2)))",
+        "answer": "-6.271"
+    },
+    {
+        "id": 307,
+        "expression": "cos(-164°)^2",
+        "answer": "0.924"
+    },
+    {
+        "id": 308,
+        "expression": "cos(13841287201^(1/6)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 309,
+        "expression": "58%(70%74)",
+        "answer": "58.0"
+    },
+    {
+        "id": 310,
+        "expression": "(cos(1.26π)^2)^(1/9)",
+        "answer": "0.9192"
+    },
+    {
+        "id": 311,
+        "expression": "tan(((81/126)^6)*π)^(1/3)",
+        "answer": "0.6086"
+    },
+    {
+        "id": 312,
+        "expression": "9%(11!)",
+        "answer": "9.0"
+    },
+    {
+        "id": 313,
+        "expression": "log 5(sqrt(1089/144))",
+        "answer": "0.6285"
+    },
+    {
+        "id": 314,
+        "expression": "log 8((log 10(7732)))",
+        "answer": "0.653"
+    },
+    {
+        "id": 315,
+        "expression": "cos((71%(5!))*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 316,
+        "expression": "sqrt(((log 9(9824))^3))",
+        "answer": "8.5575"
+    },
+    {
+        "id": 317,
+        "expression": "19%(20!)",
+        "answer": "19.0"
+    },
+    {
+        "id": 318,
+        "expression": "cos((20^6)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 319,
+        "expression": "cos(109°)^2",
+        "answer": "0.106"
+    },
+    {
+        "id": 320,
+        "expression": "cos(((79%57)%32)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 321,
+        "expression": "tan((tan(152°)^2)*π)",
+        "answer": "1.23"
+    },
+    {
+        "id": 322,
+        "expression": "ln(1454)^4",
+        "answer": "2812.0321"
+    },
+    {
+        "id": 323,
+        "expression": "cos((90%59)*π)^8",
+        "answer": "1.0"
+    },
+    {
+        "id": 324,
+        "expression": "sin(cos(((-96/195)^3)*π)*π)",
+        "answer": "0.2164"
+    },
+    {
+        "id": 325,
+        "expression": "sin((18!)*π)",
+        "answer": "-0.9995"
+    },
+    {
+        "id": 326,
+        "expression": "cos((53%3)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 327,
+        "expression": "log 5((tan(π/9)^(1/5)))",
+        "answer": "-0.1256"
+    },
+    {
+        "id": 328,
+        "expression": "tan((log 3(1842))*π)",
+        "answer": "-0.5346"
+    },
+    {
+        "id": 329,
+        "expression": "sqrt(tan(sqrt(790)*π))",
+        "answer": "0.5909"
+    },
+    {
+        "id": 330,
+        "expression": "cos((9!)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 331,
+        "expression": "55%(22667121^(1/4)%98)",
+        "answer": "55.0"
+    },
+    {
+        "id": 332,
+        "expression": "(3!)!",
+        "answer": "720.0"
+    },
+    {
+        "id": 333,
+        "expression": "67%(4!)",
+        "answer": "19.0"
+    },
+    {
+        "id": 334,
+        "expression": "sqrt((log 5(203)))",
+        "answer": "1.8169"
+    },
+    {
+        "id": 335,
+        "expression": "sin(sqrt(cos(-54°))*π)",
+        "answer": "0.6691"
+    },
+    {
+        "id": 336,
+        "expression": "(26^2)%74",
+        "answer": "10.0"
+    },
+    {
+        "id": 337,
+        "expression": "cos((24^5)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 338,
+        "expression": "cos((84%4)*π)!",
+        "answer": "1.0"
+    },
+    {
+        "id": 339,
+        "expression": "cos((85%2)*π)^6",
+        "answer": "1.0"
+    },
+    {
+        "id": 340,
+        "expression": "ln((log 3(sqrt(7396/144))))",
+        "answer": "0.5837"
+    },
+    {
+        "id": 341,
+        "expression": "cos(cos((4!)*π)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 342,
+        "expression": "sqrt(((-72/129)^6))",
+        "answer": "0.1739"
+    },
+    {
+        "id": 343,
+        "expression": "cos((12!)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 344,
+        "expression": "cos((96%77)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 345,
+        "expression": "cos(ln(9028)*π)^2",
+        "answer": "0.8891"
+    },
+    {
+        "id": 346,
+        "expression": "log 4(sin(tan(105°)*π))",
+        "answer": "-0.2115"
+    },
+    {
+        "id": 347,
+        "expression": "cos((log 3(9037))*π)",
+        "answer": "0.6093"
+    },
+    {
+        "id": 348,
+        "expression": "cos((10!)*π)!",
+        "answer": "1.0"
+    },
+    {
+        "id": 349,
+        "expression": "cos(sqrt(tan(π/3))*π)",
+        "answer": "-0.5462"
+    },
+    {
+        "id": 350,
+        "expression": "(sin(-168°)^2)^(1/9)",
+        "answer": "0.7054"
+    },
+    {
+        "id": 351,
+        "expression": "tan(π/28)^(1/7)",
+        "answer": "0.7321"
+    },
+    {
+        "id": 352,
+        "expression": "sqrt((log 9(7765)))",
+        "answer": "2.0191"
+    },
+    {
+        "id": 353,
+        "expression": "log 8((log 8(tan(-3/5π))))",
+        "answer": "-0.2958"
+    },
+    {
+        "id": 354,
+        "expression": "cos(-179°)^2",
+        "answer": "0.9997"
+    },
+    {
+        "id": 355,
+        "expression": "tan((log 5(4686))*π)",
+        "answer": "1.0109"
+    },
+    {
+        "id": 356,
+        "expression": "cos(((45%61)%99)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 357,
+        "expression": "sqrt(sqrt(7225/3844))",
+        "answer": "1.1709"
+    },
+    {
+        "id": 358,
+        "expression": "(sqrt(398)^(-3))^(1/9)",
+        "answer": "0.3687"
+    },
+    {
+        "id": 359,
+        "expression": "cos(sin(π/24)*π)",
+        "answer": "0.9171"
+    },
+    {
+        "id": 360,
+        "expression": "72%(((-23)^4)%92)",
+        "answer": "3.0"
+    },
+    {
+        "id": 361,
+        "expression": "sin(sqrt(3481/20164)*π)",
+        "answer": "0.965"
+    },
+    {
+        "id": 362,
+        "expression": "37%((31%25)!)",
+        "answer": "37.0"
+    },
+    {
+        "id": 363,
+        "expression": "tan((tan(-46°)^10)*π)",
+        "answer": "3.788"
+    },
+    {
+        "id": 364,
+        "expression": "cos((13!)*π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 365,
+        "expression": "sin(cos(π/27)*π)",
+        "answer": "0.0212"
+    },
+    {
+        "id": 366,
+        "expression": "cos((23%49)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 367,
+        "expression": "tan(sqrt(sqrt(3721/5476))*π)",
+        "answer": "-0.2976"
+    },
+    {
+        "id": 368,
+        "expression": "cos(cos((44^4)*π)*π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 369,
+        "expression": "log 8(((-49/119)^6))",
+        "answer": "-2.5602"
+    },
+    {
+        "id": 370,
+        "expression": "((38^4)%53)%99",
+        "answer": "10.0"
+    },
+    {
+        "id": 371,
+        "expression": "sqrt(sin(sin(-1.53π)*π))",
+        "answer": "0.1181"
+    },
+    {
+        "id": 372,
+        "expression": "cos(sin(-135°)*π)^2",
+        "answer": "0.3669"
+    },
+    {
+        "id": 373,
+        "expression": "cos((3%87)*π)^3",
+        "answer": "-1.0"
+    },
+    {
+        "id": 374,
+        "expression": "sin(sqrt(653)*π)",
+        "answer": "-0.9857"
+    },
+    {
+        "id": 375,
+        "expression": "tan((18!)*π)",
+        "answer": "-30.6049"
+    },
+    {
+        "id": 376,
+        "expression": "sqrt((log 10(516)))^5",
+        "answer": "12.1195"
+    },
+    {
+        "id": 377,
+        "expression": "(2%(71%80))!",
+        "answer": "2.0"
+    },
+    {
+        "id": 378,
+        "expression": "sqrt(ln(5429))^(1/3)",
+        "answer": "1.4313"
+    },
+    {
+        "id": 379,
+        "expression": "log 5(sqrt(sqrt(1019)))",
+        "answer": "1.0759"
+    },
+    {
+        "id": 380,
+        "expression": "(17%57)%8",
+        "answer": "1.0"
+    },
+    {
+        "id": 381,
+        "expression": "((15!)%41)%29",
+        "answer": "20.0"
+    },
+    {
+        "id": 382,
+        "expression": "sin(cos(9/8π)*π)^2",
+        "answer": "0.0561"
+    },
+    {
+        "id": 383,
+        "expression": "cos((log 5(9385))*π)",
+        "answer": "0.5445"
+    },
+    {
+        "id": 384,
+        "expression": "sin((log 2(sqrt(850)))*π)",
+        "answer": "0.4096"
+    },
+    {
+        "id": 385,
+        "expression": "log 8(((282429536481/2436396322816)^(1/6)^(1/3)))",
+        "answer": "-0.0576"
+    },
+    {
+        "id": 386,
+        "expression": "sqrt((log 7(2233)))",
+        "answer": "1.9907"
+    },
+    {
+        "id": 387,
+        "expression": "cos((log 5(9483))*π)",
+        "answer": "0.5614"
+    },
+    {
+        "id": 388,
+        "expression": "cos(19/26π)^2",
+        "answer": "0.4397"
+    },
+    {
+        "id": 389,
+        "expression": "((2!)!)!",
+        "answer": "2.0"
+    },
+    {
+        "id": 390,
+        "expression": "41%(47%17)",
+        "answer": "2.0"
+    },
+    {
+        "id": 391,
+        "expression": "log 6(tan(29°))",
+        "answer": "-0.3293"
+    },
+    {
+        "id": 392,
+        "expression": "sin((sin(-1/5π)^2)*π)",
+        "answer": "0.8845"
+    },
+    {
+        "id": 393,
+        "expression": "sqrt(sqrt(588))",
+        "answer": "4.9243"
+    },
+    {
+        "id": 394,
+        "expression": "sin(((-86/21)^3)*π)^2",
+        "answer": "0.7097"
+    },
+    {
+        "id": 395,
+        "expression": "sin(π/28)^(1/9)",
+        "answer": "0.784"
+    },
+    {
+        "id": 396,
+        "expression": "47%(40%(14!))",
+        "answer": "7.0"
+    },
+    {
+        "id": 397,
+        "expression": "16%(34%75)",
+        "answer": "16.0"
+    },
+    {
+        "id": 398,
+        "expression": "sin(ln(2059)*π)",
+        "answer": "-0.9178"
+    },
+    {
+        "id": 399,
+        "expression": "(85%84)!",
+        "answer": "1.0"
+    }
+]

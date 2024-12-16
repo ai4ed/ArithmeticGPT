@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "cos(17/8π)",
+        "answer": "0.9239"
+    },
+    {
+        "id": 201,
+        "expression": "cos(π/26)",
+        "answer": "0.9927"
+    },
+    {
+        "id": 202,
+        "expression": "cos(19°)",
+        "answer": "0.9455"
+    },
+    {
+        "id": 203,
+        "expression": "cos(-5/2π)",
+        "answer": "0.0"
+    },
+    {
+        "id": 204,
+        "expression": "cos(-156°)",
+        "answer": "-0.9135"
+    },
+    {
+        "id": 205,
+        "expression": "cos(6.31π)",
+        "answer": "0.5621"
+    },
+    {
+        "id": 206,
+        "expression": "cos(14/24π)",
+        "answer": "-0.2588"
+    },
+    {
+        "id": 207,
+        "expression": "cos(-149°)",
+        "answer": "-0.8572"
+    },
+    {
+        "id": 208,
+        "expression": "cos(-1/14π)",
+        "answer": "0.9749"
+    },
+    {
+        "id": 209,
+        "expression": "cos(11/10π)",
+        "answer": "-0.9511"
+    },
+    {
+        "id": 210,
+        "expression": "cos(-157°)",
+        "answer": "-0.9205"
+    },
+    {
+        "id": 211,
+        "expression": "cos(-3.27π)",
+        "answer": "-0.6613"
+    },
+    {
+        "id": 212,
+        "expression": "cos(9.55π)",
+        "answer": "0.1564"
+    },
+    {
+        "id": 213,
+        "expression": "cos(-4.72π)",
+        "answer": "-0.6374"
+    },
+    {
+        "id": 214,
+        "expression": "cos(14/11π)",
+        "answer": "-0.6549"
+    },
+    {
+        "id": 215,
+        "expression": "cos(5°)",
+        "answer": "0.9962"
+    },
+    {
+        "id": 216,
+        "expression": "cos(5π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 217,
+        "expression": "cos(π/16)",
+        "answer": "0.9808"
+    },
+    {
+        "id": 218,
+        "expression": "cos(16°)",
+        "answer": "0.9613"
+    },
+    {
+        "id": 219,
+        "expression": "cos(-30°)",
+        "answer": "0.866"
+    },
+    {
+        "id": 220,
+        "expression": "cos(-2.41π)",
+        "answer": "0.279"
+    },
+    {
+        "id": 221,
+        "expression": "cos(2.62π)",
+        "answer": "-0.3681"
+    },
+    {
+        "id": 222,
+        "expression": "cos(8.46π)",
+        "answer": "0.1253"
+    },
+    {
+        "id": 223,
+        "expression": "cos(-169°)",
+        "answer": "-0.9816"
+    },
+    {
+        "id": 224,
+        "expression": "cos(-2.86π)",
+        "answer": "-0.9048"
+    },
+    {
+        "id": 225,
+        "expression": "cos(8.95π)",
+        "answer": "-0.9877"
+    },
+    {
+        "id": 226,
+        "expression": "cos(13/18π)",
+        "answer": "-0.6428"
+    },
+    {
+        "id": 227,
+        "expression": "cos(111°)",
+        "answer": "-0.3584"
+    },
+    {
+        "id": 228,
+        "expression": "cos(82°)",
+        "answer": "0.1392"
+    },
+    {
+        "id": 229,
+        "expression": "cos(10/15π)",
+        "answer": "-0.5"
+    },
+    {
+        "id": 230,
+        "expression": "cos(6.96π)",
+        "answer": "-0.9921"
+    },
+    {
+        "id": 231,
+        "expression": "cos(-7/20π)",
+        "answer": "0.454"
+    },
+    {
+        "id": 232,
+        "expression": "cos(-134°)",
+        "answer": "-0.6947"
+    },
+    {
+        "id": 233,
+        "expression": "cos(16/27π)",
+        "answer": "-0.2868"
+    },
+    {
+        "id": 234,
+        "expression": "cos(-2.59π)",
+        "answer": "-0.279"
+    },
+    {
+        "id": 235,
+        "expression": "cos(-1/18π)",
+        "answer": "0.9848"
+    },
+    {
+        "id": 236,
+        "expression": "cos(π/27)",
+        "answer": "0.9932"
+    },
+    {
+        "id": 237,
+        "expression": "cos(94°)",
+        "answer": "-0.0698"
+    },
+    {
+        "id": 238,
+        "expression": "cos(11/27π)",
+        "answer": "0.2868"
+    },
+    {
+        "id": 239,
+        "expression": "cos(12°)",
+        "answer": "0.9781"
+    },
+    {
+        "id": 240,
+        "expression": "cos(π/13)",
+        "answer": "0.9709"
+    },
+    {
+        "id": 241,
+        "expression": "cos(8.73π)",
+        "answer": "-0.6613"
+    },
+    {
+        "id": 242,
+        "expression": "cos(-38°)",
+        "answer": "0.788"
+    },
+    {
+        "id": 243,
+        "expression": "cos(-131°)",
+        "answer": "-0.6561"
+    },
+    {
+        "id": 244,
+        "expression": "cos(5/11π)",
+        "answer": "0.1423"
+    },
+    {
+        "id": 245,
+        "expression": "cos(120°)",
+        "answer": "-0.5"
+    },
+    {
+        "id": 246,
+        "expression": "cos(8/19π)",
+        "answer": "0.2455"
+    },
+    {
+        "id": 247,
+        "expression": "cos(-100°)",
+        "answer": "-0.1736"
+    },
+    {
+        "id": 248,
+        "expression": "cos(110°)",
+        "answer": "-0.342"
+    },
+    {
+        "id": 249,
+        "expression": "cos(5/2π)",
+        "answer": "0.0"
+    },
+    {
+        "id": 250,
+        "expression": "cos(7.5π)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 251,
+        "expression": "cos(-140°)",
+        "answer": "-0.766"
+    },
+    {
+        "id": 252,
+        "expression": "cos(-9/16π)",
+        "answer": "-0.1951"
+    },
+    {
+        "id": 253,
+        "expression": "cos(160°)",
+        "answer": "-0.9397"
+    },
+    {
+        "id": 254,
+        "expression": "cos(1.46π)",
+        "answer": "-0.1253"
+    },
+    {
+        "id": 255,
+        "expression": "cos(-105°)",
+        "answer": "-0.2588"
+    },
+    {
+        "id": 256,
+        "expression": "cos(-7°)",
+        "answer": "0.9925"
+    },
+    {
+        "id": 257,
+        "expression": "cos(-135°)",
+        "answer": "-0.7071"
+    },
+    {
+        "id": 258,
+        "expression": "cos(-58°)",
+        "answer": "0.5299"
+    },
+    {
+        "id": 259,
+        "expression": "cos(18/19π)",
+        "answer": "-0.9864"
+    },
+    {
+        "id": 260,
+        "expression": "cos(π/14)",
+        "answer": "0.9749"
+    },
+    {
+        "id": 261,
+        "expression": "cos(-130°)",
+        "answer": "-0.6428"
+    },
+    {
+        "id": 262,
+        "expression": "cos(-155°)",
+        "answer": "-0.9063"
+    },
+    {
+        "id": 263,
+        "expression": "cos(-85°)",
+        "answer": "0.0872"
+    },
+    {
+        "id": 264,
+        "expression": "cos(-2/25π)",
+        "answer": "0.9686"
+    },
+    {
+        "id": 265,
+        "expression": "cos(45°)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 266,
+        "expression": "cos(179°)",
+        "answer": "-0.9998"
+    },
+    {
+        "id": 267,
+        "expression": "cos(29°)",
+        "answer": "0.8746"
+    },
+    {
+        "id": 268,
+        "expression": "cos(67°)",
+        "answer": "0.3907"
+    },
+    {
+        "id": 269,
+        "expression": "cos(-141°)",
+        "answer": "-0.7771"
+    },
+    {
+        "id": 270,
+        "expression": "cos(77°)",
+        "answer": "0.225"
+    },
+    {
+        "id": 271,
+        "expression": "cos(-172°)",
+        "answer": "-0.9903"
+    },
+    {
+        "id": 272,
+        "expression": "cos(-10/11π)",
+        "answer": "-0.9595"
+    },
+    {
+        "id": 273,
+        "expression": "cos(1.63π)",
+        "answer": "0.3971"
+    },
+    {
+        "id": 274,
+        "expression": "cos(-50°)",
+        "answer": "0.6428"
+    },
+    {
+        "id": 275,
+        "expression": "cos(6.09π)",
+        "answer": "0.9603"
+    },
+    {
+        "id": 276,
+        "expression": "cos(73°)",
+        "answer": "0.2924"
+    },
+    {
+        "id": 277,
+        "expression": "cos(54°)",
+        "answer": "0.5878"
+    },
+    {
+        "id": 278,
+        "expression": "cos(-153°)",
+        "answer": "-0.891"
+    },
+    {
+        "id": 279,
+        "expression": "cos(-23°)",
+        "answer": "0.9205"
+    },
+    {
+        "id": 280,
+        "expression": "cos(-64°)",
+        "answer": "0.4384"
+    },
+    {
+        "id": 281,
+        "expression": "cos(-177°)",
+        "answer": "-0.9986"
+    },
+    {
+        "id": 282,
+        "expression": "cos(6/4π)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 283,
+        "expression": "cos(-65°)",
+        "answer": "0.4226"
+    },
+    {
+        "id": 284,
+        "expression": "cos(6.17π)",
+        "answer": "0.8607"
+    },
+    {
+        "id": 285,
+        "expression": "cos(-9/22π)",
+        "answer": "0.2817"
+    },
+    {
+        "id": 286,
+        "expression": "cos(-14°)",
+        "answer": "0.9703"
+    },
+    {
+        "id": 287,
+        "expression": "cos(5.69π)",
+        "answer": "0.5621"
+    },
+    {
+        "id": 288,
+        "expression": "cos(168°)",
+        "answer": "-0.9781"
+    },
+    {
+        "id": 289,
+        "expression": "cos(1.82π)",
+        "answer": "0.8443"
+    },
+    {
+        "id": 290,
+        "expression": "cos(35°)",
+        "answer": "0.8192"
+    },
+    {
+        "id": 291,
+        "expression": "cos(92°)",
+        "answer": "-0.0349"
+    },
+    {
+        "id": 292,
+        "expression": "cos(-1°)",
+        "answer": "0.9998"
+    },
+    {
+        "id": 293,
+        "expression": "cos(40°)",
+        "answer": "0.766"
+    },
+    {
+        "id": 294,
+        "expression": "cos(-3.45π)",
+        "answer": "-0.1564"
+    },
+    {
+        "id": 295,
+        "expression": "cos(13/25π)",
+        "answer": "-0.0628"
+    },
+    {
+        "id": 296,
+        "expression": "cos(-51°)",
+        "answer": "0.6293"
+    },
+    {
+        "id": 297,
+        "expression": "cos(145°)",
+        "answer": "-0.8192"
+    },
+    {
+        "id": 298,
+        "expression": "cos(-76°)",
+        "answer": "0.2419"
+    },
+    {
+        "id": 299,
+        "expression": "cos(-4/27π)",
+        "answer": "0.8936"
+    },
+    {
+        "id": 300,
+        "expression": "cos(-4/20π)",
+        "answer": "0.809"
+    },
+    {
+        "id": 301,
+        "expression": "cos(105°)",
+        "answer": "-0.2588"
+    },
+    {
+        "id": 302,
+        "expression": "cos(2.83π)",
+        "answer": "-0.8607"
+    },
+    {
+        "id": 303,
+        "expression": "cos(-123°)",
+        "answer": "-0.5446"
+    },
+    {
+        "id": 304,
+        "expression": "cos(124°)",
+        "answer": "-0.5592"
+    },
+    {
+        "id": 305,
+        "expression": "cos(-4.3π)",
+        "answer": "0.5878"
+    },
+    {
+        "id": 306,
+        "expression": "cos(12/13π)",
+        "answer": "-0.9709"
+    },
+    {
+        "id": 307,
+        "expression": "cos(169°)",
+        "answer": "-0.9816"
+    },
+    {
+        "id": 308,
+        "expression": "cos(3/12π)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 309,
+        "expression": "cos(118°)",
+        "answer": "-0.4695"
+    },
+    {
+        "id": 310,
+        "expression": "cos(3.67π)",
+        "answer": "0.509"
+    },
+    {
+        "id": 311,
+        "expression": "cos(π/6)",
+        "answer": "0.866"
+    },
+    {
+        "id": 312,
+        "expression": "cos(-4.15π)",
+        "answer": "0.891"
+    },
+    {
+        "id": 313,
+        "expression": "cos(π/10)",
+        "answer": "0.9511"
+    },
+    {
+        "id": 314,
+        "expression": "cos(81°)",
+        "answer": "0.1564"
+    },
+    {
+        "id": 315,
+        "expression": "cos(1°)",
+        "answer": "0.9998"
+    },
+    {
+        "id": 316,
+        "expression": "cos(-78°)",
+        "answer": "0.2079"
+    },
+    {
+        "id": 317,
+        "expression": "cos(161°)",
+        "answer": "-0.9455"
+    },
+    {
+        "id": 318,
+        "expression": "cos(19/22π)",
+        "answer": "-0.9096"
+    },
+    {
+        "id": 319,
+        "expression": "cos(15/24π)",
+        "answer": "-0.3827"
+    },
+    {
+        "id": 320,
+        "expression": "cos(7/2π)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 321,
+        "expression": "cos(74°)",
+        "answer": "0.2756"
+    },
+    {
+        "id": 322,
+        "expression": "cos(-119°)",
+        "answer": "-0.4848"
+    },
+    {
+        "id": 323,
+        "expression": "cos(4/29π)",
+        "answer": "0.9076"
+    },
+    {
+        "id": 324,
+        "expression": "cos(11/14π)",
+        "answer": "-0.7818"
+    },
+    {
+        "id": 325,
+        "expression": "cos(-10°)",
+        "answer": "0.9848"
+    },
+    {
+        "id": 326,
+        "expression": "cos(-44°)",
+        "answer": "0.7193"
+    },
+    {
+        "id": 327,
+        "expression": "cos(166°)",
+        "answer": "-0.9703"
+    },
+    {
+        "id": 328,
+        "expression": "cos(-17°)",
+        "answer": "0.9563"
+    },
+    {
+        "id": 329,
+        "expression": "cos(123°)",
+        "answer": "-0.5446"
+    },
+    {
+        "id": 330,
+        "expression": "cos(59°)",
+        "answer": "0.515"
+    },
+    {
+        "id": 331,
+        "expression": "cos(-120°)",
+        "answer": "-0.5"
+    },
+    {
+        "id": 332,
+        "expression": "cos(-1/11π)",
+        "answer": "0.9595"
+    },
+    {
+        "id": 333,
+        "expression": "cos(-1.9π)",
+        "answer": "0.9511"
+    },
+    {
+        "id": 334,
+        "expression": "cos(-2.81π)",
+        "answer": "-0.8271"
+    },
+    {
+        "id": 335,
+        "expression": "cos(π/15)",
+        "answer": "0.9781"
+    },
+    {
+        "id": 336,
+        "expression": "cos(5.45π)",
+        "answer": "-0.1564"
+    },
+    {
+        "id": 337,
+        "expression": "cos(-46°)",
+        "answer": "0.6947"
+    },
+    {
+        "id": 338,
+        "expression": "cos(34°)",
+        "answer": "0.829"
+    },
+    {
+        "id": 339,
+        "expression": "cos(-2/14π)",
+        "answer": "0.901"
+    },
+    {
+        "id": 340,
+        "expression": "cos(2.01π)",
+        "answer": "0.9995"
+    },
+    {
+        "id": 341,
+        "expression": "cos(0.92π)",
+        "answer": "-0.9686"
+    },
+    {
+        "id": 342,
+        "expression": "cos(0.96π)",
+        "answer": "-0.9921"
+    },
+    {
+        "id": 343,
+        "expression": "cos(87°)",
+        "answer": "0.0523"
+    },
+    {
+        "id": 344,
+        "expression": "cos(-2/23π)",
+        "answer": "0.9629"
+    },
+    {
+        "id": 345,
+        "expression": "cos(-106°)",
+        "answer": "-0.2756"
+    },
+    {
+        "id": 346,
+        "expression": "cos(78°)",
+        "answer": "0.2079"
+    },
+    {
+        "id": 347,
+        "expression": "cos(3°)",
+        "answer": "0.9986"
+    },
+    {
+        "id": 348,
+        "expression": "cos(-122°)",
+        "answer": "-0.5299"
+    },
+    {
+        "id": 349,
+        "expression": "cos(-33°)",
+        "answer": "0.8387"
+    },
+    {
+        "id": 350,
+        "expression": "cos(8/16π)",
+        "answer": "0.0"
+    },
+    {
+        "id": 351,
+        "expression": "cos(2/27π)",
+        "answer": "0.973"
+    },
+    {
+        "id": 352,
+        "expression": "cos(61°)",
+        "answer": "0.4848"
+    },
+    {
+        "id": 353,
+        "expression": "cos(π/3)",
+        "answer": "0.5"
+    },
+    {
+        "id": 354,
+        "expression": "cos(72°)",
+        "answer": "0.309"
+    },
+    {
+        "id": 355,
+        "expression": "cos(-67°)",
+        "answer": "0.3907"
+    },
+    {
+        "id": 356,
+        "expression": "cos(π/5)",
+        "answer": "0.809"
+    },
+    {
+        "id": 357,
+        "expression": "cos(-82°)",
+        "answer": "0.1392"
+    },
+    {
+        "id": 358,
+        "expression": "cos(-26°)",
+        "answer": "0.8988"
+    },
+    {
+        "id": 359,
+        "expression": "cos(-8/7π)",
+        "answer": "-0.901"
+    },
+    {
+        "id": 360,
+        "expression": "cos(9.91π)",
+        "answer": "0.9603"
+    },
+    {
+        "id": 361,
+        "expression": "cos(-18°)",
+        "answer": "0.9511"
+    },
+    {
+        "id": 362,
+        "expression": "cos(116°)",
+        "answer": "-0.4384"
+    },
+    {
+        "id": 363,
+        "expression": "cos(18/27π)",
+        "answer": "-0.5"
+    },
+    {
+        "id": 364,
+        "expression": "cos(-168°)",
+        "answer": "-0.9781"
+    },
+    {
+        "id": 365,
+        "expression": "cos(137°)",
+        "answer": "-0.7314"
+    },
+    {
+        "id": 366,
+        "expression": "cos(-1/20π)",
+        "answer": "0.9877"
+    },
+    {
+        "id": 367,
+        "expression": "cos(-27°)",
+        "answer": "0.891"
+    },
+    {
+        "id": 368,
+        "expression": "cos(-179°)",
+        "answer": "-0.9998"
+    },
+    {
+        "id": 369,
+        "expression": "cos(2/26π)",
+        "answer": "0.9709"
+    },
+    {
+        "id": 370,
+        "expression": "cos(17°)",
+        "answer": "0.9563"
+    },
+    {
+        "id": 371,
+        "expression": "cos(-40°)",
+        "answer": "0.766"
+    },
+    {
+        "id": 372,
+        "expression": "cos(176°)",
+        "answer": "-0.9976"
+    },
+    {
+        "id": 373,
+        "expression": "cos(49°)",
+        "answer": "0.6561"
+    },
+    {
+        "id": 374,
+        "expression": "cos(174°)",
+        "answer": "-0.9945"
+    },
+    {
+        "id": 375,
+        "expression": "cos(7°)",
+        "answer": "0.9925"
+    },
+    {
+        "id": 376,
+        "expression": "cos(16/20π)",
+        "answer": "-0.809"
+    },
+    {
+        "id": 377,
+        "expression": "cos(-171°)",
+        "answer": "-0.9877"
+    },
+    {
+        "id": 378,
+        "expression": "cos(-2.85π)",
+        "answer": "-0.891"
+    },
+    {
+        "id": 379,
+        "expression": "cos(175°)",
+        "answer": "-0.9962"
+    },
+    {
+        "id": 380,
+        "expression": "cos(0°)",
+        "answer": "1.0"
+    },
+    {
+        "id": 381,
+        "expression": "cos(-0.03π)",
+        "answer": "0.9956"
+    },
+    {
+        "id": 382,
+        "expression": "cos(1.17π)",
+        "answer": "-0.8607"
+    },
+    {
+        "id": 383,
+        "expression": "cos(143°)",
+        "answer": "-0.7986"
+    },
+    {
+        "id": 384,
+        "expression": "cos(19/2π)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 385,
+        "expression": "cos(-4.61π)",
+        "answer": "-0.3387"
+    },
+    {
+        "id": 386,
+        "expression": "cos(6.13π)",
+        "answer": "0.9178"
+    },
+    {
+        "id": 387,
+        "expression": "cos(12/28π)",
+        "answer": "0.2225"
+    },
+    {
+        "id": 388,
+        "expression": "cos(44°)",
+        "answer": "0.7193"
+    },
+    {
+        "id": 389,
+        "expression": "cos(4/9π)",
+        "answer": "0.1736"
+    },
+    {
+        "id": 390,
+        "expression": "cos(3.9π)",
+        "answer": "0.9511"
+    },
+    {
+        "id": 391,
+        "expression": "cos(28°)",
+        "answer": "0.8829"
+    },
+    {
+        "id": 392,
+        "expression": "cos(84°)",
+        "answer": "0.1045"
+    },
+    {
+        "id": 393,
+        "expression": "cos(-0.22π)",
+        "answer": "0.7705"
+    },
+    {
+        "id": 394,
+        "expression": "cos(14/13π)",
+        "answer": "-0.9709"
+    },
+    {
+        "id": 395,
+        "expression": "cos(-1.33π)",
+        "answer": "-0.509"
+    },
+    {
+        "id": 396,
+        "expression": "cos(1.29π)",
+        "answer": "-0.6129"
+    },
+    {
+        "id": 397,
+        "expression": "cos(178°)",
+        "answer": "-0.9994"
+    },
+    {
+        "id": 398,
+        "expression": "cos(-0.56π)",
+        "answer": "-0.1874"
+    },
+    {
+        "id": 399,
+        "expression": "cos(-89°)",
+        "answer": "0.0175"
+    }
+]

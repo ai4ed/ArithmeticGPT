@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "ln(tan(22°))*((63%(41%62))%14)+sin((887503681/2176782336)^(1/6)*π)-cos(-1π)^2",
+        "answer": "-7.8276"
+    },
+    {
+        "id": 201,
+        "expression": "sqrt((log 7(2125)))-cos(((log 3(5681))^8)*π)/(6%(29^5))-13%(68%(16!))",
+        "answer": "-11.1807"
+    },
+    {
+        "id": 202,
+        "expression": "sqrt(sqrt(sin(-3.35π)))/(log 6(cos(-10/22π)))+(cos(1π)^10)!",
+        "answer": "0.1071"
+    },
+    {
+        "id": 203,
+        "expression": "(tan(5.57π)^4)^3-tan((cos(-4.06π)^(1/3))*π)",
+        "answer": "64276494.5418"
+    },
+    {
+        "id": 204,
+        "expression": "(log 5(cos(-3.72π)))^2*(((2!)!)!)/tan(sqrt(cos(-59°))*π)",
+        "answer": "-0.1276"
+    },
+    {
+        "id": 205,
+        "expression": "log 9(((15/108)^(-1)))*sin((log 7((log 2(1763))))*π)+sqrt(sqrt(1013))",
+        "answer": "5.0644"
+    },
+    {
+        "id": 206,
+        "expression": "sin(((109/67)^2)*π)*sqrt(sqrt(338))/((27%7)!)+cos(sin(-1.46π)*π)",
+        "answer": "-0.9944"
+    },
+    {
+        "id": 207,
+        "expression": "cos(-3.88π)^(1/7)*sqrt(sin(11/26π))+sqrt((sin(7.44π)^2))*cos((52%73)*π)",
+        "answer": "1.9575"
+    },
+    {
+        "id": 208,
+        "expression": "95%(23%50)+cos(sqrt(sin(14/17π))*π)/cos(sqrt(cos(1.73π))*π)",
+        "answer": "3.7815"
+    },
+    {
+        "id": 209,
+        "expression": "log 7(sqrt(((46/80)^10)))+log 10(sin(π/12))+sin((log 7(50))*π)",
+        "answer": "-1.9763"
+    },
+    {
+        "id": 210,
+        "expression": "cos(cos((11!)*π)*π)*ln(ln(206))/(cos(108°)^2)",
+        "answer": "-17.5194"
+    },
+    {
+        "id": 211,
+        "expression": "cos(cos((log 3(9044))*π)*π)*((3!)!)-cos((100%5)*π)!",
+        "answer": "-239.6881"
+    },
+    {
+        "id": 212,
+        "expression": "(6%35)!*((5!)%95)+(cos(-70°)^(1/3))^(1/3)-(8%(12!))!",
+        "answer": "-22319.1124"
+    },
+    {
+        "id": 213,
+        "expression": "log 10((log 7(8356)))*(((5!)%81)%64)+cos(sin(tan(π/8)*π)*π)*((16!)%53)",
+        "answer": "10.1002"
+    },
+    {
+        "id": 214,
+        "expression": "cos((24^4)*π)!/sqrt((log 10(sqrt(263))))*(log 5(sqrt(1156/1600)))",
+        "answer": "-0.0918"
+    },
+    {
+        "id": 215,
+        "expression": "tan((log 6(6952))*π)+tan(ln(8741)*π)^(1/7)*(cos(((141/96)^4)*π)^2)*((33%97)%50)",
+        "answer": "5.6074"
+    },
+    {
+        "id": 216,
+        "expression": "sin(8.51π)^(1/9)+sqrt(sqrt(358))",
+        "answer": "5.3498"
+    },
+    {
+        "id": 217,
+        "expression": "cos(sqrt(sin(153°))*π)+cos(sin(-86°)*π)+log 4(((log 7(7627))^7))-sqrt((log 4(7835)))",
+        "answer": "3.6367"
+    },
+    {
+        "id": 218,
+        "expression": "cos((35%2)*π)/sqrt(sin((log 2(6783))*π))-cos(1/15π)^(1/3)",
+        "answer": "-2.1436"
+    },
+    {
+        "id": 219,
+        "expression": "(31%(20!))%36-sin((tan(-17°)^2)*π)/((20%73)%44)/cos((34%(22^8))*π)",
+        "answer": "30.9855"
+    },
+    {
+        "id": 220,
+        "expression": "cos(9.43π)^2*(log 3(tan(sqrt(262)*π)))",
+        "answer": "-0.0178"
+    },
+    {
+        "id": 221,
+        "expression": "cos(cos((27^6)*π)*π)*ln(tan(1.05π))+tan(sqrt(5184/2209)*π)^8/(sin(tan(-28°)*π)^2)",
+        "answer": "96272244.133"
+    },
+    {
+        "id": 222,
+        "expression": "cos((3!)*π)!*(sqrt(813)^(-1))",
+        "answer": "0.0351"
+    },
+    {
+        "id": 223,
+        "expression": "ln(tan(π/18))*(log 10(sqrt(sqrt(7056/16900))))",
+        "answer": "0.1646"
+    },
+    {
+        "id": 224,
+        "expression": "log 6((log 6(sqrt(657))))*((10%92)%41)+sqrt((17210368^(1/5)^(-2)))",
+        "answer": "3.3484"
+    },
+    {
+        "id": 225,
+        "expression": "log 4((sqrt(316)^9))/sin(tan(π/5)*π)",
+        "answer": "24.6728"
+    },
+    {
+        "id": 226,
+        "expression": "ln(3484)^(1/5)*sqrt(sqrt(40))",
+        "answer": "3.8266"
+    },
+    {
+        "id": 227,
+        "expression": "ln((cos(-159°)^2))*(tan(ln(4935)*π)^3)",
+        "answer": "63939.1332"
+    },
+    {
+        "id": 228,
+        "expression": "sqrt((tan(-5°)^2))+(log 7(3638))^9+(17%2)!",
+        "answer": "418633.8369"
+    },
+    {
+        "id": 229,
+        "expression": "sin((tan(19/9π)^(1/3))*π)*tan(tan(tan(π/24)*π)*π)-65%(10%(72%48))",
+        "answer": "-0.9729"
+    },
+    {
+        "id": 230,
+        "expression": "93%((8%84)!)+37%(60%39)",
+        "answer": "109"
+    },
+    {
+        "id": 231,
+        "expression": "tan(8/20π)^5/(log 3((sqrt(438)^(1/5))))+sqrt(cos(-5/15π))^(1/5)/cos(cos(tan(1.48π)*π)*π)",
+        "answer": "497.8254"
+    },
+    {
+        "id": 232,
+        "expression": "tan(((-103/33)^(-3))*π)+tan(tan(π/29)*π)^(1/7)",
+        "answer": "0.759"
+    },
+    {
+        "id": 233,
+        "expression": "(cos(112°)^2)^(1/9)*(sin(9.15π)^2)*cos(cos((1!)*π)*π)-(log 5(7729))^(-2)",
+        "answer": "-0.198"
+    },
+    {
+        "id": 234,
+        "expression": "log 6(sqrt(594))/sin((tan(3.9π)^2)*π)",
+        "answer": "5.4735"
+    },
+    {
+        "id": 235,
+        "expression": "cos(108°)^2*(27%(4!))",
+        "answer": "0.2865"
+    },
+    {
+        "id": 236,
+        "expression": "cos(cos(sqrt(933)*π)*π)+79%(15!)/sin((log 7(sqrt(5929/2401)))*π)/sin((19!)*π)",
+        "answer": "260.2291"
+    },
+    {
+        "id": 237,
+        "expression": "73%(72%77)/(sin(-12°)^2)/(sin(-9/29π)^2)",
+        "answer": "33.7682"
+    },
+    {
+        "id": 238,
+        "expression": "tan(cos(4.47π)*π)*(log 8(((28/78)^4)))",
+        "answer": "-0.6002"
+    },
+    {
+        "id": 239,
+        "expression": "sin(π/16)^(1/5)+sqrt(ln(8968))-sqrt((log 3(23)))",
+        "answer": "2.0486"
+    },
+    {
+        "id": 240,
+        "expression": "cos((3!)*π)!+ln(((77/163)^5))-(log 7(sin(1/18π)))^2",
+        "answer": "-3.5592"
+    },
+    {
+        "id": 241,
+        "expression": "sqrt((log 6((log 6(4149)))))*sqrt(cos(((37/56)^7)*π))+log 3(sqrt(387))/(sin((log 5(8258))*π)^2)",
+        "answer": "3.941"
+    },
+    {
+        "id": 242,
+        "expression": "tan(131°)^4+32%(16!)/((56%3)!)",
+        "answer": "17.7512"
+    },
+    {
+        "id": 243,
+        "expression": "sqrt((log 8(8132)))/((80%(54%90))%97)+sin(tan(-1/13π)*π)^2",
+        "answer": "0.569"
+    },
+    {
+        "id": 244,
+        "expression": "cos(((19!)%43)*π)-((4!)%43)%47",
+        "answer": "-25.0"
+    },
+    {
+        "id": 245,
+        "expression": "(17%(25^10))%46+sqrt((log 7(8508)))^(1/3)*sqrt(tan(0.33π))",
+        "answer": "18.68"
+    },
+    {
+        "id": 246,
+        "expression": "cos(cos(51°)*π)+log 4((log 4(sqrt(241))))",
+        "answer": "0.0969"
+    },
+    {
+        "id": 247,
+        "expression": "log 8((sqrt(874)^(1/7)))-(7!)%83*(log 4((((-40/139)^3)^2)))+cos(134°)^2",
+        "answer": "324.1775"
+    },
+    {
+        "id": 248,
+        "expression": "sqrt(cos((log 4(5879))*π))-71%(15!)",
+        "answer": "-70.1736"
+    },
+    {
+        "id": 249,
+        "expression": "cos(-115°)^2-cos(170°)^2-log 3((tan(5/16π)^(1/9)))",
+        "answer": "-0.832"
+    },
+    {
+        "id": 250,
+        "expression": "sqrt(sqrt((log 2(3152))))*cos((53%36)*π)",
+        "answer": "-1.8464"
+    },
+    {
+        "id": 251,
+        "expression": "cos(cos(π/17)*π)+sin((log 2(sin(π/13)))*π)*sqrt((log 8(8742)))",
+        "answer": "-1.4094"
+    },
+    {
+        "id": 252,
+        "expression": "((9!)%33)%82+cos(sin(94°)*π)^2",
+        "answer": "12.9999"
+    },
+    {
+        "id": 253,
+        "expression": "tan(cos(3.11π)*π)/(log 5(tan(75°)))+cos(sin(sin(1/25π)*π)*π)+sin((sqrt(335)^(1/3))*π)",
+        "answer": "1.498"
+    },
+    {
+        "id": 254,
+        "expression": "log 9(((56/98)^3))-sqrt(1369/3481)^(1/3)+tan((51520374361/10509215371264)^(1/6)*π)/(sin((log 2(9363))*π)^2)",
+        "answer": "9.2789"
+    },
+    {
+        "id": 255,
+        "expression": "sin(((log 5(8566))^8)*π)/(cos((65%48)*π)^4)-tan(cos(9.85π)*π)*cos((75%(45%54))*π)",
+        "answer": "-0.6086"
+    },
+    {
+        "id": 256,
+        "expression": "cos(sin(-69°)*π)/(log 10(tan(π/26)))*(54%(42%91))-sin(sqrt(973)*π)^2",
+        "answer": "12.4959"
+    },
+    {
+        "id": 257,
+        "expression": "ln(cos(sqrt(140)*π))+ln(sqrt((log 8(585))))",
+        "answer": "0.4139"
+    },
+    {
+        "id": 258,
+        "expression": "11%((10!)%95)+(cos(-20°)^(1/9))^(1/7)",
+        "answer": "11.999"
+    },
+    {
+        "id": 259,
+        "expression": "sin(34°)^(1/5)-cos((-1000000)^(1/3)*π)+sqrt(ln(sqrt(6)))+cos(-4.55π)^2",
+        "answer": "0.8612"
+    },
+    {
+        "id": 260,
+        "expression": "cos((log 2(1363))*π)/cos((32%80)*π)-sin(sqrt(5776/676)*π)/cos(cos((63%54)*π)*π)",
+        "answer": "0.5105"
+    },
+    {
+        "id": 261,
+        "expression": "sin((68719476736/2436396322816)^(1/6)*π)^(1/5)/cos((15!)*π)",
+        "answer": "0.9974"
+    },
+    {
+        "id": 262,
+        "expression": "cos((38^3)*π)*(log 6(ln((log 8(9717)))))-sin(tan(168°)*π)+cos((18!)*π)",
+        "answer": "0.8726"
+    },
+    {
+        "id": 263,
+        "expression": "cos(cos(cos(3.99π)*π)*π)+ln(sqrt(64/1764))^(-2)*((14!)%51)+cos((log 5(9173))*π)",
+        "answer": "14.7808"
+    },
+    {
+        "id": 264,
+        "expression": "cos((1%62)*π)+79%(41%51)+cos((log 8(6413))*π)",
+        "answer": "37.7793"
+    },
+    {
+        "id": 265,
+        "expression": "((-30/25)^(-2))^(1/3)-cos(-2.85π)^2*sqrt(ln((31087100296429568/618121839509504)^(1/9)))",
+        "answer": "0.3617"
+    },
+    {
+        "id": 266,
+        "expression": "(20!)%58-log 5(sqrt((log 4(2660))))",
+        "answer": "25.4599"
+    },
+    {
+        "id": 267,
+        "expression": "((3%81)!)!*cos((log 9((log 5(6068))))*π)+(52%(28%73))%94-sqrt(tan(3.49π))",
+        "answer": "-519.5463"
+    },
+    {
+        "id": 268,
+        "expression": "log 6(sqrt(((174/79)^(-1))))/(log 9(sqrt(25281/6084)))*sin(sqrt(sqrt(5625/26244))*π)",
+        "answer": "-0.5735"
+    },
+    {
+        "id": 269,
+        "expression": "8%(5!)*(33%(30%76))+sin(-167°)^2+sqrt((118587876497/512000000000)^(1/9))",
+        "answer": "24.9726"
+    },
+    {
+        "id": 270,
+        "expression": "tan((cos(0.62π)^2)*π)/(((93%21)!)%39)-cos((8!)*π)!",
+        "answer": "-0.9811"
+    },
+    {
+        "id": 271,
+        "expression": "cos(((36%52)%83)*π)-tan((sqrt(10201/1521)^(1/7))*π)-(11!)%79",
+        "answer": "-74.4923"
+    },
+    {
+        "id": 272,
+        "expression": "tan(cos(-170°)*π)+27%(11!)-tan(166°)^2",
+        "answer": "26.9856"
+    },
+    {
+        "id": 273,
+        "expression": "cos(cos(π/16)*π)^2*(log 5((230539333248/4782969)^(1/7)))+ln((log 7(sqrt(294))))+87%(((-4)^2)%20)",
+        "answer": "8.3324"
+    },
+    {
+        "id": 274,
+        "expression": "tan(sqrt(cos(81°))*π)+(log 7(sqrt(423)))^(-3)*cos((83%(19!))*π)-sin(ln(6663)*π)^(1/5)",
+        "answer": "1.774"
+    },
+    {
+        "id": 275,
+        "expression": "log 3((ln(1573)^3))/cos((13!)*π)",
+        "answer": "5.451"
+    },
+    {
+        "id": 276,
+        "expression": "tan((log 9(8359))*π)*cos((2!)*π)/((95%(27%28))%16)*sqrt(sqrt(486))",
+        "answer": "0.121"
+    },
+    {
+        "id": 277,
+        "expression": "cos(sqrt(13456/4900)*π)*sqrt(sqrt(871))-sqrt(sqrt(208))*(ln(2507)^(1/7))",
+        "answer": "-2.521"
+    },
+    {
+        "id": 278,
+        "expression": "cos((38^5)*π)*((log 3(sqrt(821)))^6)-cos(((-18)^3)*π)*sqrt((log 3(5151)))",
+        "answer": "808.7165"
+    },
+    {
+        "id": 279,
+        "expression": "cos(cos(18/12π)*π)-cos((sin(-4/6π)^2)*π)/cos(cos(-179°)*π)",
+        "answer": "0.2929"
+    },
+    {
+        "id": 280,
+        "expression": "sqrt((log 2(9933)))-sqrt((sin(134°)^(1/5)))-log 6(((-26/5)^8))-ln(sqrt(cos(15/8π)))",
+        "answer": "-4.6452"
+    },
+    {
+        "id": 281,
+        "expression": "cos((29%47)*π)^5*ln(sin(108°))+cos((34%9)*π)^4",
+        "answer": "1.0502"
+    },
+    {
+        "id": 282,
+        "expression": "sin(tan(π/21)*π)/sin((tan(π/8)^(1/3))*π)",
+        "answer": "0.6359"
+    },
+    {
+        "id": 283,
+        "expression": "tan((tan(-65°)^8)*π)+log 4(ln(sqrt(217)))*((2!)!)-sin(tan(tan(-54°)*π)*π)",
+        "answer": "4.0027"
+    },
+    {
+        "id": 284,
+        "expression": "tan(tan(((-87/138)^(-3))*π)*π)/(cos(cos(-3π)*π)^(-3))/(tan((log 6(1116))*π)^2)-sqrt((((-40/64)^(-2))^(-2)))",
+        "answer": "-1.6304"
+    },
+    {
+        "id": 285,
+        "expression": "tan(((81/68)^6)*π)/((18%36)%4)/cos((8!)*π)",
+        "answer": "-0.2417"
+    },
+    {
+        "id": 286,
+        "expression": "log 5(sqrt((log 8(7409))))*(sqrt(sin(100°))^(1/5))*tan((sqrt(1764/8464)^(1/7))*π)",
+        "answer": "-0.1561"
+    },
+    {
+        "id": 287,
+        "expression": "cos(cos((1!)*π)*π)*(41%(30%52))*cos((65%(13!))*π)",
+        "answer": "11.0"
+    },
+    {
+        "id": 288,
+        "expression": "sqrt(tan((log 6(2129))*π))*(tan(sin(119°)*π)^2)*ln((log 7(3732)))/(log 7(sqrt((log 6(6662)))))",
+        "answer": "0.6629"
+    },
+    {
+        "id": 289,
+        "expression": "log 5((((-71/37)^(-3))^2))+((-110/28)^(-2))^(1/9)-log 5((log 7(sqrt(487))))",
+        "answer": "-1.9801"
+    },
+    {
+        "id": 290,
+        "expression": "tan(tan(sin(142°)*π)*π)/(log 10((6^(-2))))/cos(((1%94)!)*π)",
+        "answer": "1.4864"
+    },
+    {
+        "id": 291,
+        "expression": "sqrt(cos(π/20))^(1/7)/sin(sqrt(809)*π)",
+        "answer": "1.0154"
+    },
+    {
+        "id": 292,
+        "expression": "(65%73)%56-cos((log 5((log 6(2846))))*π)/sin((log 4(4597))*π)",
+        "answer": "12.7641"
+    },
+    {
+        "id": 293,
+        "expression": "cos(((72%94)%82)*π)+cos(sin(162°)*π)+(log 8(4694))^7",
+        "answer": "18359.4737"
+    },
+    {
+        "id": 294,
+        "expression": "sin(-126°)^2)^(1/3/(tan(-0.09π)^2)*sqrt((sqrt(704)^5))",
+        "answer": "37301.9626"
+    },
+    {
+        "id": 295,
+        "expression": "cos(cos(((-25)^(-3))*π)*π)*(cos(ln(208)*π)^2)",
+        "answer": "-0.2386"
+    },
+    {
+        "id": 296,
+        "expression": "tan(9/17π)^5+sqrt((log 9(6558)))",
+        "answer": "-146368.3372"
+    },
+    {
+        "id": 297,
+        "expression": "cos(cos((43%12)*π)*π)/sqrt(sqrt(5929/16641))/(cos(-157°)^2)-tan(sin(-45°)*π)^(-1)",
+        "answer": "-2.2888"
+    },
+    {
+        "id": 298,
+        "expression": "cos(sqrt(sqrt(863))*π)*(38%(84%49))-sqrt((tan(147°)^2))",
+        "answer": "-1.3951"
+    },
+    {
+        "id": 299,
+        "expression": "cos(cos((14!)*π)*π)*(cos(cos(1/5π)*π)^2)+sqrt(sqrt(810))*(log 7(sin(cos(-8/17π)*π)))",
+        "answer": "-4.1146"
+    },
+    {
+        "id": 1200,
+        "expression": "sin(-127°)^2+sqrt(sin(sin(6.23π)*π))*(log 7(tan(-104°)))",
+        "answer": "1.3053"
+    },
+    {
+        "id": 1201,
+        "expression": "(92/34)^(-3))^(1/5+ln(4177)^4-cos(tan(tan(-3/22π)*π)*π)",
+        "answer": "4832.9619"
+    },
+    {
+        "id": 1202,
+        "expression": "sin(sin(sin(-2/28π)*π)*π)+sin(sqrt(sqrt(240))*π)-cos((81%(45%54))*π)",
+        "answer": "-2.0999"
+    },
+    {
+        "id": 1203,
+        "expression": "ln(sin(40°))^2/cos((18%(44%68))*π)",
+        "answer": "0.1953"
+    },
+    {
+        "id": 1204,
+        "expression": "cos(tan(36°)*π)*(((69%77)%80)%11)",
+        "answer": "-1.9594"
+    },
+    {
+        "id": 1205,
+        "expression": "sin(ln((log 7(9648)))*π)+sin(sqrt(6241/31329)*π)^(1/5)-sqrt(sqrt(ln(9709)))-ln(sqrt((log 8(9835))))",
+        "answer": "-2.4741"
+    },
+    {
+        "id": 1206,
+        "expression": "25%(34%(62%89))+sqrt(sqrt(204))^(1/9)",
+        "answer": "26.1592"
+    },
+    {
+        "id": 1207,
+        "expression": "77%(47%53)/(log 2(sqrt((log 6(2032)))))",
+        "answer": "28.7383"
+    },
+    {
+        "id": 1208,
+        "expression": "sin(cos(9.83π)*π)+cos(sin(80°)*π)*cos((tan(-1.25π)^2)*π)",
+        "answer": "1.4225"
+    },
+    {
+        "id": 1209,
+        "expression": "sqrt(tan(5/30π))*sqrt((log 8(5638)))",
+        "answer": "1.5486"
+    },
+    {
+        "id": 1210,
+        "expression": "cos((1!)*π)*(log 3(cos(sqrt(2401/729)*π)))+cos(((-84/138)^(-1))*π)/(((37%98)%8)!)",
+        "answer": "0.1672"
+    },
+    {
+        "id": 1211,
+        "expression": "((-6)^8)%56*sin((20!)*π)-8%(96%59)/sqrt((log 5(7983)))",
+        "answer": "-11.3748"
+    },
+    {
+        "id": 1212,
+        "expression": "(((60/64)^(-2))^(1/7))^(1/7)-((73%55)%12)!+log 8(((log 5(7791))^9))",
+        "answer": "-711.5662"
+    },
+    {
+        "id": 1213,
+        "expression": "tan((sin(π/14)^(1/5))*π)+log 2(tan(sin(20°)*π))-tan((log 8(6560))*π)",
+        "answer": "-1.0394"
+    },
+    {
+        "id": 1214,
+        "expression": "log 7(sin(17°))+cos((14%38)*π)-tan((214358881/10556001)^(1/4)*π)/cos((62%(40%66))*π)",
+        "answer": "-0.0381"
+    },
+    {
+        "id": 1215,
+        "expression": "sqrt(sqrt(tan(6°)))*sqrt((log 2(6290)))*(cos(-147°)^2)-(log 10(3128))^6",
+        "answer": "-1821.9773"
+    },
+    {
+        "id": 1216,
+        "expression": "tan(-142°)^(1/9)-sin(sqrt(280)*π)^(1/7)/((log 10((log 7(2877))))^(1/7))*(52%(7!))",
+        "answer": "-52.492"
+    },
+    {
+        "id": 1217,
+        "expression": "ln(((log 9(1965))^(1/5)))/(cos((4%7)*π)!)",
+        "answer": "0.2477"
+    },
+    {
+        "id": 1218,
+        "expression": "sqrt(cos(π/12))^(1/5)*tan(sin(-44°)*π)*(sin(45°)^(1/9))-tan(π/6)^(1/5)",
+        "answer": "0.4715"
+    },
+    {
+        "id": 1219,
+        "expression": "cos(161°)^2/((79%42)%20)",
+        "answer": "0.0526"
+    },
+    {
+        "id": 1220,
+        "expression": "sin(sqrt(cos(12°))*π)+sqrt(16/4356)^(1/5)/cos(cos((9!)*π)*π)",
+        "answer": "-0.5363"
+    },
+    {
+        "id": 1221,
+        "expression": "cos((83%37)*π)*(sin(5.08π)^2)-tan(sqrt(1156/16900)*π)",
+        "answer": "-1.1371"
+    },
+    {
+        "id": 1222,
+        "expression": "sqrt((((23/116)^4)^(1/7)))+sin(-96°)^2/(90%(16!))",
+        "answer": "0.6408"
+    },
+    {
+        "id": 1223,
+        "expression": "(3!)!+cos(sin(-98°)*π)^2",
+        "answer": "720.9991"
+    },
+    {
+        "id": 1224,
+        "expression": "(log 6(sqrt(5776/16900)))^2/cos(tan(cos(104°)*π)*π)/(24%(49%18))-sin(sqrt(480)*π)",
+        "answer": "0.274"
+    },
+    {
+        "id": 1225,
+        "expression": "cos(((1!)!)*π)/(log 6((log 5(ln(9878)))))*((sqrt(12769/3481)^(1/7))^(1/7))",
+        "answer": "-5.6534"
+    },
+    {
+        "id": 1226,
+        "expression": "log 5(9005))^(-2/sqrt(sin(((-68/115)^2)*π))*((log 3(((136/65)^(-2))))^5)/((log 10(57))^3)",
+        "answer": "-0.0268"
+    },
+    {
+        "id": 1227,
+        "expression": "sin(75°)^(1/7)/(51%(17!))+(((-3)^10)%40)!*(cos((18%40)*π)!)",
+        "answer": "362880.0195"
+    },
+    {
+        "id": 1228,
+        "expression": "sqrt(sqrt((18^(-2))))*(tan(-13°)^2)+cos((5!)*π)-cos(sqrt(140)*π)",
+        "answer": "0.1484"
+    },
+    {
+        "id": 1229,
+        "expression": "sqrt(98867482624^(1/6))^8/tan(sin(ln(1044)*π)*π)-94%(4!)-(17!)%92",
+        "answer": "40720181.8488"
+    },
+    {
+        "id": 1230,
+        "expression": "cos((20!)*π)*(73%(13!))+sin((log 3(ln(5185)))*π)",
+        "answer": "-3.9855"
+    },
+    {
+        "id": 1231,
+        "expression": "sqrt(((log 4(3058))^9))/cos(cos((50%68)*π)*π)",
+        "answer": "-2702.582"
+    },
+    {
+        "id": 1232,
+        "expression": "sqrt((sin(-164°)^2))/(log 5(sin(((160/68)^5)*π)))/sin(sin(7.21π)*π)/cos((15!)*π)",
+        "answer": "0.4732"
+    },
+    {
+        "id": 1233,
+        "expression": "(log 2(5735))^5-log 7((((-55/120)^6)^(1/9)))",
+        "answer": "303419.5803"
+    },
+    {
+        "id": 1234,
+        "expression": "tan(81°)^(1/9)+sin((804357/12167)^(1/3)*π)/(log 5(tan(sin(π/11)*π)))/ln((log 3(((7/61)^(-1)))))",
+        "answer": "2.8368"
+    },
+    {
+        "id": 1235,
+        "expression": "sqrt(cos(π/29))^(1/3)/sqrt(cos(sqrt(479)*π))/(((18%75)%100)%44)",
+        "answer": "0.0573"
+    },
+    {
+        "id": 1236,
+        "expression": "sqrt(sqrt(142))-cos(tan((log 6(2233))*π)*π)",
+        "answer": "3.7308"
+    },
+    {
+        "id": 1237,
+        "expression": "cos((83%(70%39))*π)+sqrt(sqrt(sqrt(476)))",
+        "answer": "1.1612"
+    },
+    {
+        "id": 1238,
+        "expression": "cos((2%29)*π)+cos(sin(5/12π)*π)^2+69%(18!)",
+        "answer": "70.9886"
+    },
+    {
+        "id": 1239,
+        "expression": "cos(sin(5°)*π)-sqrt(sin(150°))/(log 6(sqrt(6889/19881)))",
+        "answer": "3.3536"
+    },
+    {
+        "id": 1240,
+        "expression": "cos(((20!)%42)*π)+tan(sqrt(sin(π/16))*π)*((2%17)!)",
+        "answer": "11.7955"
+    },
+    {
+        "id": 1241,
+        "expression": "cos((5%77)*π)^(-3)/cos((32^(-3))*π)/(sqrt(tan(π/18))^(1/9))-sqrt(646)^(1/3)",
+        "answer": "-4.0414"
+    },
+    {
+        "id": 1242,
+        "expression": "sqrt(cos(8/25π))/(cos(sqrt(975)*π)^2)/sqrt(sin(π/20))",
+        "answer": "3.2006"
+    },
+    {
+        "id": 1243,
+        "expression": "cos(sin(tan(5.07π)*π)*π)+cos((61%38)*π)^5",
+        "answer": "-1.4425"
+    },
+    {
+        "id": 1244,
+        "expression": "ln(sin(π/14))/(cos((log 4(1524))*π)^2)+tan(((-61/109)^9)*π)/cos(tan(cos(π/8)*π)*π)",
+        "answer": "-3.9232"
+    },
+    {
+        "id": 1245,
+        "expression": "tan(cos(π/11)*π)+tan(cos(3/4π)*π)",
+        "answer": "1.1857"
+    },
+    {
+        "id": 1246,
+        "expression": "ln(tan((3^(-1))*π))-log 8((tan(146°)^2))",
+        "answer": "0.928"
+    },
+    {
+        "id": 1247,
+        "expression": "sqrt(289/36)^(-2)-((71/129)^5)^(1/7)",
+        "answer": "-0.5282"
+    },
+    {
+        "id": 1248,
+        "expression": "cos((80%8)*π)!+sqrt(sqrt((log 4(8171))))/(tan(sqrt(9409/24025)*π)^(-2))+sqrt((log 4(5791)))",
+        "answer": "12.6736"
+    },
+    {
+        "id": 1249,
+        "expression": "cos(((35/7)^5)*π)^3-sqrt(121/9801)^(1/7)*(88%((4%74)!))",
+        "answer": "-12.6896"
+    },
+    {
+        "id": 1250,
+        "expression": "cos(cos((4!)*π)*π)/((59%13)!)-cos(sqrt(5625/27225)*π)",
+        "answer": "-0.1425"
+    },
+    {
+        "id": 1251,
+        "expression": "cos(16/5π)^2-sqrt(sin(2.29π))*(((34%63)%32)!)+42%(8!)",
+        "answer": "40.8767"
+    },
+    {
+        "id": 1252,
+        "expression": "cos(tan((37^(-2))*π)*π)*sqrt(sin(sin(-3.91π)*π))",
+        "answer": "0.8766"
+    },
+    {
+        "id": 1253,
+        "expression": "tan((44^(-1))*π)*((89%95)%7)+log 9(((89/131)^(-2)))",
+        "answer": "0.7095"
+    },
+    {
+        "id": 1254,
+        "expression": "cos((83%48)*π)*((36%((-27)^8))%25)",
+        "answer": "-11.0"
+    },
+    {
+        "id": 1255,
+        "expression": "((49%15)!)%19*sqrt(((90/125)^5))/((cos(π/25)^(1/9))^(1/5))",
+        "answer": "2.1998"
+    },
+    {
+        "id": 1256,
+        "expression": "cos(124°)^2+sqrt(887503681^(1/6))-tan(sqrt(154)*π)*(log 8(ln(3666)))",
+        "answer": "2.4095"
+    },
+    {
+        "id": 1257,
+        "expression": "sqrt(sqrt(969))*cos((tan(-7/2π)^2)*π)+cos(sqrt(784)*π)!*sin(sin(((74/118)^(-3))*π)*π)",
+        "answer": "1.6294"
+    },
+    {
+        "id": 1258,
+        "expression": "tan((log 6(9520))*π)-sqrt(cos(tan(-3.36π)*π))*(59%(15!))",
+        "answer": "-56.3355"
+    },
+    {
+        "id": 1259,
+        "expression": "cos(-10/14π)^2+log 4(sqrt(sin(π/6)))",
+        "answer": "0.1387"
+    },
+    {
+        "id": 1260,
+        "expression": "sin(tan(((59/54)^5)*π)*π)+cos(tan(((12/90)^(-2))*π)*π)/(sqrt(500)^2)+sin(sin(ln(2010)*π)*π)",
+        "answer": "0.8239"
+    },
+    {
+        "id": 1261,
+        "expression": "cos((38^5)*π)^(1/5)-sin((cos(16/29π)^2)*π)/(56%(15%73))",
+        "answer": "0.9925"
+    },
+    {
+        "id": 1262,
+        "expression": "sqrt(tan(π/23))-58%(33%(15!))+log 3(tan(π/22))+(4%77)!",
+        "answer": "-2.3947"
+    },
+    {
+        "id": 1263,
+        "expression": "log 10(sqrt((log 9(762))))*tan((log 5(4597))*π)/(log 2(ln((log 7(7576)))))",
+        "answer": "0.3704"
+    },
+    {
+        "id": 1264,
+        "expression": "tan(tan(sin(π/29)*π)*π)*(51%(46%27))",
+        "answer": "26.1941"
+    },
+    {
+        "id": 1265,
+        "expression": "38%(11%24)/(((91%3)!)!)*(sin((log 8(4471))*π)^(1/7))",
+        "answer": "3.7439"
+    },
+    {
+        "id": 1266,
+        "expression": "cos((88%81)*π)^4+(4!)%10-cos((5!)*π)+cos((66%63)*π)",
+        "answer": "3.0"
+    },
+    {
+        "id": 1267,
+        "expression": "cos((99%(5!))*π)/sqrt(cos(tan(164°)*π))-sqrt(((47/24)^7))^(1/7)+log 8(sqrt((log 3(2523))))",
+        "answer": "-2.1961"
+    },
+    {
+        "id": 1268,
+        "expression": "cos((11!)*π)-(84%(14!))%74-74%(20%50)",
+        "answer": "-23.0"
+    },
+    {
+        "id": 1269,
+        "expression": "cos((69%14)*π)^5*(cos((68%92)*π)!)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 1270,
+        "expression": "cos(128°)^2*((3!)!)*cos(cos(118°)*π)*(cos((35%60)*π)^9)",
+        "answer": "-26.1339"
+    },
+    {
+        "id": 1271,
+        "expression": "sqrt(sqrt(1008))^8-(10!)%94/(log 7(sin(sqrt(522)*π)))",
+        "answer": "1016124.3913"
+    },
+    {
+        "id": 1272,
+        "expression": "log 10(sqrt(12100/1681))*(log 8(sqrt(625/1296)))",
+        "answer": "-0.0752"
+    },
+    {
+        "id": 1273,
+        "expression": "cos((10!)*π)!*(log 3((log 10(sqrt(771)))))+tan(((log 3(405))^(1/3))*π)",
+        "answer": "-0.5966"
+    },
+    {
+        "id": 1274,
+        "expression": "cos((3^(-3))*π)*(87%(10!))-cos(sin(-107°)*π)",
+        "answer": "87.4023"
+    },
+    {
+        "id": 1275,
+        "expression": "cos(sin(5.07π)*π)+sqrt(sqrt(2601/1764))^(1/7)-cos(sin(ln(6879)*π)*π)/cos(cos(17/5π)*π)",
+        "answer": "1.7442"
+    },
+    {
+        "id": 1276,
+        "expression": "sin(sin(-14°)*π)^2-sin((log 9((log 9(106))))*π)/sqrt((log 4(4244)))",
+        "answer": "0.1161"
+    },
+    {
+        "id": 1277,
+        "expression": "cos((11!)*π)-tan(sqrt(tan(31°))*π)",
+        "answer": "1.8533"
+    },
+    {
+        "id": 1278,
+        "expression": "cos(sqrt(976)*π)+log 4((log 10(6453)))",
+        "answer": "0.238"
+    },
+    {
+        "id": 1279,
+        "expression": "(90%14)!-sin(tan(cos(-37°)*π)*π)",
+        "answer": "720.7436"
+    },
+    {
+        "id": 1280,
+        "expression": "cos(sqrt(929)*π)+(82%6)!*cos(sqrt(cos(39°))*π)",
+        "answer": "-22.2933"
+    },
+    {
+        "id": 1281,
+        "expression": "log 2(sin(110°))+92%(49%18)/cos((sqrt(762)^2)*π)+cos(π/10)^(1/9)",
+        "answer": "1.9047"
+    },
+    {
+        "id": 1282,
+        "expression": "5^(-3))^(1/5+tan(ln(6943)*π)^2",
+        "answer": "0.659"
+    },
+    {
+        "id": 1283,
+        "expression": "sin(-3/13π)^2)^(1/3+tan(cos(-32°)*π)*sin(cos(π/16)*π)*cos(cos(tan(-4.78π)*π)*π)",
+        "answer": "0.7885"
+    },
+    {
+        "id": 1284,
+        "expression": "90%(25^6)*tan(ln((45^(-1)))*π)",
+        "answer": "62.5534"
+    },
+    {
+        "id": 1285,
+        "expression": "sin((log 8(sqrt(376)))*π)/((log 7(cos(-66°)))^2)",
+        "answer": "-4.5524"
+    },
+    {
+        "id": 1286,
+        "expression": "log 2(cos(cos(106°)*π))-(77%(11!))%54+sqrt(10404/5041)^4+(37%97)%41",
+        "answer": "17.6335"
+    },
+    {
+        "id": 1287,
+        "expression": "sin(cos(109°)*π)^2+cos(cos(76°)*π)^(1/9)",
+        "answer": "1.6935"
+    },
+    {
+        "id": 1288,
+        "expression": "cos((11!)*π)+tan(sin((19!)*π)*π)/tan(cos(sin(5/27π)*π)*π)-tan((log 8(2045))*π)^(-2)",
+        "answer": "-13.223"
+    },
+    {
+        "id": 1289,
+        "expression": "log 10(tan(-137°))/sqrt(cos(3.59π))",
+        "answer": "-0.0574"
+    },
+    {
+        "id": 1290,
+        "expression": "(24%22)!+cos((12!)*π)-18%(13!)",
+        "answer": "-15.0"
+    },
+    {
+        "id": 1291,
+        "expression": "cos((7%6)*π)*cos(((13!)%54)*π)+cos(1.57π)^(1/3)-sqrt(sqrt(376))",
+        "answer": "-4.8015"
+    },
+    {
+        "id": 1292,
+        "expression": "sqrt((log 4(5825)))*(sin((18!)*π)^2)+cos(((5^7)%71)*π)",
+        "answer": "1.4981"
+    },
+    {
+        "id": 1293,
+        "expression": "sqrt(sqrt((log 4(9765))))/ln(tan(-4.61π))-log 2(sqrt(774))+log 6(sqrt(ln(2625)))",
+        "answer": "-2.6518"
+    },
+    {
+        "id": 1294,
+        "expression": "sqrt((sqrt(8836/14161)^(1/7)))/((log 3((log 5(6293))))^(1/9))-((13%3)!)!-((-28/14)^(-3))^2",
+        "answer": "-0.0785"
+    },
+    {
+        "id": 1295,
+        "expression": "sqrt(6084/676)!+sin(tan(4.74π)*π)*cos((36%(15!))*π)",
+        "answer": "6.2025"
+    },
+    {
+        "id": 1296,
+        "expression": "(37^7)%23+log 10((cos(53°)^(1/9)))",
+        "answer": "18.9755"
+    },
+    {
+        "id": 1297,
+        "expression": "tan(tan(cos(136°)*π)*π)-(512/74088)^(1/3)^(1/3)*sqrt((78074896/8503056)^(1/4))*sin(tan(4.61π)*π)",
+        "answer": "1.2838"
+    },
+    {
+        "id": 1298,
+        "expression": "tan((log 5(tan(33°)))*π)*(sqrt((log 2(2463)))^(1/5))+tan(cos(5.38π)*π)",
+        "answer": "-3.703"
+    },
+    {
+        "id": 1299,
+        "expression": "sqrt(ln(5762))+log 7((sin(3°)^(1/5)))",
+        "answer": "2.6394"
+    }
+]

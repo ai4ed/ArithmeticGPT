@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "sqrt(-174)",
+        "answer": "13.1909i"
+    },
+    {
+        "id": 201,
+        "expression": "sqrt(988)",
+        "answer": "31.4325"
+    },
+    {
+        "id": 202,
+        "expression": "sqrt(211)",
+        "answer": "14.5258"
+    },
+    {
+        "id": 203,
+        "expression": "sqrt(458)",
+        "answer": "21.4009"
+    },
+    {
+        "id": 204,
+        "expression": "sqrt(-236)",
+        "answer": "15.3623i"
+    },
+    {
+        "id": 205,
+        "expression": "sqrt(812)",
+        "answer": "28.4956"
+    },
+    {
+        "id": 206,
+        "expression": "sqrt(311)",
+        "answer": "17.6352"
+    },
+    {
+        "id": 207,
+        "expression": "sqrt(3969/4489)",
+        "answer": "0.9403"
+    },
+    {
+        "id": 208,
+        "expression": "sqrt(110)",
+        "answer": "10.4881"
+    },
+    {
+        "id": 209,
+        "expression": "sqrt(554)",
+        "answer": "23.5372"
+    },
+    {
+        "id": 210,
+        "expression": "sqrt(529)",
+        "answer": "23.0"
+    },
+    {
+        "id": 211,
+        "expression": "sqrt(-168)",
+        "answer": "12.9615i"
+    },
+    {
+        "id": 212,
+        "expression": "sqrt(994)",
+        "answer": "31.5278"
+    },
+    {
+        "id": 213,
+        "expression": "sqrt(-246)",
+        "answer": "15.6844i"
+    },
+    {
+        "id": 214,
+        "expression": "sqrt(6084/18225)",
+        "answer": "0.5778"
+    },
+    {
+        "id": 215,
+        "expression": "sqrt(13225/1225)",
+        "answer": "3.2857"
+    },
+    {
+        "id": 216,
+        "expression": "sqrt(8464/19044)",
+        "answer": "0.6667"
+    },
+    {
+        "id": 217,
+        "expression": "sqrt(-231)",
+        "answer": "15.1987i"
+    },
+    {
+        "id": 218,
+        "expression": "sqrt(7569/34225)",
+        "answer": "0.4703"
+    },
+    {
+        "id": 219,
+        "expression": "sqrt(173)",
+        "answer": "13.1529"
+    },
+    {
+        "id": 220,
+        "expression": "sqrt(-98)",
+        "answer": "9.8995i"
+    },
+    {
+        "id": 221,
+        "expression": "sqrt(155)",
+        "answer": "12.4499"
+    },
+    {
+        "id": 222,
+        "expression": "sqrt(129)",
+        "answer": "11.3578"
+    },
+    {
+        "id": 223,
+        "expression": "sqrt(361/25)",
+        "answer": "3.8"
+    },
+    {
+        "id": 224,
+        "expression": "sqrt(8464/2401)",
+        "answer": "1.8776"
+    },
+    {
+        "id": 225,
+        "expression": "sqrt(14400/3721)",
+        "answer": "1.9672"
+    },
+    {
+        "id": 226,
+        "expression": "sqrt(-101)",
+        "answer": "10.0499i"
+    },
+    {
+        "id": 227,
+        "expression": "sqrt(17424/4761)",
+        "answer": "1.913"
+    },
+    {
+        "id": 228,
+        "expression": "sqrt(69)",
+        "answer": "8.3066"
+    },
+    {
+        "id": 229,
+        "expression": "sqrt(8100/11236)",
+        "answer": "0.8491"
+    },
+    {
+        "id": 230,
+        "expression": "sqrt(648)",
+        "answer": "25.4558"
+    },
+    {
+        "id": 231,
+        "expression": "sqrt(24025/5476)",
+        "answer": "2.0946"
+    },
+    {
+        "id": 232,
+        "expression": "sqrt(-115)",
+        "answer": "10.7238i"
+    },
+    {
+        "id": 233,
+        "expression": "sqrt(511)",
+        "answer": "22.6053"
+    },
+    {
+        "id": 234,
+        "expression": "sqrt(139)",
+        "answer": "11.7898"
+    },
+    {
+        "id": 235,
+        "expression": "sqrt(488)",
+        "answer": "22.0907"
+    },
+    {
+        "id": 236,
+        "expression": "sqrt(-55)",
+        "answer": "7.4162i"
+    },
+    {
+        "id": 237,
+        "expression": "sqrt(-255)",
+        "answer": "15.9687i"
+    },
+    {
+        "id": 238,
+        "expression": "sqrt(870)",
+        "answer": "29.4958"
+    },
+    {
+        "id": 239,
+        "expression": "sqrt(729)",
+        "answer": "27.0"
+    },
+    {
+        "id": 240,
+        "expression": "sqrt(-221)",
+        "answer": "14.8661i"
+    },
+    {
+        "id": 241,
+        "expression": "sqrt(851)",
+        "answer": "29.1719"
+    },
+    {
+        "id": 242,
+        "expression": "sqrt(-71)",
+        "answer": "8.4261i"
+    },
+    {
+        "id": 243,
+        "expression": "sqrt(358)",
+        "answer": "18.9209"
+    },
+    {
+        "id": 244,
+        "expression": "sqrt(11)",
+        "answer": "3.3166"
+    },
+    {
+        "id": 245,
+        "expression": "sqrt(8649/15376)",
+        "answer": "0.75"
+    },
+    {
+        "id": 246,
+        "expression": "sqrt(808)",
+        "answer": "28.4253"
+    },
+    {
+        "id": 247,
+        "expression": "sqrt(-106)",
+        "answer": "10.2956i"
+    },
+    {
+        "id": 248,
+        "expression": "sqrt(112)",
+        "answer": "10.583"
+    },
+    {
+        "id": 249,
+        "expression": "sqrt(12321/841)",
+        "answer": "3.8276"
+    },
+    {
+        "id": 250,
+        "expression": "sqrt(22801/2704)",
+        "answer": "2.9038"
+    },
+    {
+        "id": 251,
+        "expression": "sqrt(121/8464)",
+        "answer": "0.1196"
+    },
+    {
+        "id": 252,
+        "expression": "sqrt(379)",
+        "answer": "19.4679"
+    },
+    {
+        "id": 253,
+        "expression": "sqrt(12996/5929)",
+        "answer": "1.4805"
+    },
+    {
+        "id": 254,
+        "expression": "sqrt(10404/8649)",
+        "answer": "1.0968"
+    },
+    {
+        "id": 255,
+        "expression": "sqrt(172)",
+        "answer": "13.1149"
+    },
+    {
+        "id": 256,
+        "expression": "sqrt(961/400)",
+        "answer": "1.55"
+    },
+    {
+        "id": 257,
+        "expression": "sqrt(609)",
+        "answer": "24.6779"
+    },
+    {
+        "id": 258,
+        "expression": "sqrt(18769/3969)",
+        "answer": "2.1746"
+    },
+    {
+        "id": 259,
+        "expression": "sqrt(9025/8100)",
+        "answer": "1.0556"
+    },
+    {
+        "id": 260,
+        "expression": "sqrt(28)",
+        "answer": "5.2915"
+    },
+    {
+        "id": 261,
+        "expression": "sqrt(456)",
+        "answer": "21.3542"
+    },
+    {
+        "id": 262,
+        "expression": "sqrt(-136)",
+        "answer": "11.6619i"
+    },
+    {
+        "id": 263,
+        "expression": "sqrt(504)",
+        "answer": "22.4499"
+    },
+    {
+        "id": 264,
+        "expression": "sqrt(246)",
+        "answer": "15.6844"
+    },
+    {
+        "id": 265,
+        "expression": "sqrt(1764/256)",
+        "answer": "2.625"
+    },
+    {
+        "id": 266,
+        "expression": "sqrt(170)",
+        "answer": "13.0384"
+    },
+    {
+        "id": 267,
+        "expression": "sqrt(225/6561)",
+        "answer": "0.1852"
+    },
+    {
+        "id": 268,
+        "expression": "sqrt(16384/8649)",
+        "answer": "1.3763"
+    },
+    {
+        "id": 269,
+        "expression": "sqrt(947)",
+        "answer": "30.7734"
+    },
+    {
+        "id": 270,
+        "expression": "sqrt(82)",
+        "answer": "9.0554"
+    },
+    {
+        "id": 271,
+        "expression": "sqrt(310)",
+        "answer": "17.6068"
+    },
+    {
+        "id": 272,
+        "expression": "sqrt(293)",
+        "answer": "17.1172"
+    },
+    {
+        "id": 273,
+        "expression": "sqrt(4900/2401)",
+        "answer": "1.4286"
+    },
+    {
+        "id": 274,
+        "expression": "sqrt(3969/5929)",
+        "answer": "0.8182"
+    },
+    {
+        "id": 275,
+        "expression": "sqrt(468)",
+        "answer": "21.6333"
+    },
+    {
+        "id": 276,
+        "expression": "sqrt(719)",
+        "answer": "26.8142"
+    },
+    {
+        "id": 277,
+        "expression": "sqrt(9025/6889)",
+        "answer": "1.1446"
+    },
+    {
+        "id": 278,
+        "expression": "sqrt(354)",
+        "answer": "18.8149"
+    },
+    {
+        "id": 279,
+        "expression": "sqrt(389)",
+        "answer": "19.7231"
+    },
+    {
+        "id": 280,
+        "expression": "sqrt(6)",
+        "answer": "2.4495"
+    },
+    {
+        "id": 281,
+        "expression": "sqrt(-84)",
+        "answer": "9.1652i"
+    },
+    {
+        "id": 282,
+        "expression": "sqrt(81)",
+        "answer": "9.0"
+    },
+    {
+        "id": 283,
+        "expression": "sqrt(4225/1444)",
+        "answer": "1.7105"
+    },
+    {
+        "id": 284,
+        "expression": "sqrt(361/1225)",
+        "answer": "0.5429"
+    },
+    {
+        "id": 285,
+        "expression": "sqrt(7)",
+        "answer": "2.6458"
+    },
+    {
+        "id": 286,
+        "expression": "sqrt(4225/16641)",
+        "answer": "0.5039"
+    },
+    {
+        "id": 287,
+        "expression": "sqrt(1015)",
+        "answer": "31.8591"
+    },
+    {
+        "id": 288,
+        "expression": "sqrt(-100)",
+        "answer": "10.0i"
+    },
+    {
+        "id": 289,
+        "expression": "sqrt(3249/400)",
+        "answer": "2.85"
+    },
+    {
+        "id": 290,
+        "expression": "sqrt(969)",
+        "answer": "31.1288"
+    },
+    {
+        "id": 291,
+        "expression": "sqrt(26569/6084)",
+        "answer": "2.0897"
+    },
+    {
+        "id": 292,
+        "expression": "sqrt(115)",
+        "answer": "10.7238"
+    },
+    {
+        "id": 293,
+        "expression": "sqrt(764)",
+        "answer": "27.6405"
+    },
+    {
+        "id": 294,
+        "expression": "sqrt(784/36)",
+        "answer": "4.6667"
+    },
+    {
+        "id": 295,
+        "expression": "sqrt(-90)",
+        "answer": "9.4868i"
+    },
+    {
+        "id": 296,
+        "expression": "sqrt(524)",
+        "answer": "22.891"
+    },
+    {
+        "id": 297,
+        "expression": "sqrt(4225/17689)",
+        "answer": "0.4887"
+    },
+    {
+        "id": 298,
+        "expression": "sqrt(793)",
+        "answer": "28.1603"
+    },
+    {
+        "id": 299,
+        "expression": "sqrt(785)",
+        "answer": "28.0179"
+    },
+    {
+        "id": 300,
+        "expression": "sqrt(345)",
+        "answer": "18.5742"
+    },
+    {
+        "id": 301,
+        "expression": "sqrt(7056/6241)",
+        "answer": "1.0633"
+    },
+    {
+        "id": 302,
+        "expression": "sqrt(-59)",
+        "answer": "7.6811i"
+    },
+    {
+        "id": 303,
+        "expression": "sqrt(565)",
+        "answer": "23.7697"
+    },
+    {
+        "id": 304,
+        "expression": "sqrt(6241/12769)",
+        "answer": "0.6991"
+    },
+    {
+        "id": 305,
+        "expression": "sqrt(-34)",
+        "answer": "5.831i"
+    },
+    {
+        "id": 306,
+        "expression": "sqrt(196/1156)",
+        "answer": "0.4118"
+    },
+    {
+        "id": 307,
+        "expression": "sqrt(-11)",
+        "answer": "3.3166i"
+    },
+    {
+        "id": 308,
+        "expression": "sqrt(625)",
+        "answer": "25.0"
+    },
+    {
+        "id": 309,
+        "expression": "sqrt(704)",
+        "answer": "26.533"
+    },
+    {
+        "id": 310,
+        "expression": "sqrt(13225/3600)",
+        "answer": "1.9167"
+    },
+    {
+        "id": 311,
+        "expression": "sqrt(-20)",
+        "answer": "4.4721i"
+    },
+    {
+        "id": 312,
+        "expression": "sqrt(-149)",
+        "answer": "12.2066i"
+    },
+    {
+        "id": 313,
+        "expression": "sqrt(8464/2809)",
+        "answer": "1.7358"
+    },
+    {
+        "id": 314,
+        "expression": "sqrt(-209)",
+        "answer": "14.4568i"
+    },
+    {
+        "id": 315,
+        "expression": "sqrt(964)",
+        "answer": "31.0483"
+    },
+    {
+        "id": 316,
+        "expression": "sqrt(805)",
+        "answer": "28.3725"
+    },
+    {
+        "id": 317,
+        "expression": "sqrt(7569/21904)",
+        "answer": "0.5878"
+    },
+    {
+        "id": 318,
+        "expression": "sqrt(3364/18225)",
+        "answer": "0.4296"
+    },
+    {
+        "id": 319,
+        "expression": "sqrt(3844/169)",
+        "answer": "4.7692"
+    },
+    {
+        "id": 320,
+        "expression": "sqrt(-158)",
+        "answer": "12.5698i"
+    },
+    {
+        "id": 321,
+        "expression": "sqrt(1004)",
+        "answer": "31.686"
+    },
+    {
+        "id": 322,
+        "expression": "sqrt(531)",
+        "answer": "23.0434"
+    },
+    {
+        "id": 323,
+        "expression": "sqrt(35721/9025)",
+        "answer": "1.9895"
+    },
+    {
+        "id": 324,
+        "expression": "sqrt(15)",
+        "answer": "3.873"
+    },
+    {
+        "id": 325,
+        "expression": "sqrt(656)",
+        "answer": "25.6125"
+    },
+    {
+        "id": 326,
+        "expression": "sqrt(183)",
+        "answer": "13.5277"
+    },
+    {
+        "id": 327,
+        "expression": "sqrt(1011)",
+        "answer": "31.7962"
+    },
+    {
+        "id": 328,
+        "expression": "sqrt(-175)",
+        "answer": "13.2288i"
+    },
+    {
+        "id": 329,
+        "expression": "sqrt(-93)",
+        "answer": "9.6437i"
+    },
+    {
+        "id": 330,
+        "expression": "sqrt(4624/5041)",
+        "answer": "0.9577"
+    },
+    {
+        "id": 331,
+        "expression": "sqrt(1764/6889)",
+        "answer": "0.506"
+    },
+    {
+        "id": 332,
+        "expression": "sqrt(470)",
+        "answer": "21.6795"
+    },
+    {
+        "id": 333,
+        "expression": "sqrt(-68)",
+        "answer": "8.2462i"
+    },
+    {
+        "id": 334,
+        "expression": "sqrt(876)",
+        "answer": "29.5973"
+    },
+    {
+        "id": 335,
+        "expression": "sqrt(81/5041)",
+        "answer": "0.1268"
+    },
+    {
+        "id": 336,
+        "expression": "sqrt(14161/1024)",
+        "answer": "3.7188"
+    },
+    {
+        "id": 337,
+        "expression": "sqrt(749)",
+        "answer": "27.3679"
+    },
+    {
+        "id": 338,
+        "expression": "sqrt(58)",
+        "answer": "7.6158"
+    },
+    {
+        "id": 339,
+        "expression": "sqrt(20736/8649)",
+        "answer": "1.5484"
+    },
+    {
+        "id": 340,
+        "expression": "sqrt(9025/12321)",
+        "answer": "0.8559"
+    },
+    {
+        "id": 341,
+        "expression": "sqrt(6084/30625)",
+        "answer": "0.4457"
+    },
+    {
+        "id": 342,
+        "expression": "sqrt(7744/484)",
+        "answer": "4.0"
+    },
+    {
+        "id": 343,
+        "expression": "sqrt(3249/23716)",
+        "answer": "0.3701"
+    },
+    {
+        "id": 344,
+        "expression": "sqrt(6400/7396)",
+        "answer": "0.9302"
+    },
+    {
+        "id": 345,
+        "expression": "sqrt(-208)",
+        "answer": "14.4222i"
+    },
+    {
+        "id": 346,
+        "expression": "sqrt(834)",
+        "answer": "28.8791"
+    },
+    {
+        "id": 347,
+        "expression": "sqrt(64/9409)",
+        "answer": "0.0825"
+    },
+    {
+        "id": 348,
+        "expression": "sqrt(24)",
+        "answer": "4.899"
+    },
+    {
+        "id": 349,
+        "expression": "sqrt(784/5776)",
+        "answer": "0.3684"
+    },
+    {
+        "id": 350,
+        "expression": "sqrt(921)",
+        "answer": "30.348"
+    },
+    {
+        "id": 351,
+        "expression": "sqrt(-131)",
+        "answer": "11.4455i"
+    },
+    {
+        "id": 352,
+        "expression": "sqrt(6400/64)",
+        "answer": "10.0"
+    },
+    {
+        "id": 353,
+        "expression": "sqrt(777)",
+        "answer": "27.8747"
+    },
+    {
+        "id": 354,
+        "expression": "sqrt(81/16)",
+        "answer": "2.25"
+    },
+    {
+        "id": 355,
+        "expression": "sqrt(918)",
+        "answer": "30.2985"
+    },
+    {
+        "id": 356,
+        "expression": "sqrt(990)",
+        "answer": "31.4643"
+    },
+    {
+        "id": 357,
+        "expression": "sqrt(-22)",
+        "answer": "4.6904i"
+    },
+    {
+        "id": 358,
+        "expression": "sqrt(1521/11025)",
+        "answer": "0.3714"
+    },
+    {
+        "id": 359,
+        "expression": "sqrt(-219)",
+        "answer": "14.7986i"
+    },
+    {
+        "id": 360,
+        "expression": "sqrt(725)",
+        "answer": "26.9258"
+    },
+    {
+        "id": 361,
+        "expression": "sqrt(730)",
+        "answer": "27.0185"
+    },
+    {
+        "id": 362,
+        "expression": "sqrt(-154)",
+        "answer": "12.4097i"
+    },
+    {
+        "id": 363,
+        "expression": "sqrt(8836/169)",
+        "answer": "7.2308"
+    },
+    {
+        "id": 364,
+        "expression": "sqrt(835)",
+        "answer": "28.8964"
+    },
+    {
+        "id": 365,
+        "expression": "sqrt(3481/5329)",
+        "answer": "0.8082"
+    },
+    {
+        "id": 366,
+        "expression": "sqrt(1024)",
+        "answer": "32.0"
+    },
+    {
+        "id": 367,
+        "expression": "sqrt(-58)",
+        "answer": "7.6158i"
+    },
+    {
+        "id": 368,
+        "expression": "sqrt(11881/8464)",
+        "answer": "1.1848"
+    },
+    {
+        "id": 369,
+        "expression": "sqrt(858)",
+        "answer": "29.2916"
+    },
+    {
+        "id": 370,
+        "expression": "sqrt(8100/23409)",
+        "answer": "0.5882"
+    },
+    {
+        "id": 371,
+        "expression": "sqrt(323)",
+        "answer": "17.9722"
+    },
+    {
+        "id": 372,
+        "expression": "sqrt(-27)",
+        "answer": "5.1962i"
+    },
+    {
+        "id": 373,
+        "expression": "sqrt(10404/2601)",
+        "answer": "2.0"
+    },
+    {
+        "id": 374,
+        "expression": "sqrt(124)",
+        "answer": "11.1355"
+    },
+    {
+        "id": 375,
+        "expression": "sqrt(3844/5929)",
+        "answer": "0.8052"
+    },
+    {
+        "id": 376,
+        "expression": "sqrt(273)",
+        "answer": "16.5227"
+    },
+    {
+        "id": 377,
+        "expression": "sqrt(753)",
+        "answer": "27.4408"
+    },
+    {
+        "id": 378,
+        "expression": "sqrt(352)",
+        "answer": "18.7617"
+    },
+    {
+        "id": 379,
+        "expression": "sqrt(-107)",
+        "answer": "10.3441i"
+    },
+    {
+        "id": 380,
+        "expression": "sqrt(1156/3481)",
+        "answer": "0.5763"
+    },
+    {
+        "id": 381,
+        "expression": "sqrt(-235)",
+        "answer": "15.3297i"
+    },
+    {
+        "id": 382,
+        "expression": "sqrt(476)",
+        "answer": "21.8174"
+    },
+    {
+        "id": 383,
+        "expression": "sqrt(668)",
+        "answer": "25.8457"
+    },
+    {
+        "id": 384,
+        "expression": "sqrt(-66)",
+        "answer": "8.124i"
+    },
+    {
+        "id": 385,
+        "expression": "sqrt(5625/81)",
+        "answer": "8.3333"
+    },
+    {
+        "id": 386,
+        "expression": "sqrt(18225/5184)",
+        "answer": "1.875"
+    },
+    {
+        "id": 387,
+        "expression": "sqrt(576/2916)",
+        "answer": "0.4444"
+    },
+    {
+        "id": 388,
+        "expression": "sqrt(900/8464)",
+        "answer": "0.3261"
+    },
+    {
+        "id": 389,
+        "expression": "sqrt(950)",
+        "answer": "30.8221"
+    },
+    {
+        "id": 390,
+        "expression": "sqrt(612)",
+        "answer": "24.7386"
+    },
+    {
+        "id": 391,
+        "expression": "sqrt(869)",
+        "answer": "29.4788"
+    },
+    {
+        "id": 392,
+        "expression": "sqrt(9216/29584)",
+        "answer": "0.5581"
+    },
+    {
+        "id": 393,
+        "expression": "sqrt(828)",
+        "answer": "28.775"
+    },
+    {
+        "id": 394,
+        "expression": "sqrt(770)",
+        "answer": "27.7489"
+    },
+    {
+        "id": 395,
+        "expression": "sqrt(4096/21609)",
+        "answer": "0.4354"
+    },
+    {
+        "id": 396,
+        "expression": "sqrt(162)",
+        "answer": "12.7279"
+    },
+    {
+        "id": 397,
+        "expression": "sqrt(3364/169)",
+        "answer": "4.4615"
+    },
+    {
+        "id": 398,
+        "expression": "sqrt(589)",
+        "answer": "24.2693"
+    },
+    {
+        "id": 399,
+        "expression": "sqrt(196/64)",
+        "answer": "1.75"
+    }
+]

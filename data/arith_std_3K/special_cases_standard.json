@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 0,
+        "expression": "249的平方根",
+        "answer": "15.7797"
+    },
+    {
+        "id": 1,
+        "expression": "根号五百五十二",
+        "answer": "23.4947"
+    },
+    {
+        "id": 2,
+        "expression": "739除以三十八的余数",
+        "answer": "17"
+    },
+    {
+        "id": 3,
+        "expression": "根号242",
+        "answer": "15.5563"
+    },
+    {
+        "id": 4,
+        "expression": "根号八十二",
+        "answer": "9.0554"
+    },
+    {
+        "id": 5,
+        "expression": "根号421",
+        "answer": "20.5183"
+    },
+    {
+        "id": 6,
+        "expression": "以6为底log(498)",
+        "answer": "3.4662"
+    },
+    {
+        "id": 7,
+        "expression": "十九的六次方根",
+        "answer": "1.6335"
+    },
+    {
+        "id": 8,
+        "expression": "十的阶乘",
+        "answer": "3628800"
+    },
+    {
+        "id": 9,
+        "expression": "根号九百三十三",
+        "answer": "30.545"
+    },
+    {
+        "id": 10,
+        "expression": "一千零一十九的平方根",
+        "answer": "31.9218"
+    },
+    {
+        "id": 11,
+        "expression": "十七的3次幂",
+        "answer": "4913"
+    },
+    {
+        "id": 12,
+        "expression": "3的阶乘",
+        "answer": "6"
+    },
+    {
+        "id": 13,
+        "expression": "837的4次方根",
+        "answer": "5.3788"
+    },
+    {
+        "id": 14,
+        "expression": "以10为底log(47)",
+        "answer": "1.6721"
+    },
+    {
+        "id": 15,
+        "expression": "331除以八的余",
+        "answer": "3"
+    },
+    {
+        "id": 16,
+        "expression": "8的阶乘",
+        "answer": "40320"
+    },
+    {
+        "id": 17,
+        "expression": "以7为底log(776)",
+        "answer": "3.4196"
+    },
+    {
+        "id": 18,
+        "expression": "十二的3次方",
+        "answer": "1728"
+    },
+    {
+        "id": 19,
+        "expression": "-2的8次幂",
+        "answer": "256"
+    },
+    {
+        "id": 20,
+        "expression": "二百六十九的4次方根",
+        "answer": "4.0498"
+    },
+    {
+        "id": 21,
+        "expression": "log(455)以6为底",
+        "answer": "3.4158"
+    },
+    {
+        "id": 22,
+        "expression": "三百七十二的九次方根",
+        "answer": "1.9303"
+    },
+    {
+        "id": 23,
+        "expression": "-5的2次方",
+        "answer": "25"
+    },
+    {
+        "id": 24,
+        "expression": "负六的三次方",
+        "answer": "-216"
+    },
+    {
+        "id": 25,
+        "expression": "以6为底log(639)",
+        "answer": "3.6053"
+    },
+    {
+        "id": 26,
+        "expression": "五百七十八的平方根",
+        "answer": "24.0416"
+    },
+    {
+        "id": 27,
+        "expression": "三的阶乘",
+        "answer": "6"
+    },
+    {
+        "id": 28,
+        "expression": "32的四次方根",
+        "answer": "2.3784"
+    },
+    {
+        "id": 29,
+        "expression": "二百一十八的五次方根",
+        "answer": "2.9356"
+    },
+    {
+        "id": 30,
+        "expression": "36的立方根",
+        "answer": "3.3019"
+    },
+    {
+        "id": 31,
+        "expression": "五的阶乘",
+        "answer": "120"
+    },
+    {
+        "id": 32,
+        "expression": "以7为底log(987)",
+        "answer": "3.5432"
+    },
+    {
+        "id": 33,
+        "expression": "5的10次幂",
+        "answer": "9765625"
+    },
+    {
+        "id": 34,
+        "expression": "八百四十七的9次方根",
+        "answer": "2.115"
+    },
+    {
+        "id": 35,
+        "expression": "150的9次方根",
+        "answer": "1.745"
+    },
+    {
+        "id": 36,
+        "expression": "六的阶乘",
+        "answer": "720"
+    },
+    {
+        "id": 37,
+        "expression": "1的3次幂",
+        "answer": "1"
+    },
+    {
+        "id": 38,
+        "expression": "八百三十五的平方根",
+        "answer": "28.8964"
+    },
+    {
+        "id": 39,
+        "expression": "七百三十四的7次方根",
+        "answer": "2.5668"
+    },
+    {
+        "id": 40,
+        "expression": "三百零二的平方根",
+        "answer": "17.3781"
+    },
+    {
+        "id": 41,
+        "expression": "3的-1次幂",
+        "answer": "0.3333"
+    },
+    {
+        "id": 42,
+        "expression": "11的8次幂",
+        "answer": "214358881"
+    },
+    {
+        "id": 43,
+        "expression": "7的阶乘",
+        "answer": "5040"
+    },
+    {
+        "id": 44,
+        "expression": "三百五十九的平方根",
+        "answer": "18.9473"
+    },
+    {
+        "id": 45,
+        "expression": "log(368)以7为底",
+        "answer": "3.0362"
+    },
+    {
+        "id": 46,
+        "expression": "根号九百一十九",
+        "answer": "30.315"
+    },
+    {
+        "id": 47,
+        "expression": "412除以57的余数",
+        "answer": "13"
+    },
+    {
+        "id": 48,
+        "expression": "3的十次方",
+        "answer": "59049"
+    },
+    {
+        "id": 49,
+        "expression": "840的4次方根",
+        "answer": "5.3836"
+    },
+    {
+        "id": 50,
+        "expression": "969的八次方根",
+        "answer": "2.3621"
+    },
+    {
+        "id": 51,
+        "expression": "8的五次幂",
+        "answer": "32768"
+    },
+    {
+        "id": 52,
+        "expression": "4的阶乘",
+        "answer": "24"
+    },
+    {
+        "id": 53,
+        "expression": "六百八十五的六次方根",
+        "answer": "2.969"
+    },
+    {
+        "id": 54,
+        "expression": "198的三次方根",
+        "answer": "5.8285"
+    },
+    {
+        "id": 55,
+        "expression": "log(831)以7为底",
+        "answer": "3.4547"
+    },
+    {
+        "id": 56,
+        "expression": "根号32",
+        "answer": "5.6569"
+    },
+    {
+        "id": 57,
+        "expression": "二的阶乘",
+        "answer": "2"
+    },
+    {
+        "id": 58,
+        "expression": "六的负一次方",
+        "answer": "0.1667"
+    },
+    {
+        "id": 59,
+        "expression": "负二的十次方",
+        "answer": "1024"
+    },
+    {
+        "id": 60,
+        "expression": "根号76",
+        "answer": "8.7178"
+    },
+    {
+        "id": 61,
+        "expression": "log(61)以7为底",
+        "answer": "2.1126"
+    },
+    {
+        "id": 62,
+        "expression": "-8的十次幂",
+        "answer": "1073741824"
+    },
+    {
+        "id": 63,
+        "expression": "七百一十一除以32的余数",
+        "answer": "7"
+    },
+    {
+        "id": 64,
+        "expression": "七百七十的9次方根",
+        "answer": "2.0928"
+    },
+    {
+        "id": 65,
+        "expression": "11的2次方",
+        "answer": "121"
+    },
+    {
+        "id": 66,
+        "expression": "219除以26的余",
+        "answer": "11"
+    },
+    {
+        "id": 67,
+        "expression": "根号九百七十六",
+        "answer": "31.241"
+    },
+    {
+        "id": 68,
+        "expression": "498除以57的余",
+        "answer": "42"
+    },
+    {
+        "id": 69,
+        "expression": "根号389",
+        "answer": "19.7231"
+    },
+    {
+        "id": 70,
+        "expression": "545的八次方根",
+        "answer": "2.1981"
+    },
+    {
+        "id": 71,
+        "expression": "一百的7次方根",
+        "answer": "1.9307"
+    },
+    {
+        "id": 72,
+        "expression": "以5为底log(301)",
+        "answer": "3.546"
+    },
+    {
+        "id": 73,
+        "expression": "log(284)以6为底",
+        "answer": "3.1528"
+    },
+    {
+        "id": 74,
+        "expression": "511除以27的余",
+        "answer": "25"
+    },
+    {
+        "id": 75,
+        "expression": "10的阶乘",
+        "answer": "3628800"
+    },
+    {
+        "id": 76,
+        "expression": "一的0次方",
+        "answer": "1"
+    },
+    {
+        "id": 77,
+        "expression": "783除以15余几",
+        "answer": "3"
+    },
+    {
+        "id": 78,
+        "expression": "九的阶乘",
+        "answer": "362880"
+    },
+    {
+        "id": 79,
+        "expression": "九百七十八除以9余几",
+        "answer": "6"
+    },
+    {
+        "id": 80,
+        "expression": "以9为底log(429)",
+        "answer": "2.7587"
+    },
+    {
+        "id": 81,
+        "expression": "四的-2次方",
+        "answer": "0.0625"
+    },
+    {
+        "id": 82,
+        "expression": "七百四十的7次方根",
+        "answer": "2.5697"
+    },
+    {
+        "id": 83,
+        "expression": "以4为底log(570)",
+        "answer": "4.5774"
+    },
+    {
+        "id": 84,
+        "expression": "859的5次方根",
+        "answer": "3.8619"
+    },
+    {
+        "id": 85,
+        "expression": "19的七次幂",
+        "answer": "893871739"
+    },
+    {
+        "id": 86,
+        "expression": "590除以二十六的余数",
+        "answer": "18"
+    },
+    {
+        "id": 87,
+        "expression": "log(14)以6为底",
+        "answer": "1.4729"
+    },
+    {
+        "id": 88,
+        "expression": "以10为底log(386)",
+        "answer": "2.5866"
+    },
+    {
+        "id": 89,
+        "expression": "1019的9次方根",
+        "answer": "2.1589"
+    },
+    {
+        "id": 90,
+        "expression": "287的9次方根",
+        "answer": "1.8754"
+    },
+    {
+        "id": 91,
+        "expression": "十四的0次幂",
+        "answer": "1"
+    },
+    {
+        "id": 92,
+        "expression": "以5为底log(12)",
+        "answer": "1.544"
+    },
+    {
+        "id": 93,
+        "expression": "十五的三次方",
+        "answer": "3375"
+    },
+    {
+        "id": 94,
+        "expression": "53的七次方根",
+        "answer": "1.7633"
+    },
+    {
+        "id": 95,
+        "expression": "根号三百四十三",
+        "answer": "18.5203"
+    },
+    {
+        "id": 96,
+        "expression": "522的平方根",
+        "answer": "22.8473"
+    },
+    {
+        "id": 97,
+        "expression": "650的8次方根",
+        "answer": "2.2471"
+    },
+    {
+        "id": 98,
+        "expression": "以3为底log(892)",
+        "answer": "6.1837"
+    },
+    {
+        "id": 99,
+        "expression": "根号二百零二",
+        "answer": "14.2127"
+    },
+    {
+        "id": 100,
+        "expression": "以6为底log(767)",
+        "answer": "3.7072"
+    },
+    {
+        "id": 101,
+        "expression": "394的5次方根",
+        "answer": "3.3045"
+    },
+    {
+        "id": 102,
+        "expression": "二百四十八的8次方根",
+        "answer": "1.9921"
+    },
+    {
+        "id": 103,
+        "expression": "-6的2次方",
+        "answer": "36"
+    },
+    {
+        "id": 104,
+        "expression": "797的平方根",
+        "answer": "28.2312"
+    },
+    {
+        "id": 105,
+        "expression": "以6为底log(491)",
+        "answer": "3.4583"
+    },
+    {
+        "id": 106,
+        "expression": "791的7次方根",
+        "answer": "2.5943"
+    },
+    {
+        "id": 107,
+        "expression": "十一的三次幂",
+        "answer": "1331"
+    },
+    {
+        "id": 108,
+        "expression": "9的4次幂",
+        "answer": "6561"
+    },
+    {
+        "id": 109,
+        "expression": "八百六十二除以48的余",
+        "answer": "46"
+    },
+    {
+        "id": 110,
+        "expression": "-1的0次幂",
+        "answer": "1"
+    },
+    {
+        "id": 111,
+        "expression": "742的三次方根",
+        "answer": "9.0532"
+    },
+    {
+        "id": 112,
+        "expression": "60除以38的余",
+        "answer": "22"
+    },
+    {
+        "id": 113,
+        "expression": "八百三十八的平方根",
+        "answer": "28.9482"
+    },
+    {
+        "id": 114,
+        "expression": "九百八十五除以21余几",
+        "answer": "19"
+    },
+    {
+        "id": 115,
+        "expression": "七百九十四的平方根",
+        "answer": "28.178"
+    },
+    {
+        "id": 116,
+        "expression": "967的六次方根",
+        "answer": "3.1446"
+    },
+    {
+        "id": 117,
+        "expression": "十八的零次幂",
+        "answer": "1"
+    },
+    {
+        "id": 118,
+        "expression": "234的9次方根",
+        "answer": "1.8334"
+    },
+    {
+        "id": 119,
+        "expression": "一百一十四的七次方根",
+        "answer": "1.9672"
+    },
+    {
+        "id": 120,
+        "expression": "九百零四的四次方根",
+        "answer": "5.4833"
+    },
+    {
+        "id": 121,
+        "expression": "八百九十九的平方根",
+        "answer": "29.9833"
+    },
+    {
+        "id": 122,
+        "expression": "log(498)以7为底",
+        "answer": "3.1916"
+    },
+    {
+        "id": 123,
+        "expression": "二的零次幂",
+        "answer": "1"
+    },
+    {
+        "id": 124,
+        "expression": "-6的-2次幂",
+        "answer": "0.0278"
+    },
+    {
+        "id": 125,
+        "expression": "821除以48的余数",
+        "answer": "5"
+    },
+    {
+        "id": 126,
+        "expression": "根号611",
+        "answer": "24.7184"
+    },
+    {
+        "id": 127,
+        "expression": "110除以二十六余几",
+        "answer": "6"
+    },
+    {
+        "id": 128,
+        "expression": "753除以三十七的余数",
+        "answer": "13"
+    },
+    {
+        "id": 129,
+        "expression": "十五的负一次幂",
+        "answer": "0.0667"
+    },
+    {
+        "id": 130,
+        "expression": "log(363)以3为底",
+        "answer": "5.3653"
+    },
+    {
+        "id": 131,
+        "expression": "九百二十四的四次方根",
+        "answer": "5.5134"
+    },
+    {
+        "id": 132,
+        "expression": "八百五十四的9次方根",
+        "answer": "2.117"
+    },
+    {
+        "id": 133,
+        "expression": "根号929",
+        "answer": "30.4795"
+    },
+    {
+        "id": 134,
+        "expression": "八的4次方",
+        "answer": "4096"
+    },
+    {
+        "id": 135,
+        "expression": "565除以59的余",
+        "answer": "34"
+    },
+    {
+        "id": 136,
+        "expression": "六十六的八次方根",
+        "answer": "1.6883"
+    },
+    {
+        "id": 137,
+        "expression": "281的9次方根",
+        "answer": "1.871"
+    },
+    {
+        "id": 138,
+        "expression": "472的平方根",
+        "answer": "21.7256"
+    },
+    {
+        "id": 139,
+        "expression": "log(210)以7为底",
+        "answer": "2.7479"
+    },
+    {
+        "id": 140,
+        "expression": "-2的6次方",
+        "answer": "64"
+    },
+    {
+        "id": 141,
+        "expression": "647除以二十的余数",
+        "answer": "7"
+    },
+    {
+        "id": 142,
+        "expression": "十五的二次幂",
+        "answer": "225"
+    },
+    {
+        "id": 143,
+        "expression": "以4为底log(1003)",
+        "answer": "4.9851"
+    },
+    {
+        "id": 144,
+        "expression": "负七的0次方",
+        "answer": "1"
+    },
+    {
+        "id": 145,
+        "expression": "-2的七次方",
+        "answer": "-128"
+    },
+    {
+        "id": 146,
+        "expression": "以2为底log(874)",
+        "answer": "9.7715"
+    },
+    {
+        "id": 147,
+        "expression": "log(62)以9为底",
+        "answer": "1.8783"
+    },
+    {
+        "id": 148,
+        "expression": "782除以五十六的余数",
+        "answer": "54"
+    },
+    {
+        "id": 149,
+        "expression": "负四的-1次方",
+        "answer": "-0.25"
+    },
+    {
+        "id": 150,
+        "expression": "885的4次方根",
+        "answer": "5.4543"
+    },
+    {
+        "id": 151,
+        "expression": "九百七十七的平方根",
+        "answer": "31.257"
+    },
+    {
+        "id": 152,
+        "expression": "根号六百六十二",
+        "answer": "25.7294"
+    },
+    {
+        "id": 153,
+        "expression": "258的4次方根",
+        "answer": "4.0078"
+    },
+    {
+        "id": 154,
+        "expression": "八百零六除以20的余数",
+        "answer": "6"
+    },
+    {
+        "id": 155,
+        "expression": "根号四百八十八",
+        "answer": "22.0907"
+    },
+    {
+        "id": 156,
+        "expression": "395除以五十五的余",
+        "answer": "10"
+    },
+    {
+        "id": 157,
+        "expression": "四百四十四的五次方根",
+        "answer": "3.3844"
+    },
+    {
+        "id": 158,
+        "expression": "三百二十三除以40的余数",
+        "answer": "3"
+    },
+    {
+        "id": 159,
+        "expression": "640的平方根",
+        "answer": "25.2982"
+    },
+    {
+        "id": 160,
+        "expression": "-2的0次幂",
+        "answer": "1"
+    },
+    {
+        "id": 161,
+        "expression": "520的九次方根",
+        "answer": "2.0034"
+    },
+    {
+        "id": 162,
+        "expression": "三百三十四除以31的余数",
+        "answer": "24"
+    },
+    {
+        "id": 163,
+        "expression": "九百四十四的三次方根",
+        "answer": "9.8097"
+    },
+    {
+        "id": 164,
+        "expression": "五百三十二的九次方根",
+        "answer": "2.0085"
+    },
+    {
+        "id": 165,
+        "expression": "七百六十九的平方根",
+        "answer": "27.7308"
+    },
+    {
+        "id": 166,
+        "expression": "501的4次方根",
+        "answer": "4.7311"
+    },
+    {
+        "id": 167,
+        "expression": "213的4次方根",
+        "answer": "3.8203"
+    },
+    {
+        "id": 168,
+        "expression": "四百九十九的平方根",
+        "answer": "22.3383"
+    },
+    {
+        "id": 169,
+        "expression": "log(526)以6为底",
+        "answer": "3.4967"
+    },
+    {
+        "id": 170,
+        "expression": "九百七十的四次方根",
+        "answer": "5.5808"
+    },
+    {
+        "id": 171,
+        "expression": "log(477)以7为底",
+        "answer": "3.1695"
+    },
+    {
+        "id": 172,
+        "expression": "以9为底log(778)",
+        "answer": "3.0296"
+    },
+    {
+        "id": 173,
+        "expression": "438的平方根",
+        "answer": "20.9284"
+    },
+    {
+        "id": 174,
+        "expression": "554的三次方根",
+        "answer": "8.213"
+    },
+    {
+        "id": 175,
+        "expression": "十六的3次幂",
+        "answer": "4096"
+    },
+    {
+        "id": 176,
+        "expression": "根号648",
+        "answer": "25.4558"
+    },
+    {
+        "id": 177,
+        "expression": "六百四十九的6次方根",
+        "answer": "2.9424"
+    },
+    {
+        "id": 178,
+        "expression": "log(86)以10为底",
+        "answer": "1.9345"
+    },
+    {
+        "id": 179,
+        "expression": "六百四十二的平方根",
+        "answer": "25.3377"
+    },
+    {
+        "id": 180,
+        "expression": "242除以18余几",
+        "answer": "8"
+    },
+    {
+        "id": 181,
+        "expression": "六百五十除以十五的余",
+        "answer": "5"
+    },
+    {
+        "id": 182,
+        "expression": "714的四次方根",
+        "answer": "5.1692"
+    },
+    {
+        "id": 183,
+        "expression": "一千零二十三的平方根",
+        "answer": "31.9844"
+    },
+    {
+        "id": 184,
+        "expression": "以4为底log(604)",
+        "answer": "4.6192"
+    },
+    {
+        "id": 185,
+        "expression": "517的7次方根",
+        "answer": "2.4414"
+    },
+    {
+        "id": 186,
+        "expression": "七百七十六的平方根",
+        "answer": "27.8568"
+    },
+    {
+        "id": 187,
+        "expression": "三百零五除以58余几",
+        "answer": "15"
+    },
+    {
+        "id": 188,
+        "expression": "594的6次方根",
+        "answer": "2.8993"
+    },
+    {
+        "id": 189,
+        "expression": "五百八十一的9次方根",
+        "answer": "2.0283"
+    },
+    {
+        "id": 190,
+        "expression": "根号八百七十三",
+        "answer": "29.5466"
+    },
+    {
+        "id": 191,
+        "expression": "负四的8次幂",
+        "answer": "65536"
+    },
+    {
+        "id": 192,
+        "expression": "二百五十三的3次方根",
+        "answer": "6.3247"
+    },
+    {
+        "id": 193,
+        "expression": "581的平方根",
+        "answer": "24.1039"
+    },
+    {
+        "id": 194,
+        "expression": "根号942",
+        "answer": "30.692"
+    },
+    {
+        "id": 195,
+        "expression": "以9为底log(270)",
+        "answer": "2.548"
+    },
+    {
+        "id": 196,
+        "expression": "八百一十九的3次方根",
+        "answer": "9.3561"
+    },
+    {
+        "id": 197,
+        "expression": "13的1次幂",
+        "answer": "13"
+    },
+    {
+        "id": 198,
+        "expression": "负二的七次幂",
+        "answer": "-128"
+    },
+    {
+        "id": 199,
+        "expression": "79的六次方根",
+        "answer": "2.0714"
+    }
+]

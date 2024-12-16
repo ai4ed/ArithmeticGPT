@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "841*183",
+        "answer": "153903"
+    },
+    {
+        "id": 201,
+        "expression": "771*(-86)",
+        "answer": "-66306"
+    },
+    {
+        "id": 202,
+        "expression": "59372*(-95)",
+        "answer": "-5640340"
+    },
+    {
+        "id": 203,
+        "expression": "-57425/416",
+        "answer": "-138.0409"
+    },
+    {
+        "id": 204,
+        "expression": "884-38",
+        "answer": "846"
+    },
+    {
+        "id": 205,
+        "expression": "-5-(-80748)",
+        "answer": "80743"
+    },
+    {
+        "id": 206,
+        "expression": "27176*30",
+        "answer": "815280"
+    },
+    {
+        "id": 207,
+        "expression": "1715-792",
+        "answer": "923"
+    },
+    {
+        "id": 208,
+        "expression": "47346/78",
+        "answer": "607.0"
+    },
+    {
+        "id": 209,
+        "expression": "4178*67749",
+        "answer": "283055322"
+    },
+    {
+        "id": 210,
+        "expression": "9239*35",
+        "answer": "323365"
+    },
+    {
+        "id": 211,
+        "expression": "8*(-23446)",
+        "answer": "-187568"
+    },
+    {
+        "id": 212,
+        "expression": "3*9410",
+        "answer": "28230"
+    },
+    {
+        "id": 213,
+        "expression": "4/127",
+        "answer": "0.0315"
+    },
+    {
+        "id": 214,
+        "expression": "9224+(-59)",
+        "answer": "9165"
+    },
+    {
+        "id": 215,
+        "expression": "13*6",
+        "answer": "78"
+    },
+    {
+        "id": 216,
+        "expression": "5-100",
+        "answer": "-95"
+    },
+    {
+        "id": 217,
+        "expression": "-10688/5",
+        "answer": "-2137.6"
+    },
+    {
+        "id": 218,
+        "expression": "89807-5",
+        "answer": "89802"
+    },
+    {
+        "id": 219,
+        "expression": "1*(-8489)",
+        "answer": "-8489"
+    },
+    {
+        "id": 220,
+        "expression": "-9782+85372",
+        "answer": "75590"
+    },
+    {
+        "id": 221,
+        "expression": "-539-56244",
+        "answer": "-56783"
+    },
+    {
+        "id": 222,
+        "expression": "-8702+7116",
+        "answer": "-1586"
+    },
+    {
+        "id": 223,
+        "expression": "-907+(-346)",
+        "answer": "-1253"
+    },
+    {
+        "id": 224,
+        "expression": "15*54374",
+        "answer": "815610"
+    },
+    {
+        "id": 225,
+        "expression": "3986/(-8)",
+        "answer": "-498.25"
+    },
+    {
+        "id": 226,
+        "expression": "15*6",
+        "answer": "90"
+    },
+    {
+        "id": 227,
+        "expression": "72049/4",
+        "answer": "18012.25"
+    },
+    {
+        "id": 228,
+        "expression": "6*6",
+        "answer": "36"
+    },
+    {
+        "id": 229,
+        "expression": "7334/73",
+        "answer": "100.4658"
+    },
+    {
+        "id": 230,
+        "expression": "-44959*2293",
+        "answer": "-103090987"
+    },
+    {
+        "id": 231,
+        "expression": "48504-2",
+        "answer": "48502"
+    },
+    {
+        "id": 232,
+        "expression": "556*98",
+        "answer": "54488"
+    },
+    {
+        "id": 233,
+        "expression": "1693*67008",
+        "answer": "113444544"
+    },
+    {
+        "id": 234,
+        "expression": "7+99051",
+        "answer": "99058"
+    },
+    {
+        "id": 235,
+        "expression": "87+(-3)",
+        "answer": "84"
+    },
+    {
+        "id": 236,
+        "expression": "470-14244",
+        "answer": "-13774"
+    },
+    {
+        "id": 237,
+        "expression": "480/10",
+        "answer": "48.0"
+    },
+    {
+        "id": 238,
+        "expression": "6150*(-24)",
+        "answer": "-147600"
+    },
+    {
+        "id": 239,
+        "expression": "9482-25435",
+        "answer": "-15953"
+    },
+    {
+        "id": 240,
+        "expression": "4515*(-4279)",
+        "answer": "-19319685"
+    },
+    {
+        "id": 241,
+        "expression": "8-2438",
+        "answer": "-2430"
+    },
+    {
+        "id": 242,
+        "expression": "9*971",
+        "answer": "8739"
+    },
+    {
+        "id": 243,
+        "expression": "620-4",
+        "answer": "616"
+    },
+    {
+        "id": 244,
+        "expression": "1430-85009",
+        "answer": "-83579"
+    },
+    {
+        "id": 245,
+        "expression": "-27009/5",
+        "answer": "-5401.8"
+    },
+    {
+        "id": 246,
+        "expression": "63843/19666",
+        "answer": "3.2464"
+    },
+    {
+        "id": 247,
+        "expression": "8*55156",
+        "answer": "441248"
+    },
+    {
+        "id": 248,
+        "expression": "-65-9",
+        "answer": "-74"
+    },
+    {
+        "id": 249,
+        "expression": "30*54",
+        "answer": "1620"
+    },
+    {
+        "id": 250,
+        "expression": "301+90",
+        "answer": "391"
+    },
+    {
+        "id": 251,
+        "expression": "94015+86106",
+        "answer": "180121"
+    },
+    {
+        "id": 252,
+        "expression": "89316-(-15399)",
+        "answer": "104715"
+    },
+    {
+        "id": 253,
+        "expression": "10+83",
+        "answer": "93"
+    },
+    {
+        "id": 254,
+        "expression": "9938+594",
+        "answer": "10532"
+    },
+    {
+        "id": 255,
+        "expression": "-564/3",
+        "answer": "-188.0"
+    },
+    {
+        "id": 256,
+        "expression": "8609/721",
+        "answer": "11.9404"
+    },
+    {
+        "id": 257,
+        "expression": "851*3142",
+        "answer": "2673842"
+    },
+    {
+        "id": 258,
+        "expression": "347+5",
+        "answer": "352"
+    },
+    {
+        "id": 259,
+        "expression": "-22-493",
+        "answer": "-515"
+    },
+    {
+        "id": 260,
+        "expression": "51-30",
+        "answer": "21"
+    },
+    {
+        "id": 261,
+        "expression": "6055/2",
+        "answer": "3027.5"
+    },
+    {
+        "id": 262,
+        "expression": "37/1",
+        "answer": "37.0"
+    },
+    {
+        "id": 263,
+        "expression": "95755/(-649)",
+        "answer": "-147.5424"
+    },
+    {
+        "id": 264,
+        "expression": "3194+882",
+        "answer": "4076"
+    },
+    {
+        "id": 265,
+        "expression": "-7*83638",
+        "answer": "-585466"
+    },
+    {
+        "id": 266,
+        "expression": "-47827*9261",
+        "answer": "-442925847"
+    },
+    {
+        "id": 267,
+        "expression": "-99181*22",
+        "answer": "-2181982"
+    },
+    {
+        "id": 268,
+        "expression": "671*35",
+        "answer": "23485"
+    },
+    {
+        "id": 269,
+        "expression": "1+923",
+        "answer": "924"
+    },
+    {
+        "id": 270,
+        "expression": "87/727",
+        "answer": "0.1197"
+    },
+    {
+        "id": 271,
+        "expression": "5902-76809",
+        "answer": "-70907"
+    },
+    {
+        "id": 272,
+        "expression": "1272*(-789)",
+        "answer": "-1003608"
+    },
+    {
+        "id": 273,
+        "expression": "-50327/72205",
+        "answer": "-0.697"
+    },
+    {
+        "id": 274,
+        "expression": "10-77",
+        "answer": "-67"
+    },
+    {
+        "id": 275,
+        "expression": "-14-12",
+        "answer": "-26"
+    },
+    {
+        "id": 276,
+        "expression": "3481*62",
+        "answer": "215822"
+    },
+    {
+        "id": 277,
+        "expression": "76+52604",
+        "answer": "52680"
+    },
+    {
+        "id": 278,
+        "expression": "73462*45",
+        "answer": "3305790"
+    },
+    {
+        "id": 279,
+        "expression": "889-98",
+        "answer": "791"
+    },
+    {
+        "id": 280,
+        "expression": "6714*224",
+        "answer": "1503936"
+    },
+    {
+        "id": 281,
+        "expression": "891/143",
+        "answer": "6.2308"
+    },
+    {
+        "id": 282,
+        "expression": "552+4505",
+        "answer": "5057"
+    },
+    {
+        "id": 283,
+        "expression": "45601*10",
+        "answer": "456010"
+    },
+    {
+        "id": 284,
+        "expression": "9-(-16)",
+        "answer": "25"
+    },
+    {
+        "id": 285,
+        "expression": "834/(-3)",
+        "answer": "-278.0"
+    },
+    {
+        "id": 286,
+        "expression": "8793-46",
+        "answer": "8747"
+    },
+    {
+        "id": 287,
+        "expression": "2*14888",
+        "answer": "29776"
+    },
+    {
+        "id": 288,
+        "expression": "-5+391",
+        "answer": "386"
+    },
+    {
+        "id": 289,
+        "expression": "74/(-297)",
+        "answer": "-0.2492"
+    },
+    {
+        "id": 290,
+        "expression": "68*11",
+        "answer": "748"
+    },
+    {
+        "id": 291,
+        "expression": "98395*88",
+        "answer": "8658760"
+    },
+    {
+        "id": 292,
+        "expression": "-52982/2562",
+        "answer": "-20.6799"
+    },
+    {
+        "id": 293,
+        "expression": "6301-5",
+        "answer": "6296"
+    },
+    {
+        "id": 294,
+        "expression": "5374-(-696)",
+        "answer": "6070"
+    },
+    {
+        "id": 295,
+        "expression": "809*2",
+        "answer": "1618"
+    },
+    {
+        "id": 296,
+        "expression": "61*5",
+        "answer": "305"
+    },
+    {
+        "id": 297,
+        "expression": "27-68",
+        "answer": "-41"
+    },
+    {
+        "id": 298,
+        "expression": "71712/(-97)",
+        "answer": "-739.299"
+    },
+    {
+        "id": 299,
+        "expression": "-57419/(-24707)",
+        "answer": "2.324"
+    },
+    {
+        "id": 300,
+        "expression": "80341-51",
+        "answer": "80290"
+    },
+    {
+        "id": 301,
+        "expression": "84+9",
+        "answer": "93"
+    },
+    {
+        "id": 302,
+        "expression": "3161+1945",
+        "answer": "5106"
+    },
+    {
+        "id": 303,
+        "expression": "7*(-4)",
+        "answer": "-28"
+    },
+    {
+        "id": 304,
+        "expression": "-6644+(-17897)",
+        "answer": "-24541"
+    },
+    {
+        "id": 305,
+        "expression": "5/27",
+        "answer": "0.1852"
+    },
+    {
+        "id": 306,
+        "expression": "8348*2314",
+        "answer": "19317272"
+    },
+    {
+        "id": 307,
+        "expression": "3*26691",
+        "answer": "80073"
+    },
+    {
+        "id": 308,
+        "expression": "5+65591",
+        "answer": "65596"
+    },
+    {
+        "id": 309,
+        "expression": "68-45",
+        "answer": "23"
+    },
+    {
+        "id": 310,
+        "expression": "-7+(-36)",
+        "answer": "-43"
+    },
+    {
+        "id": 311,
+        "expression": "14400+(-98083)",
+        "answer": "-83683"
+    },
+    {
+        "id": 312,
+        "expression": "7-79",
+        "answer": "-72"
+    },
+    {
+        "id": 313,
+        "expression": "74+83",
+        "answer": "157"
+    },
+    {
+        "id": 314,
+        "expression": "48*38972",
+        "answer": "1870656"
+    },
+    {
+        "id": 315,
+        "expression": "162*(-9120)",
+        "answer": "-1477440"
+    },
+    {
+        "id": 316,
+        "expression": "9592*7688",
+        "answer": "73743296"
+    },
+    {
+        "id": 317,
+        "expression": "4012*38",
+        "answer": "152456"
+    },
+    {
+        "id": 318,
+        "expression": "1944-9683",
+        "answer": "-7739"
+    },
+    {
+        "id": 319,
+        "expression": "42/(-762)",
+        "answer": "-0.0551"
+    },
+    {
+        "id": 320,
+        "expression": "194/5",
+        "answer": "38.8"
+    },
+    {
+        "id": 321,
+        "expression": "4+4422",
+        "answer": "4426"
+    },
+    {
+        "id": 322,
+        "expression": "4*8",
+        "answer": "32"
+    },
+    {
+        "id": 323,
+        "expression": "4921-489",
+        "answer": "4432"
+    },
+    {
+        "id": 324,
+        "expression": "367*75179",
+        "answer": "27590693"
+    },
+    {
+        "id": 325,
+        "expression": "6246+420",
+        "answer": "6666"
+    },
+    {
+        "id": 326,
+        "expression": "39002+5",
+        "answer": "39007"
+    },
+    {
+        "id": 327,
+        "expression": "35*58",
+        "answer": "2030"
+    },
+    {
+        "id": 328,
+        "expression": "95800/881",
+        "answer": "108.7401"
+    },
+    {
+        "id": 329,
+        "expression": "3756/27",
+        "answer": "139.1111"
+    },
+    {
+        "id": 330,
+        "expression": "-94123-(-14433)",
+        "answer": "-79690"
+    },
+    {
+        "id": 331,
+        "expression": "7+18",
+        "answer": "25"
+    },
+    {
+        "id": 332,
+        "expression": "74+161",
+        "answer": "235"
+    },
+    {
+        "id": 333,
+        "expression": "1/1",
+        "answer": "1.0"
+    },
+    {
+        "id": 334,
+        "expression": "9*(-23)",
+        "answer": "-207"
+    },
+    {
+        "id": 335,
+        "expression": "34-373",
+        "answer": "-339"
+    },
+    {
+        "id": 336,
+        "expression": "515+41877",
+        "answer": "42392"
+    },
+    {
+        "id": 337,
+        "expression": "-1*7213",
+        "answer": "-7213"
+    },
+    {
+        "id": 338,
+        "expression": "1/8",
+        "answer": "0.125"
+    },
+    {
+        "id": 339,
+        "expression": "-22499*37",
+        "answer": "-832463"
+    },
+    {
+        "id": 340,
+        "expression": "2*(-83860)",
+        "answer": "-167720"
+    },
+    {
+        "id": 341,
+        "expression": "116-28899",
+        "answer": "-28783"
+    },
+    {
+        "id": 342,
+        "expression": "266+61007",
+        "answer": "61273"
+    },
+    {
+        "id": 343,
+        "expression": "-4803+719",
+        "answer": "-4084"
+    },
+    {
+        "id": 344,
+        "expression": "5*4737",
+        "answer": "23685"
+    },
+    {
+        "id": 345,
+        "expression": "4043/10",
+        "answer": "404.3"
+    },
+    {
+        "id": 346,
+        "expression": "2-58",
+        "answer": "-56"
+    },
+    {
+        "id": 347,
+        "expression": "-469/1",
+        "answer": "-469.0"
+    },
+    {
+        "id": 348,
+        "expression": "879/(-3)",
+        "answer": "-293.0"
+    },
+    {
+        "id": 349,
+        "expression": "8353-(-1)",
+        "answer": "8354"
+    },
+    {
+        "id": 350,
+        "expression": "22198*1202",
+        "answer": "26681996"
+    },
+    {
+        "id": 351,
+        "expression": "2387/78302",
+        "answer": "0.0305"
+    },
+    {
+        "id": 352,
+        "expression": "27/374",
+        "answer": "0.0722"
+    },
+    {
+        "id": 353,
+        "expression": "3-531",
+        "answer": "-528"
+    },
+    {
+        "id": 354,
+        "expression": "6/90",
+        "answer": "0.0667"
+    },
+    {
+        "id": 355,
+        "expression": "2752-106",
+        "answer": "2646"
+    },
+    {
+        "id": 356,
+        "expression": "59792*6484",
+        "answer": "387691328"
+    },
+    {
+        "id": 357,
+        "expression": "428-6147",
+        "answer": "-5719"
+    },
+    {
+        "id": 358,
+        "expression": "936/216",
+        "answer": "4.3333"
+    },
+    {
+        "id": 359,
+        "expression": "13527-66",
+        "answer": "13461"
+    },
+    {
+        "id": 360,
+        "expression": "9180+347",
+        "answer": "9527"
+    },
+    {
+        "id": 361,
+        "expression": "-7176-8851",
+        "answer": "-16027"
+    },
+    {
+        "id": 362,
+        "expression": "14818/(-87833)",
+        "answer": "-0.1687"
+    },
+    {
+        "id": 363,
+        "expression": "94+(-92)",
+        "answer": "2"
+    },
+    {
+        "id": 364,
+        "expression": "915/(-1)",
+        "answer": "-915.0"
+    },
+    {
+        "id": 365,
+        "expression": "75*7129",
+        "answer": "534675"
+    },
+    {
+        "id": 366,
+        "expression": "75597/125",
+        "answer": "604.776"
+    },
+    {
+        "id": 367,
+        "expression": "-525+3",
+        "answer": "-522"
+    },
+    {
+        "id": 368,
+        "expression": "566*73298",
+        "answer": "41486668"
+    },
+    {
+        "id": 369,
+        "expression": "8/168",
+        "answer": "0.0476"
+    },
+    {
+        "id": 370,
+        "expression": "1+3",
+        "answer": "4"
+    },
+    {
+        "id": 371,
+        "expression": "30989-65885",
+        "answer": "-34896"
+    },
+    {
+        "id": 372,
+        "expression": "4022-(-7481)",
+        "answer": "11503"
+    },
+    {
+        "id": 373,
+        "expression": "8037-4",
+        "answer": "8033"
+    },
+    {
+        "id": 374,
+        "expression": "-10*34505",
+        "answer": "-345050"
+    },
+    {
+        "id": 375,
+        "expression": "-68*786",
+        "answer": "-53448"
+    },
+    {
+        "id": 376,
+        "expression": "60939*24972",
+        "answer": "1521768708"
+    },
+    {
+        "id": 377,
+        "expression": "3826*(-87354)",
+        "answer": "-334216404"
+    },
+    {
+        "id": 378,
+        "expression": "220-219",
+        "answer": "1"
+    },
+    {
+        "id": 379,
+        "expression": "75*3258",
+        "answer": "244350"
+    },
+    {
+        "id": 380,
+        "expression": "33*1878",
+        "answer": "61974"
+    },
+    {
+        "id": 381,
+        "expression": "3236+9281",
+        "answer": "12517"
+    },
+    {
+        "id": 382,
+        "expression": "7809/(-3740)",
+        "answer": "-2.088"
+    },
+    {
+        "id": 383,
+        "expression": "-47+330",
+        "answer": "283"
+    },
+    {
+        "id": 384,
+        "expression": "-9115-24969",
+        "answer": "-34084"
+    },
+    {
+        "id": 385,
+        "expression": "15453*38644",
+        "answer": "597165732"
+    },
+    {
+        "id": 386,
+        "expression": "-48+5305",
+        "answer": "5257"
+    },
+    {
+        "id": 387,
+        "expression": "2923+85",
+        "answer": "3008"
+    },
+    {
+        "id": 388,
+        "expression": "88/(-36)",
+        "answer": "-2.4444"
+    },
+    {
+        "id": 389,
+        "expression": "46842*820",
+        "answer": "38410440"
+    },
+    {
+        "id": 390,
+        "expression": "-45041*(-62)",
+        "answer": "2792542"
+    },
+    {
+        "id": 391,
+        "expression": "99*28",
+        "answer": "2772"
+    },
+    {
+        "id": 392,
+        "expression": "9019-92890",
+        "answer": "-83871"
+    },
+    {
+        "id": 393,
+        "expression": "-8405/7",
+        "answer": "-1200.7143"
+    },
+    {
+        "id": 394,
+        "expression": "8996*(-10324)",
+        "answer": "-92874704"
+    },
+    {
+        "id": 395,
+        "expression": "-970/62129",
+        "answer": "-0.0156"
+    },
+    {
+        "id": 396,
+        "expression": "73/948",
+        "answer": "0.077"
+    },
+    {
+        "id": 397,
+        "expression": "85750*73614",
+        "answer": "6312400500"
+    },
+    {
+        "id": 398,
+        "expression": "2+2",
+        "answer": "4"
+    },
+    {
+        "id": 399,
+        "expression": "1011/98",
+        "answer": "10.3163"
+    }
+]

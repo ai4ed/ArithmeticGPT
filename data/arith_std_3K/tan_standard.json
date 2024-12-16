@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "tan(π/20)",
+        "answer": "0.1584"
+    },
+    {
+        "id": 201,
+        "expression": "tan(π/30)",
+        "answer": "0.1051"
+    },
+    {
+        "id": 202,
+        "expression": "tan(2.55π)",
+        "answer": "-6.3138"
+    },
+    {
+        "id": 203,
+        "expression": "tan(152°)",
+        "answer": "-0.5317"
+    },
+    {
+        "id": 204,
+        "expression": "tan(π/4)",
+        "answer": "1.0"
+    },
+    {
+        "id": 205,
+        "expression": "tan(124°)",
+        "answer": "-1.4826"
+    },
+    {
+        "id": 206,
+        "expression": "tan(9.03π)",
+        "answer": "0.0945"
+    },
+    {
+        "id": 207,
+        "expression": "tan(-2.46π)",
+        "answer": "-7.9158"
+    },
+    {
+        "id": 208,
+        "expression": "tan(8/21π)",
+        "answer": "2.548"
+    },
+    {
+        "id": 209,
+        "expression": "tan(-138°)",
+        "answer": "0.9004"
+    },
+    {
+        "id": 210,
+        "expression": "tan(π/9)",
+        "answer": "0.364"
+    },
+    {
+        "id": 211,
+        "expression": "tan(62°)",
+        "answer": "1.8807"
+    },
+    {
+        "id": 212,
+        "expression": "tan(-176°)",
+        "answer": "0.0699"
+    },
+    {
+        "id": 213,
+        "expression": "tan(1.91π)",
+        "answer": "-0.2905"
+    },
+    {
+        "id": 214,
+        "expression": "tan(-126°)",
+        "answer": "1.3764"
+    },
+    {
+        "id": 215,
+        "expression": "tan(3.69π)",
+        "answer": "-1.4715"
+    },
+    {
+        "id": 216,
+        "expression": "tan(180°)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 217,
+        "expression": "tan(-31°)",
+        "answer": "-0.6009"
+    },
+    {
+        "id": 218,
+        "expression": "tan(5.21π)",
+        "answer": "0.7757"
+    },
+    {
+        "id": 219,
+        "expression": "tan(148°)",
+        "answer": "-0.6249"
+    },
+    {
+        "id": 220,
+        "expression": "tan(1/30π)",
+        "answer": "0.1051"
+    },
+    {
+        "id": 221,
+        "expression": "tan(-34°)",
+        "answer": "-0.6745"
+    },
+    {
+        "id": 222,
+        "expression": "tan(-92°)",
+        "answer": "28.6363"
+    },
+    {
+        "id": 223,
+        "expression": "tan(-71°)",
+        "answer": "-2.9042"
+    },
+    {
+        "id": 224,
+        "expression": "tan(7.91π)",
+        "answer": "-0.2905"
+    },
+    {
+        "id": 225,
+        "expression": "tan(3.57π)",
+        "answer": "-4.4737"
+    },
+    {
+        "id": 226,
+        "expression": "tan(19/4π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 227,
+        "expression": "tan(134°)",
+        "answer": "-1.0355"
+    },
+    {
+        "id": 228,
+        "expression": "tan(-35°)",
+        "answer": "-0.7002"
+    },
+    {
+        "id": 229,
+        "expression": "tan(-157°)",
+        "answer": "0.4245"
+    },
+    {
+        "id": 230,
+        "expression": "tan(-119°)",
+        "answer": "1.804"
+    },
+    {
+        "id": 231,
+        "expression": "tan(π/15)",
+        "answer": "0.2126"
+    },
+    {
+        "id": 232,
+        "expression": "tan(2/22π)",
+        "answer": "0.2936"
+    },
+    {
+        "id": 233,
+        "expression": "tan(18/16π)",
+        "answer": "0.4142"
+    },
+    {
+        "id": 234,
+        "expression": "tan(9/23π)",
+        "answer": "2.8137"
+    },
+    {
+        "id": 235,
+        "expression": "tan(95°)",
+        "answer": "-11.4301"
+    },
+    {
+        "id": 236,
+        "expression": "tan(139°)",
+        "answer": "-0.8693"
+    },
+    {
+        "id": 237,
+        "expression": "tan(9.07π)",
+        "answer": "0.2235"
+    },
+    {
+        "id": 238,
+        "expression": "tan(131°)",
+        "answer": "-1.1504"
+    },
+    {
+        "id": 239,
+        "expression": "tan(-7/21π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 240,
+        "expression": "tan(-55°)",
+        "answer": "-1.4281"
+    },
+    {
+        "id": 241,
+        "expression": "tan(13/20π)",
+        "answer": "-1.9626"
+    },
+    {
+        "id": 242,
+        "expression": "tan(-4/6π)",
+        "answer": "1.7321"
+    },
+    {
+        "id": 243,
+        "expression": "tan(-2.97π)",
+        "answer": "0.0945"
+    },
+    {
+        "id": 244,
+        "expression": "tan(17/10π)",
+        "answer": "-1.3764"
+    },
+    {
+        "id": 245,
+        "expression": "tan(9/4π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 246,
+        "expression": "tan(4.9π)",
+        "answer": "-0.3249"
+    },
+    {
+        "id": 247,
+        "expression": "tan(-3.1π)",
+        "answer": "-0.3249"
+    },
+    {
+        "id": 248,
+        "expression": "tan(-43°)",
+        "answer": "-0.9325"
+    },
+    {
+        "id": 249,
+        "expression": "tan(44°)",
+        "answer": "0.9657"
+    },
+    {
+        "id": 250,
+        "expression": "tan(-158°)",
+        "answer": "0.404"
+    },
+    {
+        "id": 251,
+        "expression": "tan(-16°)",
+        "answer": "-0.2867"
+    },
+    {
+        "id": 252,
+        "expression": "tan(-47°)",
+        "answer": "-1.0724"
+    },
+    {
+        "id": 253,
+        "expression": "tan(82°)",
+        "answer": "7.1154"
+    },
+    {
+        "id": 254,
+        "expression": "tan(-69°)",
+        "answer": "-2.6051"
+    },
+    {
+        "id": 255,
+        "expression": "tan(126°)",
+        "answer": "-1.3764"
+    },
+    {
+        "id": 256,
+        "expression": "tan(-4/21π)",
+        "answer": "-0.6818"
+    },
+    {
+        "id": 257,
+        "expression": "tan(117°)",
+        "answer": "-1.9626"
+    },
+    {
+        "id": 258,
+        "expression": "tan(91°)",
+        "answer": "-57.29"
+    },
+    {
+        "id": 259,
+        "expression": "tan(-29°)",
+        "answer": "-0.5543"
+    },
+    {
+        "id": 260,
+        "expression": "tan(16/18π)",
+        "answer": "-0.364"
+    },
+    {
+        "id": 261,
+        "expression": "tan(-145°)",
+        "answer": "0.7002"
+    },
+    {
+        "id": 262,
+        "expression": "tan(-4.1π)",
+        "answer": "-0.3249"
+    },
+    {
+        "id": 263,
+        "expression": "tan(-128°)",
+        "answer": "1.2799"
+    },
+    {
+        "id": 264,
+        "expression": "tan(138°)",
+        "answer": "-0.9004"
+    },
+    {
+        "id": 265,
+        "expression": "tan(-1/15π)",
+        "answer": "-0.2126"
+    },
+    {
+        "id": 266,
+        "expression": "tan(-101°)",
+        "answer": "5.1446"
+    },
+    {
+        "id": 267,
+        "expression": "tan(11/28π)",
+        "answer": "2.8578"
+    },
+    {
+        "id": 268,
+        "expression": "tan(-0.83π)",
+        "answer": "0.5914"
+    },
+    {
+        "id": 269,
+        "expression": "tan(85°)",
+        "answer": "11.4301"
+    },
+    {
+        "id": 270,
+        "expression": "tan(-177°)",
+        "answer": "0.0524"
+    },
+    {
+        "id": 271,
+        "expression": "tan(45°)",
+        "answer": "1.0"
+    },
+    {
+        "id": 272,
+        "expression": "tan(-136°)",
+        "answer": "0.9657"
+    },
+    {
+        "id": 273,
+        "expression": "tan(-162°)",
+        "answer": "0.3249"
+    },
+    {
+        "id": 274,
+        "expression": "tan(-7/3π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 275,
+        "expression": "tan(-0.72π)",
+        "answer": "1.2088"
+    },
+    {
+        "id": 276,
+        "expression": "tan(-89°)",
+        "answer": "-57.29"
+    },
+    {
+        "id": 277,
+        "expression": "tan(-5/17π)",
+        "answer": "-1.3242"
+    },
+    {
+        "id": 278,
+        "expression": "tan(110°)",
+        "answer": "-2.7475"
+    },
+    {
+        "id": 279,
+        "expression": "tan(4.71π)",
+        "answer": "-1.2892"
+    },
+    {
+        "id": 280,
+        "expression": "tan(162°)",
+        "answer": "-0.3249"
+    },
+    {
+        "id": 281,
+        "expression": "tan(1/4π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 282,
+        "expression": "tan(136°)",
+        "answer": "-0.9657"
+    },
+    {
+        "id": 283,
+        "expression": "tan(-0.58π)",
+        "answer": "3.8947"
+    },
+    {
+        "id": 284,
+        "expression": "tan(1.77π)",
+        "answer": "-0.8816"
+    },
+    {
+        "id": 285,
+        "expression": "tan(100°)",
+        "answer": "-5.6713"
+    },
+    {
+        "id": 286,
+        "expression": "tan(-27°)",
+        "answer": "-0.5095"
+    },
+    {
+        "id": 287,
+        "expression": "tan(5.99π)",
+        "answer": "-0.0314"
+    },
+    {
+        "id": 288,
+        "expression": "tan(-2/29π)",
+        "answer": "-0.2201"
+    },
+    {
+        "id": 289,
+        "expression": "tan(3.09π)",
+        "answer": "0.2905"
+    },
+    {
+        "id": 290,
+        "expression": "tan(-0.29π)",
+        "answer": "-1.2892"
+    },
+    {
+        "id": 291,
+        "expression": "tan(-117°)",
+        "answer": "1.9626"
+    },
+    {
+        "id": 292,
+        "expression": "tan(-0.39π)",
+        "answer": "-2.7776"
+    },
+    {
+        "id": 293,
+        "expression": "tan(-100°)",
+        "answer": "5.6713"
+    },
+    {
+        "id": 294,
+        "expression": "tan(π/29)",
+        "answer": "0.1088"
+    },
+    {
+        "id": 295,
+        "expression": "tan(-1.85π)",
+        "answer": "0.5095"
+    },
+    {
+        "id": 296,
+        "expression": "tan(3/19π)",
+        "answer": "0.5412"
+    },
+    {
+        "id": 297,
+        "expression": "tan(-9/19π)",
+        "answer": "-12.0682"
+    },
+    {
+        "id": 298,
+        "expression": "tan(3/13π)",
+        "answer": "0.8859"
+    },
+    {
+        "id": 299,
+        "expression": "tan(65°)",
+        "answer": "2.1445"
+    },
+    {
+        "id": 300,
+        "expression": "tan(-3/18π)",
+        "answer": "-0.5774"
+    },
+    {
+        "id": 301,
+        "expression": "tan(103°)",
+        "answer": "-4.3315"
+    },
+    {
+        "id": 302,
+        "expression": "tan(-9/17π)",
+        "answer": "10.7917"
+    },
+    {
+        "id": 303,
+        "expression": "tan(5.95π)",
+        "answer": "-0.1584"
+    },
+    {
+        "id": 304,
+        "expression": "tan(123°)",
+        "answer": "-1.5399"
+    },
+    {
+        "id": 305,
+        "expression": "tan(5.97π)",
+        "answer": "-0.0945"
+    },
+    {
+        "id": 306,
+        "expression": "tan(33°)",
+        "answer": "0.6494"
+    },
+    {
+        "id": 307,
+        "expression": "tan(-4.72π)",
+        "answer": "1.2088"
+    },
+    {
+        "id": 308,
+        "expression": "tan(64°)",
+        "answer": "2.0503"
+    },
+    {
+        "id": 309,
+        "expression": "tan(6.82π)",
+        "answer": "-0.6346"
+    },
+    {
+        "id": 310,
+        "expression": "tan(4.81π)",
+        "answer": "-0.6796"
+    },
+    {
+        "id": 311,
+        "expression": "tan(125°)",
+        "answer": "-1.4281"
+    },
+    {
+        "id": 312,
+        "expression": "tan(8/3π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 313,
+        "expression": "tan(16/5π)",
+        "answer": "0.7265"
+    },
+    {
+        "id": 314,
+        "expression": "tan(-154°)",
+        "answer": "0.4877"
+    },
+    {
+        "id": 315,
+        "expression": "tan(12/27π)",
+        "answer": "5.6713"
+    },
+    {
+        "id": 316,
+        "expression": "tan(112°)",
+        "answer": "-2.4751"
+    },
+    {
+        "id": 317,
+        "expression": "tan(129°)",
+        "answer": "-1.2349"
+    },
+    {
+        "id": 318,
+        "expression": "tan(-74°)",
+        "answer": "-3.4874"
+    },
+    {
+        "id": 319,
+        "expression": "tan(π/23)",
+        "answer": "0.1374"
+    },
+    {
+        "id": 320,
+        "expression": "tan(-3.73π)",
+        "answer": "1.1343"
+    },
+    {
+        "id": 321,
+        "expression": "tan(-0.66π)",
+        "answer": "1.819"
+    },
+    {
+        "id": 322,
+        "expression": "tan(133°)",
+        "answer": "-1.0724"
+    },
+    {
+        "id": 323,
+        "expression": "tan(8/12π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 324,
+        "expression": "tan(87°)",
+        "answer": "19.0811"
+    },
+    {
+        "id": 325,
+        "expression": "tan(-150°)",
+        "answer": "0.5774"
+    },
+    {
+        "id": 326,
+        "expression": "tan(58°)",
+        "answer": "1.6003"
+    },
+    {
+        "id": 327,
+        "expression": "tan(16/23π)",
+        "answer": "-1.4167"
+    },
+    {
+        "id": 328,
+        "expression": "tan(37°)",
+        "answer": "0.7536"
+    },
+    {
+        "id": 329,
+        "expression": "tan(-67°)",
+        "answer": "-2.3559"
+    },
+    {
+        "id": 330,
+        "expression": "tan(166°)",
+        "answer": "-0.2493"
+    },
+    {
+        "id": 331,
+        "expression": "tan(-93°)",
+        "answer": "19.0811"
+    },
+    {
+        "id": 332,
+        "expression": "tan(-4.66π)",
+        "answer": "1.819"
+    },
+    {
+        "id": 333,
+        "expression": "tan(-7/26π)",
+        "answer": "-1.1288"
+    },
+    {
+        "id": 334,
+        "expression": "tan(69°)",
+        "answer": "2.6051"
+    },
+    {
+        "id": 335,
+        "expression": "tan(3π)",
+        "answer": "-0.0"
+    },
+    {
+        "id": 336,
+        "expression": "tan(-3/9π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 337,
+        "expression": "tan(-2.25π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 338,
+        "expression": "tan(12/22π)",
+        "answer": "-6.9552"
+    },
+    {
+        "id": 339,
+        "expression": "tan(-1.42π)",
+        "answer": "-3.8947"
+    },
+    {
+        "id": 340,
+        "expression": "tan(-2.2π)",
+        "answer": "-0.7265"
+    },
+    {
+        "id": 341,
+        "expression": "tan(48°)",
+        "answer": "1.1106"
+    },
+    {
+        "id": 342,
+        "expression": "tan(8.6π)",
+        "answer": "-3.0777"
+    },
+    {
+        "id": 343,
+        "expression": "tan(-4/16π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 344,
+        "expression": "tan(4.34π)",
+        "answer": "1.819"
+    },
+    {
+        "id": 345,
+        "expression": "tan(7/18π)",
+        "answer": "2.7475"
+    },
+    {
+        "id": 346,
+        "expression": "tan(2.85π)",
+        "answer": "-0.5095"
+    },
+    {
+        "id": 347,
+        "expression": "tan(7.1π)",
+        "answer": "0.3249"
+    },
+    {
+        "id": 348,
+        "expression": "tan(-33°)",
+        "answer": "-0.6494"
+    },
+    {
+        "id": 349,
+        "expression": "tan(163°)",
+        "answer": "-0.3057"
+    },
+    {
+        "id": 350,
+        "expression": "tan(π/27)",
+        "answer": "0.1169"
+    },
+    {
+        "id": 351,
+        "expression": "tan(54°)",
+        "answer": "1.3764"
+    },
+    {
+        "id": 352,
+        "expression": "tan(-171°)",
+        "answer": "0.1584"
+    },
+    {
+        "id": 353,
+        "expression": "tan(-82°)",
+        "answer": "-7.1154"
+    },
+    {
+        "id": 354,
+        "expression": "tan(-2π)",
+        "answer": "0.0"
+    },
+    {
+        "id": 355,
+        "expression": "tan(120°)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 356,
+        "expression": "tan(16°)",
+        "answer": "0.2867"
+    },
+    {
+        "id": 357,
+        "expression": "tan(-2/17π)",
+        "answer": "-0.3874"
+    },
+    {
+        "id": 358,
+        "expression": "tan(2/20π)",
+        "answer": "0.3249"
+    },
+    {
+        "id": 359,
+        "expression": "tan(-2.51π)",
+        "answer": "31.8205"
+    },
+    {
+        "id": 360,
+        "expression": "tan(-107°)",
+        "answer": "3.2709"
+    },
+    {
+        "id": 361,
+        "expression": "tan(-6°)",
+        "answer": "-0.1051"
+    },
+    {
+        "id": 362,
+        "expression": "tan(13/3π)",
+        "answer": "1.7321"
+    },
+    {
+        "id": 363,
+        "expression": "tan(-39°)",
+        "answer": "-0.8098"
+    },
+    {
+        "id": 364,
+        "expression": "tan(28°)",
+        "answer": "0.5317"
+    },
+    {
+        "id": 365,
+        "expression": "tan(171°)",
+        "answer": "-0.1584"
+    },
+    {
+        "id": 366,
+        "expression": "tan(-1/19π)",
+        "answer": "-0.1669"
+    },
+    {
+        "id": 367,
+        "expression": "tan(-3/20π)",
+        "answer": "-0.5095"
+    },
+    {
+        "id": 368,
+        "expression": "tan(-3/16π)",
+        "answer": "-0.6682"
+    },
+    {
+        "id": 369,
+        "expression": "tan(84°)",
+        "answer": "9.5144"
+    },
+    {
+        "id": 370,
+        "expression": "tan(-1.32π)",
+        "answer": "-1.5757"
+    },
+    {
+        "id": 371,
+        "expression": "tan(-9/30π)",
+        "answer": "-1.3764"
+    },
+    {
+        "id": 372,
+        "expression": "tan(2/9π)",
+        "answer": "0.8391"
+    },
+    {
+        "id": 373,
+        "expression": "tan(6.25π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 374,
+        "expression": "tan(-5π)",
+        "answer": "0.0"
+    },
+    {
+        "id": 375,
+        "expression": "tan(-1/27π)",
+        "answer": "-0.1169"
+    },
+    {
+        "id": 376,
+        "expression": "tan(-124°)",
+        "answer": "1.4826"
+    },
+    {
+        "id": 377,
+        "expression": "tan(15/27π)",
+        "answer": "-5.6713"
+    },
+    {
+        "id": 378,
+        "expression": "tan(22°)",
+        "answer": "0.404"
+    },
+    {
+        "id": 379,
+        "expression": "tan(-144°)",
+        "answer": "0.7265"
+    },
+    {
+        "id": 380,
+        "expression": "tan(128°)",
+        "answer": "-1.2799"
+    },
+    {
+        "id": 381,
+        "expression": "tan(97°)",
+        "answer": "-8.1443"
+    },
+    {
+        "id": 382,
+        "expression": "tan(3.55π)",
+        "answer": "-6.3138"
+    },
+    {
+        "id": 383,
+        "expression": "tan(-148°)",
+        "answer": "0.6249"
+    },
+    {
+        "id": 384,
+        "expression": "tan(-1/18π)",
+        "answer": "-0.1763"
+    },
+    {
+        "id": 385,
+        "expression": "tan(9/12π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 386,
+        "expression": "tan(-30°)",
+        "answer": "-0.5774"
+    },
+    {
+        "id": 387,
+        "expression": "tan(-17°)",
+        "answer": "-0.3057"
+    },
+    {
+        "id": 388,
+        "expression": "tan(-112°)",
+        "answer": "2.4751"
+    },
+    {
+        "id": 389,
+        "expression": "tan(7.39π)",
+        "answer": "2.7776"
+    },
+    {
+        "id": 390,
+        "expression": "tan(78°)",
+        "answer": "4.7046"
+    },
+    {
+        "id": 391,
+        "expression": "tan(17/25π)",
+        "answer": "-1.5757"
+    },
+    {
+        "id": 392,
+        "expression": "tan(-4.73π)",
+        "answer": "1.1343"
+    },
+    {
+        "id": 393,
+        "expression": "tan(-2/6π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 394,
+        "expression": "tan(151°)",
+        "answer": "-0.5543"
+    },
+    {
+        "id": 395,
+        "expression": "tan(80°)",
+        "answer": "5.6713"
+    },
+    {
+        "id": 396,
+        "expression": "tan(8.42π)",
+        "answer": "3.8947"
+    },
+    {
+        "id": 397,
+        "expression": "tan(-58°)",
+        "answer": "-1.6003"
+    },
+    {
+        "id": 398,
+        "expression": "tan(10/6π)",
+        "answer": "-1.7321"
+    },
+    {
+        "id": 399,
+        "expression": "tan(53°)",
+        "answer": "1.327"
+    }
+]

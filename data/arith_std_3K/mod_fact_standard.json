@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 0,
+        "expression": "18!",
+        "answer": "6402373705728000"
+    },
+    {
+        "id": 1,
+        "expression": "1!",
+        "answer": "1"
+    },
+    {
+        "id": 2,
+        "expression": "16!",
+        "answer": "20922789888000"
+    },
+    {
+        "id": 3,
+        "expression": "21!",
+        "answer": "51090942171709440000"
+    },
+    {
+        "id": 4,
+        "expression": "17!",
+        "answer": "355687428096000"
+    },
+    {
+        "id": 5,
+        "expression": "10!",
+        "answer": "3628800"
+    },
+    {
+        "id": 6,
+        "expression": "14!",
+        "answer": "87178291200"
+    },
+    {
+        "id": 7,
+        "expression": "8!",
+        "answer": "40320"
+    },
+    {
+        "id": 8,
+        "expression": "4!",
+        "answer": "24"
+    },
+    {
+        "id": 9,
+        "expression": "12!",
+        "answer": "479001600"
+    },
+    {
+        "id": 10,
+        "expression": "20!",
+        "answer": "2432902008176640000"
+    },
+    {
+        "id": 11,
+        "expression": "3!",
+        "answer": "6"
+    },
+    {
+        "id": 12,
+        "expression": "11!",
+        "answer": "39916800"
+    },
+    {
+        "id": 13,
+        "expression": "9!",
+        "answer": "362880"
+    },
+    {
+        "id": 14,
+        "expression": "19!",
+        "answer": "121645100408832000"
+    },
+    {
+        "id": 15,
+        "expression": "7!",
+        "answer": "5040"
+    },
+    {
+        "id": 16,
+        "expression": "2!",
+        "answer": "2"
+    },
+    {
+        "id": 17,
+        "expression": "5!",
+        "answer": "120"
+    },
+    {
+        "id": 18,
+        "expression": "13!",
+        "answer": "6227020800"
+    },
+    {
+        "id": 19,
+        "expression": "6!",
+        "answer": "720"
+    },
+    {
+        "id": 180,
+        "expression": "96%98",
+        "answer": "96"
+    },
+    {
+        "id": 181,
+        "expression": "33%100",
+        "answer": "33"
+    },
+    {
+        "id": 182,
+        "expression": "12%67",
+        "answer": "12"
+    },
+    {
+        "id": 183,
+        "expression": "30%86",
+        "answer": "30"
+    },
+    {
+        "id": 184,
+        "expression": "3%8",
+        "answer": "3"
+    },
+    {
+        "id": 185,
+        "expression": "84%48",
+        "answer": "36"
+    },
+    {
+        "id": 186,
+        "expression": "1%53",
+        "answer": "1"
+    },
+    {
+        "id": 187,
+        "expression": "76%95",
+        "answer": "76"
+    },
+    {
+        "id": 188,
+        "expression": "61%8",
+        "answer": "5"
+    },
+    {
+        "id": 189,
+        "expression": "43%27",
+        "answer": "16"
+    },
+    {
+        "id": 190,
+        "expression": "31%31",
+        "answer": "0"
+    },
+    {
+        "id": 191,
+        "expression": "71%26",
+        "answer": "19"
+    },
+    {
+        "id": 192,
+        "expression": "47%61",
+        "answer": "47"
+    },
+    {
+        "id": 193,
+        "expression": "71%66",
+        "answer": "5"
+    },
+    {
+        "id": 194,
+        "expression": "43%65",
+        "answer": "43"
+    },
+    {
+        "id": 195,
+        "expression": "3%46",
+        "answer": "3"
+    },
+    {
+        "id": 196,
+        "expression": "96%51",
+        "answer": "45"
+    },
+    {
+        "id": 197,
+        "expression": "66%80",
+        "answer": "66"
+    },
+    {
+        "id": 198,
+        "expression": "32%1",
+        "answer": "0"
+    },
+    {
+        "id": 199,
+        "expression": "92%40",
+        "answer": "12"
+    },
+    {
+        "id": 200,
+        "expression": "39%39",
+        "answer": "0"
+    },
+    {
+        "id": 201,
+        "expression": "1%52",
+        "answer": "1"
+    },
+    {
+        "id": 202,
+        "expression": "36%12",
+        "answer": "0"
+    },
+    {
+        "id": 203,
+        "expression": "80%91",
+        "answer": "80"
+    },
+    {
+        "id": 204,
+        "expression": "75%81",
+        "answer": "75"
+    },
+    {
+        "id": 205,
+        "expression": "82%99",
+        "answer": "82"
+    },
+    {
+        "id": 206,
+        "expression": "19%37",
+        "answer": "19"
+    },
+    {
+        "id": 207,
+        "expression": "45%38",
+        "answer": "7"
+    },
+    {
+        "id": 208,
+        "expression": "41%19",
+        "answer": "3"
+    },
+    {
+        "id": 209,
+        "expression": "10%38",
+        "answer": "10"
+    },
+    {
+        "id": 210,
+        "expression": "3%13",
+        "answer": "3"
+    },
+    {
+        "id": 211,
+        "expression": "58%67",
+        "answer": "58"
+    },
+    {
+        "id": 212,
+        "expression": "18%50",
+        "answer": "18"
+    },
+    {
+        "id": 213,
+        "expression": "40%95",
+        "answer": "40"
+    },
+    {
+        "id": 214,
+        "expression": "18%97",
+        "answer": "18"
+    },
+    {
+        "id": 215,
+        "expression": "46%58",
+        "answer": "46"
+    },
+    {
+        "id": 216,
+        "expression": "38%29",
+        "answer": "9"
+    },
+    {
+        "id": 217,
+        "expression": "54%81",
+        "answer": "54"
+    },
+    {
+        "id": 218,
+        "expression": "50%68",
+        "answer": "50"
+    },
+    {
+        "id": 219,
+        "expression": "98%34",
+        "answer": "30"
+    },
+    {
+        "id": 220,
+        "expression": "35%61",
+        "answer": "35"
+    },
+    {
+        "id": 221,
+        "expression": "99%83",
+        "answer": "16"
+    },
+    {
+        "id": 222,
+        "expression": "55%5",
+        "answer": "0"
+    },
+    {
+        "id": 223,
+        "expression": "33%52",
+        "answer": "33"
+    },
+    {
+        "id": 224,
+        "expression": "15%66",
+        "answer": "15"
+    },
+    {
+        "id": 225,
+        "expression": "84%39",
+        "answer": "6"
+    },
+    {
+        "id": 226,
+        "expression": "33%13",
+        "answer": "7"
+    },
+    {
+        "id": 227,
+        "expression": "89%76",
+        "answer": "13"
+    },
+    {
+        "id": 228,
+        "expression": "43%68",
+        "answer": "43"
+    },
+    {
+        "id": 229,
+        "expression": "28%93",
+        "answer": "28"
+    },
+    {
+        "id": 230,
+        "expression": "45%22",
+        "answer": "1"
+    },
+    {
+        "id": 231,
+        "expression": "86%85",
+        "answer": "1"
+    },
+    {
+        "id": 232,
+        "expression": "38%39",
+        "answer": "38"
+    },
+    {
+        "id": 233,
+        "expression": "96%44",
+        "answer": "8"
+    },
+    {
+        "id": 234,
+        "expression": "31%26",
+        "answer": "5"
+    },
+    {
+        "id": 235,
+        "expression": "98%40",
+        "answer": "18"
+    },
+    {
+        "id": 236,
+        "expression": "45%68",
+        "answer": "45"
+    },
+    {
+        "id": 237,
+        "expression": "98%10",
+        "answer": "8"
+    },
+    {
+        "id": 238,
+        "expression": "98%98",
+        "answer": "0"
+    },
+    {
+        "id": 239,
+        "expression": "28%53",
+        "answer": "28"
+    },
+    {
+        "id": 240,
+        "expression": "18%33",
+        "answer": "18"
+    },
+    {
+        "id": 241,
+        "expression": "63%75",
+        "answer": "63"
+    },
+    {
+        "id": 242,
+        "expression": "42%76",
+        "answer": "42"
+    },
+    {
+        "id": 243,
+        "expression": "54%97",
+        "answer": "54"
+    },
+    {
+        "id": 244,
+        "expression": "60%46",
+        "answer": "14"
+    },
+    {
+        "id": 245,
+        "expression": "55%51",
+        "answer": "4"
+    },
+    {
+        "id": 246,
+        "expression": "77%38",
+        "answer": "1"
+    },
+    {
+        "id": 247,
+        "expression": "49%99",
+        "answer": "49"
+    },
+    {
+        "id": 248,
+        "expression": "78%94",
+        "answer": "78"
+    },
+    {
+        "id": 249,
+        "expression": "96%41",
+        "answer": "14"
+    },
+    {
+        "id": 250,
+        "expression": "10%88",
+        "answer": "10"
+    },
+    {
+        "id": 251,
+        "expression": "67%28",
+        "answer": "11"
+    },
+    {
+        "id": 252,
+        "expression": "54%57",
+        "answer": "54"
+    },
+    {
+        "id": 253,
+        "expression": "6%59",
+        "answer": "6"
+    },
+    {
+        "id": 254,
+        "expression": "38%58",
+        "answer": "38"
+    },
+    {
+        "id": 255,
+        "expression": "85%62",
+        "answer": "23"
+    },
+    {
+        "id": 256,
+        "expression": "76%74",
+        "answer": "2"
+    },
+    {
+        "id": 257,
+        "expression": "7%80",
+        "answer": "7"
+    },
+    {
+        "id": 258,
+        "expression": "30%16",
+        "answer": "14"
+    },
+    {
+        "id": 259,
+        "expression": "48%26",
+        "answer": "22"
+    },
+    {
+        "id": 260,
+        "expression": "13%79",
+        "answer": "13"
+    },
+    {
+        "id": 261,
+        "expression": "82%10",
+        "answer": "2"
+    },
+    {
+        "id": 262,
+        "expression": "22%33",
+        "answer": "22"
+    },
+    {
+        "id": 263,
+        "expression": "89%28",
+        "answer": "5"
+    },
+    {
+        "id": 264,
+        "expression": "96%96",
+        "answer": "0"
+    },
+    {
+        "id": 265,
+        "expression": "43%67",
+        "answer": "43"
+    },
+    {
+        "id": 266,
+        "expression": "89%69",
+        "answer": "20"
+    },
+    {
+        "id": 267,
+        "expression": "17%74",
+        "answer": "17"
+    },
+    {
+        "id": 268,
+        "expression": "78%96",
+        "answer": "78"
+    },
+    {
+        "id": 269,
+        "expression": "67%34",
+        "answer": "33"
+    },
+    {
+        "id": 270,
+        "expression": "85%90",
+        "answer": "85"
+    },
+    {
+        "id": 271,
+        "expression": "27%98",
+        "answer": "27"
+    },
+    {
+        "id": 272,
+        "expression": "52%45",
+        "answer": "7"
+    },
+    {
+        "id": 273,
+        "expression": "40%13",
+        "answer": "1"
+    },
+    {
+        "id": 274,
+        "expression": "37%76",
+        "answer": "37"
+    },
+    {
+        "id": 275,
+        "expression": "23%32",
+        "answer": "23"
+    },
+    {
+        "id": 276,
+        "expression": "43%42",
+        "answer": "1"
+    },
+    {
+        "id": 277,
+        "expression": "73%41",
+        "answer": "32"
+    },
+    {
+        "id": 278,
+        "expression": "31%100",
+        "answer": "31"
+    },
+    {
+        "id": 279,
+        "expression": "75%43",
+        "answer": "32"
+    },
+    {
+        "id": 280,
+        "expression": "93%22",
+        "answer": "5"
+    },
+    {
+        "id": 281,
+        "expression": "32%81",
+        "answer": "32"
+    },
+    {
+        "id": 282,
+        "expression": "55%71",
+        "answer": "55"
+    },
+    {
+        "id": 283,
+        "expression": "2%26",
+        "answer": "2"
+    },
+    {
+        "id": 284,
+        "expression": "82%45",
+        "answer": "37"
+    },
+    {
+        "id": 285,
+        "expression": "82%24",
+        "answer": "10"
+    },
+    {
+        "id": 286,
+        "expression": "82%53",
+        "answer": "29"
+    },
+    {
+        "id": 287,
+        "expression": "36%49",
+        "answer": "36"
+    },
+    {
+        "id": 288,
+        "expression": "43%36",
+        "answer": "7"
+    },
+    {
+        "id": 289,
+        "expression": "25%84",
+        "answer": "25"
+    },
+    {
+        "id": 290,
+        "expression": "40%21",
+        "answer": "19"
+    },
+    {
+        "id": 291,
+        "expression": "89%65",
+        "answer": "24"
+    },
+    {
+        "id": 292,
+        "expression": "14%48",
+        "answer": "14"
+    },
+    {
+        "id": 293,
+        "expression": "43%78",
+        "answer": "43"
+    },
+    {
+        "id": 294,
+        "expression": "45%64",
+        "answer": "45"
+    },
+    {
+        "id": 295,
+        "expression": "5%23",
+        "answer": "5"
+    },
+    {
+        "id": 296,
+        "expression": "32%11",
+        "answer": "10"
+    },
+    {
+        "id": 297,
+        "expression": "71%49",
+        "answer": "22"
+    },
+    {
+        "id": 298,
+        "expression": "26%96",
+        "answer": "26"
+    },
+    {
+        "id": 299,
+        "expression": "42%81",
+        "answer": "42"
+    },
+    {
+        "id": 300,
+        "expression": "39%18",
+        "answer": "3"
+    },
+    {
+        "id": 301,
+        "expression": "33%1",
+        "answer": "0"
+    },
+    {
+        "id": 302,
+        "expression": "23%78",
+        "answer": "23"
+    },
+    {
+        "id": 303,
+        "expression": "73%27",
+        "answer": "19"
+    },
+    {
+        "id": 304,
+        "expression": "20%30",
+        "answer": "20"
+    },
+    {
+        "id": 305,
+        "expression": "36%82",
+        "answer": "36"
+    },
+    {
+        "id": 306,
+        "expression": "24%15",
+        "answer": "9"
+    },
+    {
+        "id": 307,
+        "expression": "51%66",
+        "answer": "51"
+    },
+    {
+        "id": 308,
+        "expression": "28%14",
+        "answer": "0"
+    },
+    {
+        "id": 309,
+        "expression": "89%5",
+        "answer": "4"
+    },
+    {
+        "id": 310,
+        "expression": "58%77",
+        "answer": "58"
+    },
+    {
+        "id": 311,
+        "expression": "32%100",
+        "answer": "32"
+    },
+    {
+        "id": 312,
+        "expression": "81%79",
+        "answer": "2"
+    },
+    {
+        "id": 313,
+        "expression": "100%86",
+        "answer": "14"
+    },
+    {
+        "id": 314,
+        "expression": "6%23",
+        "answer": "6"
+    },
+    {
+        "id": 315,
+        "expression": "36%28",
+        "answer": "8"
+    },
+    {
+        "id": 316,
+        "expression": "75%78",
+        "answer": "75"
+    },
+    {
+        "id": 317,
+        "expression": "48%61",
+        "answer": "48"
+    },
+    {
+        "id": 318,
+        "expression": "99%60",
+        "answer": "39"
+    },
+    {
+        "id": 319,
+        "expression": "12%63",
+        "answer": "12"
+    },
+    {
+        "id": 320,
+        "expression": "99%15",
+        "answer": "9"
+    },
+    {
+        "id": 321,
+        "expression": "30%23",
+        "answer": "7"
+    },
+    {
+        "id": 322,
+        "expression": "57%12",
+        "answer": "9"
+    },
+    {
+        "id": 323,
+        "expression": "13%64",
+        "answer": "13"
+    },
+    {
+        "id": 324,
+        "expression": "27%22",
+        "answer": "5"
+    },
+    {
+        "id": 325,
+        "expression": "4%86",
+        "answer": "4"
+    },
+    {
+        "id": 326,
+        "expression": "98%93",
+        "answer": "5"
+    },
+    {
+        "id": 327,
+        "expression": "76%7",
+        "answer": "6"
+    },
+    {
+        "id": 328,
+        "expression": "73%36",
+        "answer": "1"
+    },
+    {
+        "id": 329,
+        "expression": "82%29",
+        "answer": "24"
+    },
+    {
+        "id": 330,
+        "expression": "91%26",
+        "answer": "13"
+    },
+    {
+        "id": 331,
+        "expression": "6%40",
+        "answer": "6"
+    },
+    {
+        "id": 332,
+        "expression": "12%65",
+        "answer": "12"
+    },
+    {
+        "id": 333,
+        "expression": "79%78",
+        "answer": "1"
+    },
+    {
+        "id": 334,
+        "expression": "24%41",
+        "answer": "24"
+    },
+    {
+        "id": 335,
+        "expression": "59%45",
+        "answer": "14"
+    },
+    {
+        "id": 336,
+        "expression": "85%2",
+        "answer": "1"
+    },
+    {
+        "id": 337,
+        "expression": "62%25",
+        "answer": "12"
+    },
+    {
+        "id": 338,
+        "expression": "40%56",
+        "answer": "40"
+    },
+    {
+        "id": 339,
+        "expression": "18%61",
+        "answer": "18"
+    },
+    {
+        "id": 340,
+        "expression": "21%53",
+        "answer": "21"
+    },
+    {
+        "id": 341,
+        "expression": "6%58",
+        "answer": "6"
+    },
+    {
+        "id": 342,
+        "expression": "97%92",
+        "answer": "5"
+    },
+    {
+        "id": 343,
+        "expression": "100%99",
+        "answer": "1"
+    },
+    {
+        "id": 344,
+        "expression": "70%72",
+        "answer": "70"
+    },
+    {
+        "id": 345,
+        "expression": "38%30",
+        "answer": "8"
+    },
+    {
+        "id": 346,
+        "expression": "70%88",
+        "answer": "70"
+    },
+    {
+        "id": 347,
+        "expression": "63%28",
+        "answer": "7"
+    },
+    {
+        "id": 348,
+        "expression": "30%34",
+        "answer": "30"
+    },
+    {
+        "id": 349,
+        "expression": "56%14",
+        "answer": "0"
+    },
+    {
+        "id": 350,
+        "expression": "46%88",
+        "answer": "46"
+    },
+    {
+        "id": 351,
+        "expression": "9%11",
+        "answer": "9"
+    },
+    {
+        "id": 352,
+        "expression": "64%4",
+        "answer": "0"
+    },
+    {
+        "id": 353,
+        "expression": "61%57",
+        "answer": "4"
+    },
+    {
+        "id": 354,
+        "expression": "45%14",
+        "answer": "3"
+    },
+    {
+        "id": 355,
+        "expression": "29%56",
+        "answer": "29"
+    },
+    {
+        "id": 356,
+        "expression": "14%90",
+        "answer": "14"
+    },
+    {
+        "id": 357,
+        "expression": "49%92",
+        "answer": "49"
+    },
+    {
+        "id": 358,
+        "expression": "91%38",
+        "answer": "15"
+    },
+    {
+        "id": 359,
+        "expression": "96%13",
+        "answer": "5"
+    }
+]

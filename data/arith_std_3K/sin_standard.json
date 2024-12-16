@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 200,
+        "expression": "sin(10/25π)",
+        "answer": "0.9511"
+    },
+    {
+        "id": 201,
+        "expression": "sin(-2/23π)",
+        "answer": "-0.2698"
+    },
+    {
+        "id": 202,
+        "expression": "sin(-2.65π)",
+        "answer": "-0.891"
+    },
+    {
+        "id": 203,
+        "expression": "sin(172°)",
+        "answer": "0.1392"
+    },
+    {
+        "id": 204,
+        "expression": "sin(-31°)",
+        "answer": "-0.515"
+    },
+    {
+        "id": 205,
+        "expression": "sin(-144°)",
+        "answer": "-0.5878"
+    },
+    {
+        "id": 206,
+        "expression": "sin(π/27)",
+        "answer": "0.1161"
+    },
+    {
+        "id": 207,
+        "expression": "sin(-2/28π)",
+        "answer": "-0.2225"
+    },
+    {
+        "id": 208,
+        "expression": "sin(-0.44π)",
+        "answer": "-0.9823"
+    },
+    {
+        "id": 209,
+        "expression": "sin(129°)",
+        "answer": "0.7771"
+    },
+    {
+        "id": 210,
+        "expression": "sin(-167°)",
+        "answer": "-0.225"
+    },
+    {
+        "id": 211,
+        "expression": "sin(π/26)",
+        "answer": "0.1205"
+    },
+    {
+        "id": 212,
+        "expression": "sin(-38°)",
+        "answer": "-0.6157"
+    },
+    {
+        "id": 213,
+        "expression": "sin(4.52π)",
+        "answer": "0.998"
+    },
+    {
+        "id": 214,
+        "expression": "sin(1.13π)",
+        "answer": "-0.3971"
+    },
+    {
+        "id": 215,
+        "expression": "sin(-33°)",
+        "answer": "-0.5446"
+    },
+    {
+        "id": 216,
+        "expression": "sin(101°)",
+        "answer": "0.9816"
+    },
+    {
+        "id": 217,
+        "expression": "sin(-0.28π)",
+        "answer": "-0.7705"
+    },
+    {
+        "id": 218,
+        "expression": "sin(15/14π)",
+        "answer": "-0.2225"
+    },
+    {
+        "id": 219,
+        "expression": "sin(31°)",
+        "answer": "0.515"
+    },
+    {
+        "id": 220,
+        "expression": "sin(0.43π)",
+        "answer": "0.9759"
+    },
+    {
+        "id": 221,
+        "expression": "sin(-154°)",
+        "answer": "-0.4384"
+    },
+    {
+        "id": 222,
+        "expression": "sin(-3.03π)",
+        "answer": "0.0941"
+    },
+    {
+        "id": 223,
+        "expression": "sin(177°)",
+        "answer": "0.0523"
+    },
+    {
+        "id": 224,
+        "expression": "sin(-118°)",
+        "answer": "-0.8829"
+    },
+    {
+        "id": 225,
+        "expression": "sin(-4.79π)",
+        "answer": "-0.6129"
+    },
+    {
+        "id": 226,
+        "expression": "sin(8.69π)",
+        "answer": "0.8271"
+    },
+    {
+        "id": 227,
+        "expression": "sin(80°)",
+        "answer": "0.9848"
+    },
+    {
+        "id": 228,
+        "expression": "sin(61°)",
+        "answer": "0.8746"
+    },
+    {
+        "id": 229,
+        "expression": "sin(5/19π)",
+        "answer": "0.7357"
+    },
+    {
+        "id": 230,
+        "expression": "sin(-0.86π)",
+        "answer": "-0.4258"
+    },
+    {
+        "id": 231,
+        "expression": "sin(79°)",
+        "answer": "0.9816"
+    },
+    {
+        "id": 232,
+        "expression": "sin(-104°)",
+        "answer": "-0.9703"
+    },
+    {
+        "id": 233,
+        "expression": "sin(95°)",
+        "answer": "0.9962"
+    },
+    {
+        "id": 234,
+        "expression": "sin(-4°)",
+        "answer": "-0.0698"
+    },
+    {
+        "id": 235,
+        "expression": "sin(53°)",
+        "answer": "0.7986"
+    },
+    {
+        "id": 236,
+        "expression": "sin(-84°)",
+        "answer": "-0.9945"
+    },
+    {
+        "id": 237,
+        "expression": "sin(-1.5π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 238,
+        "expression": "sin(2.09π)",
+        "answer": "0.279"
+    },
+    {
+        "id": 239,
+        "expression": "sin(-173°)",
+        "answer": "-0.1219"
+    },
+    {
+        "id": 240,
+        "expression": "sin(4/29π)",
+        "answer": "0.4199"
+    },
+    {
+        "id": 241,
+        "expression": "sin(9.54π)",
+        "answer": "-0.9921"
+    },
+    {
+        "id": 242,
+        "expression": "sin(152°)",
+        "answer": "0.4695"
+    },
+    {
+        "id": 243,
+        "expression": "sin(-18°)",
+        "answer": "-0.309"
+    },
+    {
+        "id": 244,
+        "expression": "sin(-64°)",
+        "answer": "-0.8988"
+    },
+    {
+        "id": 245,
+        "expression": "sin(5/7π)",
+        "answer": "0.7818"
+    },
+    {
+        "id": 246,
+        "expression": "sin(-4.16π)",
+        "answer": "-0.4818"
+    },
+    {
+        "id": 247,
+        "expression": "sin(40°)",
+        "answer": "0.6428"
+    },
+    {
+        "id": 248,
+        "expression": "sin(-3.82π)",
+        "answer": "0.5358"
+    },
+    {
+        "id": 249,
+        "expression": "sin(-2.85π)",
+        "answer": "-0.454"
+    },
+    {
+        "id": 250,
+        "expression": "sin(55°)",
+        "answer": "0.8192"
+    },
+    {
+        "id": 251,
+        "expression": "sin(161°)",
+        "answer": "0.3256"
+    },
+    {
+        "id": 252,
+        "expression": "sin(147°)",
+        "answer": "0.5446"
+    },
+    {
+        "id": 253,
+        "expression": "sin(173°)",
+        "answer": "0.1219"
+    },
+    {
+        "id": 254,
+        "expression": "sin(-79°)",
+        "answer": "-0.9816"
+    },
+    {
+        "id": 255,
+        "expression": "sin(67°)",
+        "answer": "0.9205"
+    },
+    {
+        "id": 256,
+        "expression": "sin(π/14)",
+        "answer": "0.2225"
+    },
+    {
+        "id": 257,
+        "expression": "sin(178°)",
+        "answer": "0.0349"
+    },
+    {
+        "id": 258,
+        "expression": "sin(-169°)",
+        "answer": "-0.1908"
+    },
+    {
+        "id": 259,
+        "expression": "sin(-40°)",
+        "answer": "-0.6428"
+    },
+    {
+        "id": 260,
+        "expression": "sin(π/29)",
+        "answer": "0.1081"
+    },
+    {
+        "id": 261,
+        "expression": "sin(2.45π)",
+        "answer": "0.9877"
+    },
+    {
+        "id": 262,
+        "expression": "sin(-1/12π)",
+        "answer": "-0.2588"
+    },
+    {
+        "id": 263,
+        "expression": "sin(3.09π)",
+        "answer": "-0.279"
+    },
+    {
+        "id": 264,
+        "expression": "sin(-96°)",
+        "answer": "-0.9945"
+    },
+    {
+        "id": 265,
+        "expression": "sin(-7°)",
+        "answer": "-0.1219"
+    },
+    {
+        "id": 266,
+        "expression": "sin(5/4π)",
+        "answer": "-0.7071"
+    },
+    {
+        "id": 267,
+        "expression": "sin(105°)",
+        "answer": "0.9659"
+    },
+    {
+        "id": 268,
+        "expression": "sin(-134°)",
+        "answer": "-0.7193"
+    },
+    {
+        "id": 269,
+        "expression": "sin(94°)",
+        "answer": "0.9976"
+    },
+    {
+        "id": 270,
+        "expression": "sin(119°)",
+        "answer": "0.8746"
+    },
+    {
+        "id": 271,
+        "expression": "sin(146°)",
+        "answer": "0.5592"
+    },
+    {
+        "id": 272,
+        "expression": "sin(-125°)",
+        "answer": "-0.8192"
+    },
+    {
+        "id": 273,
+        "expression": "sin(132°)",
+        "answer": "0.7431"
+    },
+    {
+        "id": 274,
+        "expression": "sin(-121°)",
+        "answer": "-0.8572"
+    },
+    {
+        "id": 275,
+        "expression": "sin(-0.43π)",
+        "answer": "-0.9759"
+    },
+    {
+        "id": 276,
+        "expression": "sin(-7/9π)",
+        "answer": "-0.6428"
+    },
+    {
+        "id": 277,
+        "expression": "sin(52°)",
+        "answer": "0.788"
+    },
+    {
+        "id": 278,
+        "expression": "sin(163°)",
+        "answer": "0.2924"
+    },
+    {
+        "id": 279,
+        "expression": "sin(120°)",
+        "answer": "0.866"
+    },
+    {
+        "id": 280,
+        "expression": "sin(4.82π)",
+        "answer": "0.5358"
+    },
+    {
+        "id": 281,
+        "expression": "sin(-37°)",
+        "answer": "-0.6018"
+    },
+    {
+        "id": 282,
+        "expression": "sin(-1.74π)",
+        "answer": "0.729"
+    },
+    {
+        "id": 283,
+        "expression": "sin(98°)",
+        "answer": "0.9903"
+    },
+    {
+        "id": 284,
+        "expression": "sin(-149°)",
+        "answer": "-0.515"
+    },
+    {
+        "id": 285,
+        "expression": "sin(-39°)",
+        "answer": "-0.6293"
+    },
+    {
+        "id": 286,
+        "expression": "sin(-7/29π)",
+        "answer": "-0.6877"
+    },
+    {
+        "id": 287,
+        "expression": "sin(11/22π)",
+        "answer": "1.0"
+    },
+    {
+        "id": 288,
+        "expression": "sin(16/12π)",
+        "answer": "-0.866"
+    },
+    {
+        "id": 289,
+        "expression": "sin(-8/28π)",
+        "answer": "-0.7818"
+    },
+    {
+        "id": 290,
+        "expression": "sin(17/29π)",
+        "answer": "0.9635"
+    },
+    {
+        "id": 291,
+        "expression": "sin(-91°)",
+        "answer": "-0.9998"
+    },
+    {
+        "id": 292,
+        "expression": "sin(12/29π)",
+        "answer": "0.9635"
+    },
+    {
+        "id": 293,
+        "expression": "sin(-59°)",
+        "answer": "-0.8572"
+    },
+    {
+        "id": 294,
+        "expression": "sin(-3.1π)",
+        "answer": "0.309"
+    },
+    {
+        "id": 295,
+        "expression": "sin(2.14π)",
+        "answer": "0.4258"
+    },
+    {
+        "id": 296,
+        "expression": "sin(7.71π)",
+        "answer": "-0.7902"
+    },
+    {
+        "id": 297,
+        "expression": "sin(6/24π)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 298,
+        "expression": "sin(1/21π)",
+        "answer": "0.149"
+    },
+    {
+        "id": 299,
+        "expression": "sin(15°)",
+        "answer": "0.2588"
+    },
+    {
+        "id": 300,
+        "expression": "sin(-130°)",
+        "answer": "-0.766"
+    },
+    {
+        "id": 301,
+        "expression": "sin(8.32π)",
+        "answer": "0.8443"
+    },
+    {
+        "id": 302,
+        "expression": "sin(-0.31π)",
+        "answer": "-0.8271"
+    },
+    {
+        "id": 303,
+        "expression": "sin(-102°)",
+        "answer": "-0.9781"
+    },
+    {
+        "id": 304,
+        "expression": "sin(-146°)",
+        "answer": "-0.5592"
+    },
+    {
+        "id": 305,
+        "expression": "sin(17/4π)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 306,
+        "expression": "sin(-114°)",
+        "answer": "-0.9135"
+    },
+    {
+        "id": 307,
+        "expression": "sin(8.1π)",
+        "answer": "0.309"
+    },
+    {
+        "id": 308,
+        "expression": "sin(-1/21π)",
+        "answer": "-0.149"
+    },
+    {
+        "id": 309,
+        "expression": "sin(-6/23π)",
+        "answer": "-0.7308"
+    },
+    {
+        "id": 310,
+        "expression": "sin(-122°)",
+        "answer": "-0.848"
+    },
+    {
+        "id": 311,
+        "expression": "sin(113°)",
+        "answer": "0.9205"
+    },
+    {
+        "id": 312,
+        "expression": "sin(7.44π)",
+        "answer": "-0.9823"
+    },
+    {
+        "id": 313,
+        "expression": "sin(5.54π)",
+        "answer": "-0.9921"
+    },
+    {
+        "id": 314,
+        "expression": "sin(14/22π)",
+        "answer": "0.9096"
+    },
+    {
+        "id": 315,
+        "expression": "sin(3/15π)",
+        "answer": "0.5878"
+    },
+    {
+        "id": 316,
+        "expression": "sin(-21°)",
+        "answer": "-0.3584"
+    },
+    {
+        "id": 317,
+        "expression": "sin(110°)",
+        "answer": "0.9397"
+    },
+    {
+        "id": 318,
+        "expression": "sin(68°)",
+        "answer": "0.9272"
+    },
+    {
+        "id": 319,
+        "expression": "sin(-70°)",
+        "answer": "-0.9397"
+    },
+    {
+        "id": 320,
+        "expression": "sin(89°)",
+        "answer": "0.9998"
+    },
+    {
+        "id": 321,
+        "expression": "sin(-157°)",
+        "answer": "-0.3907"
+    },
+    {
+        "id": 322,
+        "expression": "sin(3/21π)",
+        "answer": "0.4339"
+    },
+    {
+        "id": 323,
+        "expression": "sin(-72°)",
+        "answer": "-0.9511"
+    },
+    {
+        "id": 324,
+        "expression": "sin(15/10π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 325,
+        "expression": "sin(6/25π)",
+        "answer": "0.6845"
+    },
+    {
+        "id": 326,
+        "expression": "sin(92°)",
+        "answer": "0.9994"
+    },
+    {
+        "id": 327,
+        "expression": "sin(7.5π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 328,
+        "expression": "sin(6.13π)",
+        "answer": "0.3971"
+    },
+    {
+        "id": 329,
+        "expression": "sin(-32°)",
+        "answer": "-0.5299"
+    },
+    {
+        "id": 330,
+        "expression": "sin(3/2π)",
+        "answer": "-1.0"
+    },
+    {
+        "id": 331,
+        "expression": "sin(-135°)",
+        "answer": "-0.7071"
+    },
+    {
+        "id": 332,
+        "expression": "sin(-126°)",
+        "answer": "-0.809"
+    },
+    {
+        "id": 333,
+        "expression": "sin(4/20π)",
+        "answer": "0.5878"
+    },
+    {
+        "id": 334,
+        "expression": "sin(-22°)",
+        "answer": "-0.3746"
+    },
+    {
+        "id": 335,
+        "expression": "sin(-94°)",
+        "answer": "-0.9976"
+    },
+    {
+        "id": 336,
+        "expression": "sin(-3/5π)",
+        "answer": "-0.9511"
+    },
+    {
+        "id": 337,
+        "expression": "sin(4.42π)",
+        "answer": "0.9686"
+    },
+    {
+        "id": 338,
+        "expression": "sin(168°)",
+        "answer": "0.2079"
+    },
+    {
+        "id": 339,
+        "expression": "sin(141°)",
+        "answer": "0.6293"
+    },
+    {
+        "id": 340,
+        "expression": "sin(-103°)",
+        "answer": "-0.9744"
+    },
+    {
+        "id": 341,
+        "expression": "sin(-3.89π)",
+        "answer": "0.3387"
+    },
+    {
+        "id": 342,
+        "expression": "sin(2.61π)",
+        "answer": "0.9409"
+    },
+    {
+        "id": 343,
+        "expression": "sin(5/27π)",
+        "answer": "0.5495"
+    },
+    {
+        "id": 344,
+        "expression": "sin(-3.45π)",
+        "answer": "0.9877"
+    },
+    {
+        "id": 345,
+        "expression": "sin(7/22π)",
+        "answer": "0.8413"
+    },
+    {
+        "id": 346,
+        "expression": "sin(8.77π)",
+        "answer": "0.6613"
+    },
+    {
+        "id": 347,
+        "expression": "sin(16/22π)",
+        "answer": "0.7557"
+    },
+    {
+        "id": 348,
+        "expression": "sin(-132°)",
+        "answer": "-0.7431"
+    },
+    {
+        "id": 349,
+        "expression": "sin(-35°)",
+        "answer": "-0.5736"
+    },
+    {
+        "id": 350,
+        "expression": "sin(1/4π)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 351,
+        "expression": "sin(0.65π)",
+        "answer": "0.891"
+    },
+    {
+        "id": 352,
+        "expression": "sin(2/11π)",
+        "answer": "0.5406"
+    },
+    {
+        "id": 353,
+        "expression": "sin(-2.68π)",
+        "answer": "-0.8443"
+    },
+    {
+        "id": 354,
+        "expression": "sin(10/14π)",
+        "answer": "0.7818"
+    },
+    {
+        "id": 355,
+        "expression": "sin(-4.34π)",
+        "answer": "-0.8763"
+    },
+    {
+        "id": 356,
+        "expression": "sin(-61°)",
+        "answer": "-0.8746"
+    },
+    {
+        "id": 357,
+        "expression": "sin(-1/27π)",
+        "answer": "-0.1161"
+    },
+    {
+        "id": 358,
+        "expression": "sin(-2.92π)",
+        "answer": "-0.2487"
+    },
+    {
+        "id": 359,
+        "expression": "sin(13/29π)",
+        "answer": "0.9868"
+    },
+    {
+        "id": 360,
+        "expression": "sin(-138°)",
+        "answer": "-0.6691"
+    },
+    {
+        "id": 361,
+        "expression": "sin(-2/16π)",
+        "answer": "-0.3827"
+    },
+    {
+        "id": 362,
+        "expression": "sin(-60°)",
+        "answer": "-0.866"
+    },
+    {
+        "id": 363,
+        "expression": "sin(-66°)",
+        "answer": "-0.9135"
+    },
+    {
+        "id": 364,
+        "expression": "sin(-106°)",
+        "answer": "-0.9613"
+    },
+    {
+        "id": 365,
+        "expression": "sin(8.76π)",
+        "answer": "0.6845"
+    },
+    {
+        "id": 366,
+        "expression": "sin(19/4π)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 367,
+        "expression": "sin(4.13π)",
+        "answer": "0.3971"
+    },
+    {
+        "id": 368,
+        "expression": "sin(15/11π)",
+        "answer": "-0.9096"
+    },
+    {
+        "id": 369,
+        "expression": "sin(-148°)",
+        "answer": "-0.5299"
+    },
+    {
+        "id": 370,
+        "expression": "sin(π/30)",
+        "answer": "0.1045"
+    },
+    {
+        "id": 371,
+        "expression": "sin(-4.98π)",
+        "answer": "-0.0628"
+    },
+    {
+        "id": 372,
+        "expression": "sin(11°)",
+        "answer": "0.1908"
+    },
+    {
+        "id": 373,
+        "expression": "sin(-57°)",
+        "answer": "-0.8387"
+    },
+    {
+        "id": 374,
+        "expression": "sin(6.03π)",
+        "answer": "0.0941"
+    },
+    {
+        "id": 375,
+        "expression": "sin(143°)",
+        "answer": "0.6018"
+    },
+    {
+        "id": 376,
+        "expression": "sin(-4.05π)",
+        "answer": "-0.1564"
+    },
+    {
+        "id": 377,
+        "expression": "sin(-1/8π)",
+        "answer": "-0.3827"
+    },
+    {
+        "id": 378,
+        "expression": "sin(-51°)",
+        "answer": "-0.7771"
+    },
+    {
+        "id": 379,
+        "expression": "sin(-2.13π)",
+        "answer": "-0.3971"
+    },
+    {
+        "id": 380,
+        "expression": "sin(18/22π)",
+        "answer": "0.5406"
+    },
+    {
+        "id": 381,
+        "expression": "sin(45°)",
+        "answer": "0.7071"
+    },
+    {
+        "id": 382,
+        "expression": "sin(128°)",
+        "answer": "0.788"
+    },
+    {
+        "id": 383,
+        "expression": "sin(-159°)",
+        "answer": "-0.3584"
+    },
+    {
+        "id": 384,
+        "expression": "sin(134°)",
+        "answer": "0.7193"
+    },
+    {
+        "id": 385,
+        "expression": "sin(4.56π)",
+        "answer": "0.9823"
+    },
+    {
+        "id": 386,
+        "expression": "sin(-163°)",
+        "answer": "-0.2924"
+    },
+    {
+        "id": 387,
+        "expression": "sin(6.68π)",
+        "answer": "0.8443"
+    },
+    {
+        "id": 388,
+        "expression": "sin(16°)",
+        "answer": "0.2756"
+    },
+    {
+        "id": 389,
+        "expression": "sin(5.19π)",
+        "answer": "-0.5621"
+    },
+    {
+        "id": 390,
+        "expression": "sin(47°)",
+        "answer": "0.7314"
+    },
+    {
+        "id": 391,
+        "expression": "sin(2.94π)",
+        "answer": "0.1874"
+    },
+    {
+        "id": 392,
+        "expression": "sin(-53°)",
+        "answer": "-0.7986"
+    },
+    {
+        "id": 393,
+        "expression": "sin(-1.1π)",
+        "answer": "0.309"
+    },
+    {
+        "id": 394,
+        "expression": "sin(5.41π)",
+        "answer": "-0.9603"
+    },
+    {
+        "id": 395,
+        "expression": "sin(7.79π)",
+        "answer": "-0.6129"
+    },
+    {
+        "id": 396,
+        "expression": "sin(19/24π)",
+        "answer": "0.6088"
+    },
+    {
+        "id": 397,
+        "expression": "sin(-27°)",
+        "answer": "-0.454"
+    },
+    {
+        "id": 398,
+        "expression": "sin(16/13π)",
+        "answer": "-0.6631"
+    },
+    {
+        "id": 399,
+        "expression": "sin(3.58π)",
+        "answer": "-0.9686"
+    }
+]
