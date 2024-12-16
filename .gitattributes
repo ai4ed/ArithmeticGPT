@@ -1,0 +1,2 @@
+/mnt/cfs/zhengying/ArithmeticGPT/sft/train_scripts/data/op_data_10w.json filter=lfs diff=lfs merge=lfs -text
+/mnt/cfs/zhengying/ArithmeticGPT/sft/train_scripts/data/alpaca_gpt4_data_zh.json filter=lfs diff=lfs merge=lfs -text
