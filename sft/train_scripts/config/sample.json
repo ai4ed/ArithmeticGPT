@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "计算器_48781",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "exp(2)*44-39"
+      },
+      {
+        "from": "gpt",
+        "value": "exp(2)*44-39的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"exp(2)*44-39\"}}] </API> => 286.1185</thought> 286.1185"
+      }
+    ]
+  },
+  {
+    "id": "complex_1573",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(6-12i)-(13-5i)-(19-19i)"
+      },
+      {
+        "from": "gpt",
+        "value": "(6-12i)-(13-5i)-(19-19i)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(6-12j)-(13-5j)-(19-19j)\"}}] </API> =>-26.0+12.0i</thought> -26.0+12.0i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_715610",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "帮我找出这个代数公式89*(十二.零四)+49-44的答案"
+      },
+      {
+        "from": "gpt",
+        "value": "89*(十二.零四)+49-44的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"89*12.04+49-44\"}}] </API> => 1076.56</thought> 1076.56"
+      }
+    ]
+  },
+  {
+    "id": "计算器_581781",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "快帮我找出这个公式负七分之10-23+28+38+75+36的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "负七分之10-23+28+38+75+36的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(10/-7)-23+28+38+75+36\"}}] </API> => 152.5714</thought> 152.5714"
+      }
+    ]
+  },
+  {
+    "id": "en_op_84",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "24 minus (-214)"
+      },
+      {
+        "from": "gpt",
+        "value": "24 minus (-214)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"24-(-214)\"}}] </API> =>238</thought> 238"
+      }
+    ]
+  },
+  {
+    "id": "计算器_964692",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要知道34的立方+58+24的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "34^3+58+24的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"34^3+58+24\"}}] </API> => 39386</thought> 39386"
+      }
+    ]
+  },
+  {
+    "id": "计算器_517321",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我正在处理29+74^2-55+1的阶乘，你能帮我解决吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "29+74^2-55+1的阶乘的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"29+74^2-55+(fact(1))\"}}] </API> => 5451</thought> 5451"
+      }
+    ]
+  },
+  {
+    "id": "计算器_252936",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我很好奇44+16-73-6的立方+76+17的答案是多少"
+      },
+      {
+        "from": "gpt",
+        "value": "44+16-73-6^3+76+17的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"44+16-73-6^3+76+17\"}}] </API> => --136</thought> -136"
+      }
+    ]
+  },
+  {
+    "id": "计算器_69756",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "能告诉我39的平方+84+18是多少吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "39^2+84+18的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"39^2+84+18\"}}] </API> => 1623</thought> 1623"
+      }
+    ]
+  },
+  {
+    "id": "complex_499",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(16+8i)-(4+16i)+(14+6i)"
+      },
+      {
+        "from": "gpt",
+        "value": "(16+8i)-(4+16i)+(14+6i)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(16+8j)-(4+16j)+(14+6j)\"}}] </API> =>26.0-2.0i</thought> 26.0-2.0i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_199971",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请帮我找到7^2+4+sin(83)的答案。"
+      },
+      {
+        "from": "gpt",
+        "value": "7^2+4+sin(83)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"7^2+4+sin(83)\"}}] </API> => 53.9925</thought> 53.9925"
+      }
+    ]
+  },
+  {
+    "id": "计算器_63897",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请问32*48+sqrt(-4)*42如何计算"
+      },
+      {
+        "from": "gpt",
+        "value": "32*48+sqrt(-4)*42的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"32*48+sqrt(-4)*42\"}}] </API> => 1536.0+84.0i</thought> 1536.0+84.0i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_73876",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能帮我算出这个复杂的公式89-59+95-41+1-千分之七百四十的答案吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "89-59+95-41+1-千分之七百四十的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"89-59+95-41+1-(740*0.001)\"}}] </API> => 84.26</thought> 84.26"
+      }
+    ]
+  },
+  {
+    "id": "计算器_227194",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请找出九十六除以0+40+22^2的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "0不能作为除数,请检查算式"
+      }
+    ]
+  },
+  {
+    "id": "计算器_598367",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想知道这个复杂的算术公式76+15-17除以七十二的余数+31^2的答案"
+      },
+      {
+        "from": "gpt",
+        "value": "76+15-17除以七十二的余数+31^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"76+15-(17%72)+31^2\"}}] </API> => 1035</thought> 1035"
+      }
+    ]
+  },
+  {
+    "id": "计算器_461085",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "90+30-41+69-32-87+19除以78+30="
+      },
+      {
+        "from": "gpt",
+        "value": "90+30-41+69-32-87+19除以78+30的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"90+30-41+69-32-87+(19/78)+30\"}}] </API> => 59.2436</thought> 59.2436"
+      }
+    ]
+  },
+  {
+    "id": "计算器_364880",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "快帮我解答这个代数问题7-sqrt(-9)+53-52+30+73+24^2"
+      },
+      {
+        "from": "gpt",
+        "value": "7-sqrt(-9)+53-52+30+73+24^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"7-sqrt(-9)+53-52+30+73+24^2\"}}] </API> => 687.0-3.0i</thought> 687.0-3.0i"
+      }
+    ]
+  },
+  {
+    "id": "en_op_173",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-13.1 subtracts 83.0"
+      },
+      {
+        "from": "gpt",
+        "value": "-13.1 subtracts 83.0的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-13.1-83.0\"}}] </API> =>-96.1</thought> -96.1"
+      }
+    ]
+  },
+  {
+    "id": "计算器_299454",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "40-11+15%="
+      },
+      {
+        "from": "gpt",
+        "value": "40-11+15%的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"40-11+(15*0.01)\"}}] </API> => 29.15</thought> 29.15"
+      }
+    ]
+  },
+  {
+    "id": "计算器_83729",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "13+58的4次方根+5="
+      },
+      {
+        "from": "gpt",
+        "value": "13+58的4次方根+5的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"13+pow(58,1/4)+5\"}}] </API> => 20.7597</thought> 20.7597"
+      }
+    ]
+  },
+  {
+    "id": "计算器_752490",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能帮我计算98-23-38这个数学公式的结果吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "98-23-38的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"98-23-38\"}}] </API> => 37</thought> 37"
+      }
+    ]
+  },
+  {
+    "id": "计算器_629026",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "告诉我88+22+67的平方的答案"
+      },
+      {
+        "from": "gpt",
+        "value": "88+22+67^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"88+22+67^2\"}}] </API> => 4599</thought> 4599"
+      }
+    ]
+  },
+  {
+    "id": "en_op_1871",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-614 multiplies 10"
+      },
+      {
+        "from": "gpt",
+        "value": "-614 multiplies 10的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-614*10\"}}] </API> =>-6140</thought> -6140"
+      }
+    ]
+  },
+  {
+    "id": "计算器_150181",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "100+(3)^(10)+38^2=?"
+      },
+      {
+        "from": "gpt",
+        "value": "100+(3)^(10)+38^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"100+(3)^(10)+38^2\"}}] </API> => 60593</thought> 60593"
+      }
+    ]
+  },
+  {
+    "id": "计算器_41561",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你有能力解决98*4的阶乘这个问题吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "98*4的阶乘的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"98*(fact(4))\"}}] </API> => 2352</thought> 2352"
+      }
+    ]
+  },
+  {
+    "id": "计算器_558124",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "帮我计算这个数学表达式49+42+11的平方"
+      },
+      {
+        "from": "gpt",
+        "value": "49+42+11^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"49+42+11^2\"}}] </API> => 212</thought> 212"
+      }
+    ]
+  },
+  {
+    "id": "计算器_63869",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "95+(-5)^(-1)^2-37"
+      },
+      {
+        "from": "gpt",
+        "value": "95+(-5)^(-1)^2-37的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"95+(-5)^(-1)^2-37\"}}] </API> => 53</thought> 53"
+      }
+    ]
+  },
+  {
+    "id": "计算器_51709",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "96*43÷万分之八千七百零八"
+      },
+      {
+        "from": "gpt",
+        "value": "96*43÷万分之八千七百零八的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"96*43÷(8708*0.0001)\"}}] </API> => 4740.4685</thought> 4740.4685"
+      }
+    ]
+  },
+  {
+    "id": "计算器_288532",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请帮我找出这个数学问题48-23+100+75的解"
+      },
+      {
+        "from": "gpt",
+        "value": "48-23+100+75的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"48-23+100+75\"}}] </API> => 200</thought> 200"
+      }
+    ]
+  },
+  {
+    "id": "计算器_446565",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你知道66+60*54-48的解答吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "66+60*54-48的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"66+60*54-48\"}}] </API> => 3258</thought> 3258"
+      }
+    ]
+  },
+  {
+    "id": "计算器_291251",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "根号负二-64的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "根号负二-64的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"sqrt(-2)-64\"}}] </API> => -64.0+1.4142i</thought> -64.0+1.4142i"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_349",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-769.9823/776.401"
+      },
+      {
+        "from": "gpt",
+        "value": "-769.9823/776.401的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-769.9823/776.401\"}}] </API> =>-0.9917</thought> -0.9917"
+      }
+    ]
+  },
+  {
+    "id": "en_op_1024",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-383098 multiplies 57"
+      },
+      {
+        "from": "gpt",
+        "value": "-383098 multiplies 57的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-383098*57\"}}] </API> =>-21836586</thought> -21836586"
+      }
+    ]
+  },
+  {
+    "id": "计算器_266738",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "34+8+29÷20=?"
+      },
+      {
+        "from": "gpt",
+        "value": "34+8+29÷20的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"34+8+29÷20\"}}] </API> => 43.45</thought> 43.45"
+      }
+    ]
+  },
+  {
+    "id": "计算器_103699",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(97*35*3)^2-exp(-7)"
+      },
+      {
+        "from": "gpt",
+        "value": "(97*35*3)^2-exp(-7)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(97*35*3)^2-exp(-7)\"}}] </API> => 103734224.9991</thought> 103734224.9991"
+      }
+    ]
+  },
+  {
+    "id": "计算器_691557",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要91-92-67+60的平方-65的解答"
+      },
+      {
+        "from": "gpt",
+        "value": "91-92-67+60^2-65的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"91-92-67+60^2-65\"}}] </API> => 3467</thought> 3467"
+      }
+    ]
+  },
+  {
+    "id": "计算器_678738",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "计算18-27乘45-58+4-24+44乘69的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "18-27*45-58+4-24+44*69的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"18-27*45-58+4-24+44*69\"}}] </API> => 1761</thought> 1761"
+      }
+    ]
+  },
+  {
+    "id": "complex_1692",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(19+14i)*(17-2i)"
+      },
+      {
+        "from": "gpt",
+        "value": "(19+14i)*(17-2i)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(19+14j)*(17-2j)\"}}] </API> =>351.0+200.0i</thought> 351.0+200.0i"
+      }
+    ]
+  },
+  {
+    "id": "en_op_1197",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "6 divided by 34492"
+      },
+      {
+        "from": "gpt",
+        "value": "6 divided by 34492的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"6/34492\"}}] </API> =>0.0002</thought> 0.0002"
+      }
+    ]
+  },
+  {
+    "id": "en_op_1525",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "3 multiplies (-489)"
+      },
+      {
+        "from": "gpt",
+        "value": "3 multiplies (-489)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"3*(-489)\"}}] </API> =>-1467</thought> -1467"
+      }
+    ]
+  },
+  {
+    "id": "计算器_441074",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你知道63+cos(10/3pi)+78+89等于什么"
+      },
+      {
+        "from": "gpt",
+        "value": "63+cos(10/3*pi)+78+89的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"63+cos(10/3*pi)+78+89\"}}] </API> => 229.5</thought> 229.5"
+      }
+    ]
+  },
+  {
+    "id": "计算器_677492",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请提供76-35-82-49+87+26的立方的具体数值。"
+      },
+      {
+        "from": "gpt",
+        "value": "76-35-82-49+87+26^3的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"76-35-82-49+87+26^3\"}}] </API> => 17573</thought> 17573"
+      }
+    ]
+  },
+  {
+    "id": "en_op_301",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "57.175 adds (-34.473)"
+      },
+      {
+        "from": "gpt",
+        "value": "57.175 adds (-34.473)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"57.175+(-34.473)\"}}] </API> =>22.702</thought> 22.702"
+      }
+    ]
+  },
+  {
+    "id": "计算器_609606",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "21÷sqrt(12)"
+      },
+      {
+        "from": "gpt",
+        "value": "21÷sqrt(12)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"21÷sqrt(12)\"}}] </API> => 6.0622</thought> 6.0622"
+      }
+    ]
+  },
+  {
+    "id": "计算器_764205",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "六的阶乘+49^2 的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "六的阶乘+49^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(fact(6))+49^2\"}}] </API> => 3121</thought> 3121"
+      }
+    ]
+  },
+  {
+    "id": "en_op_300",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "51.79 subtracts 20.218"
+      },
+      {
+        "from": "gpt",
+        "value": "51.79 subtracts 20.218的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"51.79-20.218\"}}] </API> =>31.572</thought> 31.572"
+      }
+    ]
+  },
+  {
+    "id": "计算器_26183",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "91+e+2-6?"
+      },
+      {
+        "from": "gpt",
+        "value": "91+e+2-6的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"91+e+2-6\"}}] </API> => 89.7183</thought> 89.7183"
+      }
+    ]
+  },
+  {
+    "id": "计算器_745070",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请帮我解答这个代数表达式32*62+负三的平方根"
+      },
+      {
+        "from": "gpt",
+        "value": "32*62+负三的平方根的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"32*62+sqrt(-3)\"}}] </API> => 1984.0+1.7321i</thought> 1984.0+1.7321i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_736259",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要58+42的平方-87的解答"
+      },
+      {
+        "from": "gpt",
+        "value": "58+42^2-87的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"58+42^2-87\"}}] </API> => 1735</thought> 1735"
+      }
+    ]
+  },
+  {
+    "id": "计算器_203305",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "告诉我5+92的五次方根^2+53的答案"
+      },
+      {
+        "from": "gpt",
+        "value": "5+92的五次方根^2+53的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"5+pow(92,1/5)^2+53\"}}] </API> => 64.1026</thought> 64.1026"
+      }
+    ]
+  },
+  {
+    "id": "计算器_274718",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "5÷10-93除以83-58+(98+21+7^2)="
+      },
+      {
+        "from": "gpt",
+        "value": "5÷10-93除以83-58+(98+21+7^2)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"5÷10-(93/83)-58+(98+21+7^2)\"}}] </API> => 109.3795</thought> 109.3795"
+      }
+    ]
+  },
+  {
+    "id": "complex_603",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(20+11i)+(9-8i)*(17+4i)"
+      },
+      {
+        "from": "gpt",
+        "value": "(20+11i)+(9-8i)*(17+4i)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(20+11j)+(9-8j)*(17+4j)\"}}] </API> =>205.0-89.0i</thought> 205.0-89.0i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_444662",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "19-34-81+(负七.74)*59="
+      },
+      {
+        "from": "gpt",
+        "value": "19-34-81+(负七.74)*59的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"19-34-81+-7.74*59\"}}] </API> => -552.66</thought> -552.66"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_196",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(-1/23)^(-2)"
+      },
+      {
+        "from": "gpt",
+        "value": "(-1/23)^(-2)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(-1/23)**(-2)\"}}] </API> =>529.0</thought> 529.0"
+      }
+    ]
+  },
+  {
+    "id": "计算器_363866",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "9+(40点56)÷50+90÷32="
+      },
+      {
+        "from": "gpt",
+        "value": "9+(40点56)÷50+90÷32的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"9+40.56÷50+90÷32\"}}] </API> => 12.6237</thought> 12.6237"
+      }
+    ]
+  },
+  {
+    "id": "计算器_239595",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请找出27+32+29+65的平方的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "27+32+29+65^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"27+32+29+65^2\"}}] </API> => 4313</thought> 4313"
+      }
+    ]
+  },
+  {
+    "id": "计算器_478997",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能帮我解析这个复杂的表达式61+12*73吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "61+12*73的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"61+12*73\"}}] </API> => 937</thought> 937"
+      }
+    ]
+  },
+  {
+    "id": "计算器_537456",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能帮我计算53+42^2-69+sqrt(14)这个数学公式的结果吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "53+42^2-69+sqrt(14)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"53+42^2-69+sqrt(14)\"}}] </API> => 1751.7417</thought> 1751.7417"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_117",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(126/39)^(-3)"
+      },
+      {
+        "from": "gpt",
+        "value": "(126/39)^(-3)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(126/39)**(-3)\"}}] </API> =>0.0297</thought> 0.0297"
+      }
+    ]
+  },
+  {
+    "id": "计算器_459996",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我想知道26-50-59+42+一百分之八十九^2+95的值"
+      },
+      {
+        "from": "gpt",
+        "value": "26-50-59+42+一百分之八十九^2+95的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"26-50-59+42+(89/100)^2+95\"}}] </API> => 54.7921</thought> 54.7921"
+      }
+    ]
+  },
+  {
+    "id": "en_op_618",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-20.9 divided by 68.4927"
+      },
+      {
+        "from": "gpt",
+        "value": "-20.9 divided by 68.4927的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-20.9/68.4927\"}}] </API> =>-0.3051</thought> -0.3051"
+      }
+    ]
+  },
+  {
+    "id": "complex_330",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "(6-17i)+(5+7i)"
+      },
+      {
+        "from": "gpt",
+        "value": "(6-17i)+(5+7i)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(6-17j)+(5+7j)\"}}] </API> =>11.0-10.0i</thought> 11.0-10.0i"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_83",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "334.2807/700.2301"
+      },
+      {
+        "from": "gpt",
+        "value": "334.2807/700.2301的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"334.2807/700.2301\"}}] </API> =>0.4774</thought> 0.4774"
+      }
+    ]
+  },
+  {
+    "id": "计算器_476970",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "快帮我解答这个代数问题(5的平方+45)*74"
+      },
+      {
+        "from": "gpt",
+        "value": "(5^2+45)*74的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(5^2+45)*74\"}}] </API> => 5180</thought> 5180"
+      }
+    ]
+  },
+  {
+    "id": "计算器_289943",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "25的平方+85+63+42-44 的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "25^2+85+63+42-44的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"25^2+85+63+42-44\"}}] </API> => 771</thought> 771"
+      }
+    ]
+  },
+  {
+    "id": "计算器_66874",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "93*93+sqrt(13)的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "93*93+sqrt(13)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"93*93+sqrt(13)\"}}] </API> => 8652.6056</thought> 8652.6056"
+      }
+    ]
+  },
+  {
+    "id": "计算器_653353",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "76-tan(3/2*pi)+85+18-7+17*17="
+      },
+      {
+        "from": "gpt",
+        "value": "76-tan(3/2*pi)+85+18-7+17*17的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"76-tan(3/2*pi)+85+18-7+17*17\"}}] </API> => -5443746451064662.0</thought> -5443746451064662.0"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_48",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-186.3579/388.148"
+      },
+      {
+        "from": "gpt",
+        "value": "-186.3579/388.148的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-186.3579/388.148\"}}] </API> =>-0.4801</thought> -0.4801"
+      }
+    ]
+  },
+  {
+    "id": "计算器_148441",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "计算53*99+6-25-87+60的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "53*99+6-25-87+60的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"53*99+6-25-87+60\"}}] </API> => 5201</thought> 5201"
+      }
+    ]
+  },
+  {
+    "id": "计算器_659265",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "86+40+98%^2"
+      },
+      {
+        "from": "gpt",
+        "value": "86+40+98%^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"86+40+(98*0.01)^2\"}}] </API> => 126.9604</thought> 126.9604"
+      }
+    ]
+  },
+  {
+    "id": "计算器_49653",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "46+20+2-85-90%+4+78=?"
+      },
+      {
+        "from": "gpt",
+        "value": "46+20+2-85-90%+4+78的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"46+20+2-85-(90*0.01)+4+78\"}}] </API> => 64.1</thought> 64.1"
+      }
+    ]
+  },
+  {
+    "id": "计算器_337960",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "23+90-sqrt(-8)=?"
+      },
+      {
+        "from": "gpt",
+        "value": "23+90-sqrt(-8)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"23+90-sqrt(-8)\"}}] </API> => 113.0-2.8284i</thought> 113.0-2.8284i"
+      }
+    ]
+  },
+  {
+    "id": "计算器_598195",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "49%-44+64-93+22+77="
+      },
+      {
+        "from": "gpt",
+        "value": "49%-44+64-93+22+77的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(49*0.01)-44+64-93+22+77\"}}] </API> => 26.49</thought> 26.49"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_60",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "-160/536"
+      },
+      {
+        "from": "gpt",
+        "value": "-160/536的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"-160/536\"}}] </API> =>-0.2985</thought> -0.2985"
+      }
+    ]
+  },
+  {
+    "id": "计算器_8159",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "77+41+五的阶乘+88+1?"
+      },
+      {
+        "from": "gpt",
+        "value": "77+41+五的阶乘+88+1的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"77+41+(fact(5))+88+1\"}}] </API> => 327</thought> 327"
+      }
+    ]
+  },
+  {
+    "id": "计算器_364074",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要知道这个公式78-负九的-2次幂+49*20-67+60的答案"
+      },
+      {
+        "from": "gpt",
+        "value": "78-负九的-2次幂+49*20-67+60的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"78-(-9)^(-2)+49*20-67+60\"}}] </API> => 1050.9877</thought> 1050.9877"
+      }
+    ]
+  },
+  {
+    "id": "计算器_534744",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "帮我计算这个数学表达式77的立方+56+88"
+      },
+      {
+        "from": "gpt",
+        "value": "77^3+56+88的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"77^3+56+88\"}}] </API> => 456677</thought> 456677"
+      }
+    ]
+  },
+  {
+    "id": "计算器_688716",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "90+64^2+78%八十一-56-71+61"
+      },
+      {
+        "from": "gpt",
+        "value": "90+64^2+78%八十一-56-71+61的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"90+64^2+(78%81)-56-71+61\"}}] </API> => 4198</thought> 4198"
+      }
+    ]
+  },
+  {
+    "id": "计算器_519194",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "73+3*39-25-(80.二一)+81+38-100"
+      },
+      {
+        "from": "gpt",
+        "value": "73+3*39-25-(80.二一)+81+38-100的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"73+3*39-25-80.21+81+38-100\"}}] </API> => 103.79</thought> 103.79"
+      }
+    ]
+  },
+  {
+    "id": "计算器_448237",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "57-13+ln(16)="
+      },
+      {
+        "from": "gpt",
+        "value": "57-13+ln(16)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"57-13+log(16)\"}}] </API> => 46.7726</thought> 46.7726"
+      }
+    ]
+  },
+  {
+    "id": "计算器_346590",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "63+67+ln(66)="
+      },
+      {
+        "from": "gpt",
+        "value": "63+67+ln(66)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"63+67+log(66)\"}}] </API> => 134.1897</thought> 134.1897"
+      }
+    ]
+  },
+  {
+    "id": "计算器_213580",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "29乘以56-51=?"
+      },
+      {
+        "from": "gpt",
+        "value": "29*56-51的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"29*56-51\"}}] </API> => 1573</thought> 1573"
+      }
+    ]
+  },
+  {
+    "id": "计算器_135067",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请找出86*64+根号十五-79+97-78的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "86*64+根号十五-79+97-78的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"86*64+sqrt(15)-79+97-78\"}}] </API> => 5447.873</thought> 5447.873"
+      }
+    ]
+  },
+  {
+    "id": "计算器_767267",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "71乘94+53+16-68的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "71*94+53+16-68的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"71*94+53+16-68\"}}] </API> => 6675</thought> 6675"
+      }
+    ]
+  },
+  {
+    "id": "计算器_609308",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "85+87+12的立方-59的确切数值是多少？"
+      },
+      {
+        "from": "gpt",
+        "value": "85+87+12^3-59的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"85+87+12^3-59\"}}] </API> => 1841</thought> 1841"
+      }
+    ]
+  },
+  {
+    "id": "计算器_125397",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "计算 74^2+97-7%+76-51+100+60"
+      },
+      {
+        "from": "gpt",
+        "value": "74^2+97-7%+76-51+100+60的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"74^2+97-(7*0.01)+76-51+100+60\"}}] </API> => 5757.93</thought> 5757.93"
+      }
+    ]
+  },
+  {
+    "id": "计算器_714150",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能揭示74-34-(四十一.24)÷16+59的答案吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "74-34-(四十一.24)÷16+59的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"74-34-41.24÷16+59\"}}] </API> => 96.4225</thought> 96.4225"
+      }
+    ]
+  },
+  {
+    "id": "计算器_553744",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "请帮我解答这个复杂的公式(51+73^2-73)*44-64"
+      },
+      {
+        "from": "gpt",
+        "value": "(51+73^2-73)*44-64的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(51+73^2-73)*44-64\"}}] </API> => 233444</thought> 233444"
+      }
+    ]
+  },
+  {
+    "id": "计算器_171167",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "对于61*(36^2+97)，你认为应该是多少呢？"
+      },
+      {
+        "from": "gpt",
+        "value": "61*(36^2+97)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"61*(36^2+97)\"}}] </API> => 84973</thought> 84973"
+      }
+    ]
+  },
+  {
+    "id": "计算器_603373",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "解决一下49的平方-67+23+49-51"
+      },
+      {
+        "from": "gpt",
+        "value": "49^2-67+23+49-51的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"49^2-67+23+49-51\"}}] </API> => 2355</thought> 2355"
+      }
+    ]
+  },
+  {
+    "id": "patch_0803_413",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "log 6(2309)"
+      },
+      {
+        "from": "gpt",
+        "value": "log 6(2309)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"log(2309,6)\"}}] </API> =>4.3223</thought> 4.3223"
+      }
+    ]
+  },
+  {
+    "id": "计算器_709482",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "77*(62+6-14除以七十八)^2"
+      },
+      {
+        "from": "gpt",
+        "value": "77*(62+6-14除以七十八)^2的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"77*(62+6-(14/78))^2\"}}] </API> => 354170.8909</thought> 354170.8909"
+      }
+    ]
+  },
+  {
+    "id": "计算器_90878",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "26分之100+5+9 的结果"
+      },
+      {
+        "from": "gpt",
+        "value": "26分之100+5+9的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(100/26)+5+9\"}}] </API> => 17.8462</thought> 17.8462"
+      }
+    ]
+  },
+  {
+    "id": "计算器_10748",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "计算 72^2乘79"
+      },
+      {
+        "from": "gpt",
+        "value": "72^2*79的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"72^2*79\"}}] </API> => 409536</thought> 409536"
+      }
+    ]
+  },
+  {
+    "id": "计算器_63729",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "你能帮我解析这个复杂的表达式92*23-25-(28.二七)吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "92*23-25-(28.二七)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"92*23-25-28.27\"}}] </API> => 2062.73</thought> 2062.73"
+      }
+    ]
+  },
+  {
+    "id": "计算器_1005196",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我对65的立方+56-74+48的解答感到好奇，你能帮我吗？"
+      },
+      {
+        "from": "gpt",
+        "value": "65^3+56-74+48的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"65^3+56-74+48\"}}] </API> => 274655</thought> 274655"
+      }
+    ]
+  },
+  {
+    "id": "计算器_42453",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "74^2-63-13+100-57-(十七.五一)=？"
+      },
+      {
+        "from": "gpt",
+        "value": "74^2-63-13+100-57-(十七.五一)的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"74^2-63-13+100-57-17.51\"}}] </API> => 5425.49</thought> 5425.49"
+      }
+    ]
+  },
+  {
+    "id": "计算器_153105",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "我需要6%+9-67+32+21^2-76-40的解答"
+      },
+      {
+        "from": "gpt",
+        "value": "6%+9-67+32+21^2-76-40的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"(6*0.01)+9-67+32+21^2-76-40\"}}] </API> => 299.06</thought> 299.06"
+      }
+    ]
+  },
+  {
+    "id": "计算器_736739",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "exp(二)+56+97"
+      },
+      {
+        "from": "gpt",
+        "value": "exp(二)+56+97的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"exp(2)+56+97\"}}] </API> => 160.3891</thought> 160.3891"
+      }
+    ]
+  },
+  {
+    "id": "计算器_215575",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "80+43+sin(139)÷96-9-24+33=?"
+      },
+      {
+        "from": "gpt",
+        "value": "80+43+sin(139)÷96-9-24+33的结果是<thought>涉及到计算，我需要在这里调用 Calculator API <API>[{\"ActionName\": \"Calculator\", \"Args\": {\"equation\": \"80+43+sin(139)÷96-9-24+33\"}}] </API> => 123.0068</thought> 123.0068"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "path": "../data/op_data_5w.json",
+        "sample_ratio": 1,
+        "data_length": 50000
+    },
+    {
+        "path": "../data/general_train_data_gpt4.json",
+        "data_name": "通用数据-指令微调",
+        "sample_ratio": 0.1666666,
+        "data_length": 60000
+    },
+    {
+        "path": "../data/api_train_data.json",
+        "data_name": "内容云-应用题数据",
+        "sample_ratio": 0.08333333,
+        "data_length": 120000
+    }
+]

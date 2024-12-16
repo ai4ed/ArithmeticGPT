@@ -1,0 +1,13 @@
+[
+    {
+        "path": "../data/op_data_10w.json",
+        "sample_ratio": 1,
+        "data_length": 99988
+    },
+    {
+        "path": "../data/general_train_data_gpt4.json",
+        "data_name": "通用数据-指令微调",
+        "sample_ratio": 0.833333,
+        "data_length": 60000
+    }
+]
